@@ -1,0 +1,16 @@
+# OCR output
+ocr_results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# uv
+.python-version
+uv.lock
+
+# macOS
+.DS_Store

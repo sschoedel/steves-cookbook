@@ -3,7 +3,7 @@
 A project to digitize and organize Steve's recipe collection using OCR.
 
 
-# Links to other stuff for the book
+## Links to other stuff for the book
 
 [Google drive](https://drive.google.com/drive/u/1/folders/1eO6RyhQZDLNymlWQQEzrwprbBvPX_pjM)
 

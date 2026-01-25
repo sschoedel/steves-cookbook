@@ -34,15 +34,20 @@ The processing pipeline has 4 passes:
 ```
 steves-cookbook/
 ├── claude.md                    # This file - project context
-├── ocr_test.py                  # Single image OCR test script
-├── ocr_batch.py                 # Pass 1: Batch OCR script
-├── structure_recipes.py         # Heuristic-based structuring (deprecated - didn't work well)
-├── structure_recipes_llm.py     # LLM-based structuring script (not used)
 ├── recipe_sections.json         # Pass 3: Section schema
+├── pyproject.toml               # Python project config (uses uv)
+├── scripts/
+│   ├── ocr_batch.py             # Pass 1: Batch OCR script
+│   ├── ocr_test.py              # Single image OCR test script
+│   ├── unify_recipes.py         # Pass 2: Main unification script
+│   ├── merge_pages.py           # Pass 2 helper: Merge multi-page recipes
+│   ├── rename_helper.py         # Pass 2 helper: Rename poorly-named files
+│   └── cleanup_html_entities.py # Pass 2 helper: Clean HTML entities
+├── prompts/
+│   └── structuring-prompt.md    # Prompt for Pass 4 recipe structuring
 ├── ocr_results/                 # Pass 1 output: Raw OCR (1 txt per image)
 ├── ocr_results_unified/         # Pass 2 output: Combined recipes (109 txt files)
-├── recipes_structured/          # Pass 4 output: Final JSON (108 files)
-└── pyproject.toml               # Python project config (uses uv)
+└── recipes_structured/          # Pass 4 output: Final JSON (108 files)
 ```
 
 ## Recipe JSON Schema
@@ -121,8 +126,8 @@ The `category` field is `null` by default. User should manually update to classi
 - Mistral API for OCR (requires `MISTRAL_API_KEY`)
 - Anthropic API available but not used for structuring (requires `ANTHROPIC_API_KEY`)
 
-### Why Heuristic Script Failed
-The initial `structure_recipes.py` used regex-based extraction but failed due to:
+### Why Heuristic Approach Failed
+An initial attempt at regex-based extraction failed due to:
 - Varied formats (markdown, handwritten-style, two-column layouts, plain text)
 - Inconsistent ingredient formatting across recipes
 - OCR artifacts and formatting variations

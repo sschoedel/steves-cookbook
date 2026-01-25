@@ -1,0 +1,7 @@
+To set your page size and margins properly click the **Page Layout** tab, then the **Margins** drop down. Choose the **Custom Margins** option. This will bring up the **Page Setup** box. Set your top and bottom margins to a minimum 0.44" and your left and right for 1". You may choose larger depending on the desired look of your book, but these are the lowest recommended margins.
+
+From there you can click the **Paper** tab to adjust your page size. Enter in **8.25"** for the width and **10.25"** for the height. Your book will be trimmed to **8" x 10"** when finished.
+
+In other versions you can access this by simply choosing **File** then **Page Setup**. Under the paper size drop down choose **Manage Custom Sizes** then enter **8.25"** for the width and **10.25"** for the height.
+
+For these versions editing the margin is as simple as double clicking on the rulers on the top or left of your page and entering the values of top and bottom to a minimum 0.44" and left and right for 1".

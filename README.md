@@ -2,6 +2,12 @@
 
 A project to digitize and organize Steve's recipe collection using OCR.
 
+
+# Links to other stuff for the book
+
+[Google drive](https://drive.google.com/drive/u/1/folders/1eO6RyhQZDLNymlWQQEzrwprbBvPX_pjM)
+
+
 ## Overview
 
 This repository contains a 4-pass pipeline that converts ~180 recipe images (photos of handwritten recipes, screenshots from websites, etc.) into structured JSON files suitable for database storage.
@@ -88,8 +94,3 @@ Each recipe in `recipes_structured/` follows this schema:
 ## Documentation
 
 See `claude.md` for detailed project context, tag vocabulary, and technical notes.
-
-
-# Links to other data for the book
-
-[Google drive](https://drive.google.com/drive/u/1/folders/1eO6RyhQZDLNymlWQQEzrwprbBvPX_pjM)

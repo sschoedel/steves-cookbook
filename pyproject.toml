@@ -1,10 +1,10 @@
 [project]
 name = "steves-cookbook"
 version = "0.1.0"
-description = "Add your description here"
+description = "Tools for digitizing Steve's recipe collection"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.12"
 dependencies = [
-    "pillow>=11.3.0",
-    "pytesseract>=0.3.13",
+    "anthropic>=0.76.0",
+    "mistralai>=1.10.0",
 ]

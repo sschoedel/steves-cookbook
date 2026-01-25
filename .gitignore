@@ -1,6 +1,9 @@
 # OCR output
 ocr_results/
 
+# Raw images (too large for git)
+raw_images/
+
 # Python
 __pycache__/
 *.py[cod]

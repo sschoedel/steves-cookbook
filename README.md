@@ -4,27 +4,22 @@ A project to digitize and organize Steve's recipe collection.
 
 ## Overview
 
-This repository contains tools and resources for creating a personalized cookbook from a collection of recipes. The initial focus is on digitizing paper recipes using OCR (Optical Character Recognition).
+This repository contains tools for creating a personalized cookbook from a collection of recipes. The initial focus is on digitizing paper recipes using OCR (Optical Character Recognition) via Mistral AI.
 
 ## Setup
 
 ### Prerequisites
 
-- Python 3.9+
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - Install via Homebrew:
-  ```bash
-  brew install tesseract
-  ```
+- Python 3.12+
+- [uv](https://github.com/astral-sh/uv) package manager
+- Mistral API key from https://console.mistral.ai/
 
 ### Installation
 
 ```bash
-# Clone the repository
-git clone <repo-url>
 cd steves-cookbook
-
-# Install dependencies with uv
 uv sync
+export MISTRAL_API_KEY=your_api_key_here
 ```
 
 ## Usage
@@ -32,13 +27,20 @@ uv sync
 ### OCR a single recipe image
 
 ```bash
-uv run python ocr_test.py /path/to/recipe_image.jpg
+uv run ocr_test.py /path/to/recipe_image.jpg
 ```
 
-This will:
-- Extract text from the image using Tesseract
-- Print the extracted text to the terminal
-- Save the text to `ocr_results/<image_name>.txt`
+Supports HEIC files from iPhone (auto-converts to JPG):
+```bash
+uv run ocr_test.py IMG_1234.HEIC
+```
+
+To save the intermediate JPG conversion:
+```bash
+uv run ocr_test.py IMG_1234.HEIC --save-intermediate-jpg
+```
+
+Output is saved to `ocr_results/<image_name>.txt`
 
 ## Project Structure
 

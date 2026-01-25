@@ -1,6 +1,6 @@
 # Steve's Cookbook
 
-A project to digitize and organize Steve's recipe collection using OCR and AI-powered structuring.
+A project to digitize and organize Steve's recipe collection using OCR.
 
 ## Overview
 

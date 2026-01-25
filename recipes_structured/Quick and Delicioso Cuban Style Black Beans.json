@@ -1,0 +1,40 @@
+{
+  "name": "Quick and Delicioso Cuban Style Black Beans",
+  "source": "Skinnytaste",
+  "source_file": "Quick and Delicioso Cuban Style Black Beans.txt",
+  "description": "Cuban inspired black beans loaded with flavor! Easy to make and ready in twenty minutes. Low fat, super high in fiber, vegan, gluten free, inexpensive and delicioso!",
+  "total_time": "30 minutes",
+  "servings": "4",
+  "ingredients": [
+    "2 tsp olive oil",
+    "1/2 onion",
+    "2 cloves garlic",
+    "2 scallions",
+    "2 tbsp red bell pepper",
+    "3 tbsp cilantro",
+    "15 oz can black beans (do not drain)",
+    "1/2 cup water (or more if needed)",
+    "1 bay leaf",
+    "Few pinches cumin (to taste)",
+    "Pinch oregano",
+    "1 tsp red wine vinegar",
+    "Salt and black pepper to taste"
+  ],
+  "instructions": [
+    "Chop onion, garlic, scallions, red pepper, and cilantro in a mini chopper or food processor.",
+    "Add oil to a medium-sized pot on medium heat.",
+    "Add vegetables to the pot and saute until soft, about 3 minutes.",
+    "Add beans, water, bay leaf, cumin, oregano, red wine vinegar, salt and black pepper and bring to a boil.",
+    "Lower heat and cover, simmer about 15 minutes stirring occasionally (adjust water as needed).",
+    "Taste for salt and serve."
+  ],
+  "nutrition": {
+    "calories": "114",
+    "carbohydrates": "20g",
+    "protein": "7g",
+    "fat": "3g",
+    "fiber": "6g"
+  },
+  "category": null,
+  "tags": ["side dish", "cuban", "vegan", "vegetarian", "gluten-free", "healthy", "beans", "quick"]
+}

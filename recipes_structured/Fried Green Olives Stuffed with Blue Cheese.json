@@ -1,0 +1,36 @@
+{
+  "name": "Fried Green Olives Stuffed with Blue Cheese",
+  "source": "Epicurious / Bon Appetit",
+  "source_file": "Fried Green Olives Stuffed with Blue Cheese.txt",
+  "description": "Crispy fried olives stuffed with blue cheese - a perfect appetizer.",
+  "servings": "6",
+  "ingredients": [
+    "Oil for frying (enough to measure 1 inch depth)",
+    "Green olives, stuffed with blue cheese",
+    "Flour, for dredging",
+    "Egg, beaten",
+    "Breadcrumbs"
+  ],
+  "instructions": [
+    "Pour enough oil into a heavy large skillet to measure depth of 1 inch. Heat oil to 350°F.",
+    "Roll stuffed olives in flour, then in egg, then in breadcrumbs to coat.",
+    "Fry olives until golden brown, about 30 seconds.",
+    "Using slotted spoon, transfer olives to paper towels to drain.",
+    "Serve hot."
+  ],
+  "notes": [
+    "Recipe text appears to be partial - may be missing full ingredient quantities."
+  ],
+  "nutrition": {
+    "calories": "125",
+    "carbohydrates": "8g",
+    "fat": "9g",
+    "protein": "3g",
+    "saturated_fat": "2g",
+    "sodium": "211mg",
+    "fiber": "1g",
+    "cholesterol": "35mg"
+  },
+  "category": null,
+  "tags": ["appetizer", "fried", "entertaining"]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Chicken Penne with Mushrooms and Cream",
+  "source_file": "Chicken Penne with Mushrooms and Cream.txt",
+  "description": "Creamy pasta with chicken, mushrooms, tomatoes, and white wine.",
+  "prep_time": "30 minutes",
+  "cook_time": "25 minutes",
+  "servings": "4",
+  "ingredients": [
+    "Chicken, cut into pieces",
+    "Mushrooms, sliced",
+    "Tomato, chopped",
+    "Tomato paste",
+    "White wine",
+    "Heavy cream",
+    "Salt and pepper",
+    "Penne pasta",
+    "Parmesan cheese, for serving"
+  ],
+  "instructions": [
+    "Add chicken and cook over medium heat for 3 minutes.",
+    "Add mushrooms and cook another 2 minutes.",
+    "Add tomato and tomato paste and stir until combined.",
+    "Stir in wine and bring to a boil. Reduce heat and simmer until liquid is reduced by half.",
+    "Stir in the cream and salt and pepper to taste, and bring to a boil. Reduce heat and simmer until sauce begins to thicken.",
+    "While sauce is cooking, cook penne in a large pan of rapidly boiling salted water until al dente. Drain well and return to pan.",
+    "Add sauce to pasta and toss. Serve immediately, sprinkled with Parmesan."
+  ],
+  "notes": [
+    "Recipe text may be incomplete - missing initial ingredient quantities."
+  ],
+  "category": null,
+  "tags": ["dinner", "chicken", "pasta", "italian", "creamy"]
+}

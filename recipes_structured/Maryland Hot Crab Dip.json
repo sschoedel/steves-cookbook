@@ -1,0 +1,48 @@
+{
+  "name": "Maryland Hot Crab Dip",
+  "source_file": "Maryland Hot Crab Dip.txt",
+  "description": "A creamy, cheesy, hot crab dip perfect for get-togethers or game-day celebrations. Sweet lump crabmeat blended with cream cheese, sour cream, cheddar cheese, and the perfect combination of seasonings.",
+  "prep_time": "10 minutes",
+  "cook_time": "35 minutes",
+  "total_time": "45 minutes",
+  "servings": "8",
+  "ingredients": [
+    "8 ounces block cream cheese, room temperature",
+    "1/4 cup mayonnaise",
+    "1/2 cup sour cream",
+    "1 cup shredded cheddar cheese",
+    "1 teaspoon dry mustard",
+    "1 teaspoon lemon juice",
+    "2 teaspoons Old Bay seasoning",
+    "2 teaspoons Worcestershire sauce",
+    "1 pound fresh lump crab meat",
+    "1/4 cup shredded cheddar cheese for topping",
+    "1 tsp Italian parsley, finely chopped for garnish"
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "In a large mixing bowl using a handheld mixer (or stand mixer), beat the cream cheese on medium-high speed until smooth and creamy (1-2 minutes).",
+    "Add the mayonnaise and sour cream to the whipped cream cheese.",
+    "Beat on medium-high speed until combined.",
+    "Add the cheddar cheese, Old Bay seasoning, mustard powder, lemon juice, and Worcestershire sauce to the cream cheese mixture.",
+    "Beat on medium-high speed until combined.",
+    "Add the crab meat to the cream cheese mixture and using a rubber spatula gently fold in the crab meat until combined.",
+    "Add the crab dip mixture to one larger or two small casserole dishes.",
+    "Top the crab dip with shredded cheddar cheese and chopped Italian parsley (optional) or sprinkle Old Bay Seasoning on top of the cheese.",
+    "Bake the crab dip for 30-35 minutes until the dip is hot and bubbly around the edges or until the internal temperature of the crab dip reaches a minimum of 165 degrees F.",
+    "Serve the crab dip warm with your favorite chips, celery and carrot sticks."
+  ],
+  "nutrition": {
+    "calories": "230",
+    "carbohydrates": "4g",
+    "protein": "19g",
+    "fat": "15g",
+    "saturated_fat": "6g",
+    "cholesterol": "56mg",
+    "sodium": "857mg",
+    "fiber": "0.1g",
+    "sugar": "2g"
+  },
+  "category": null,
+  "tags": ["appetizer", "seafood", "american", "party food", "dip", "baked"]
+}

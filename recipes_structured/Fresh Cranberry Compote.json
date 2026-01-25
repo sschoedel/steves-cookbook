@@ -1,0 +1,36 @@
+{
+  "name": "Fresh Cranberry Compote",
+  "source": "Better Homes and Gardens",
+  "source_file": "Fresh Cranberry Compote.txt",
+  "description": "Serve any leftover compote on buttered bread, with pound cake, over ice cream, or on leftover turkey sandwiches.",
+  "prep_time": "15 minutes",
+  "total_time": "6+ hours (including standing time)",
+  "servings": "8-10",
+  "ingredients": [
+    "2 (12-oz) bags fresh cranberries",
+    "2 oranges, seeded and coarsely chopped",
+    "1 large Granny Smith apple, peeled, cored, and coarsely chopped",
+    "1/4 cup Grand Marnier or orange juice",
+    "1 cup white sugar",
+    "2 whole cinnamon sticks",
+    "1/2 teaspoon fresh shaved nutmeg"
+  ],
+  "instructions": [
+    "Place cranberries, oranges, and apple in a food processor (in batches if needed). Pulse 8 to 10 times or until mixture is coarsely chopped.",
+    "Transfer to a large bowl and add the Grand Marnier, sugar, cinnamon, and nutmeg. Mix well to incorporate.",
+    "Cover with plastic and let stand at room temperature for at least 6 hours or, ideally, overnight (refrigerate if using orange juice rather than Grand Marnier). This will allow the fruit to macerate and break down into a sauce.",
+    "After 6 hours, taste and adjust sweetness with additional sugar as desired.",
+    "Refrigerate and store up to 2 weeks. Remove cinnamon sticks before serving."
+  ],
+  "nutrition": {
+    "calories": "70",
+    "fat": "0g",
+    "cholesterol": "0mg",
+    "sodium": "1mg",
+    "carbohydrates": "17g",
+    "fiber": "2g",
+    "protein": "0g"
+  },
+  "category": null,
+  "tags": ["side dish", "dessert", "sweet", "holiday", "fall", "make-ahead"]
+}

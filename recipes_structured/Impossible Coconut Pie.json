@@ -1,0 +1,29 @@
+{
+  "name": "Impossible Coconut Pie",
+  "source_file": "Impossible Coconut Pie.txt",
+  "description": "A self-crusting coconut pie that creates its own crust as it bakes.",
+  "prep_time": "20 minutes",
+  "total_time": "1 hour 30 minutes",
+  "servings": "2 pies",
+  "ingredients": [
+    "1 stick unsalted butter, melted, plus more for greasing",
+    "1 3/4 cups sugar",
+    "4 large eggs",
+    "1/2 cup self-rising flour",
+    "2 cups sweetened shredded coconut",
+    "2 cups milk"
+  ],
+  "instructions": [
+    "Preheat oven to 350°F. Butter two pie pans.",
+    "In a large bowl, whisk melted butter with sugar.",
+    "Stir in flour, coconut and milk. Add eggs and beat until smooth.",
+    "Divide mixture between pie plates.",
+    "Bake in lower 1/3 of oven for about 1 hour until pies are firm to the touch and golden.",
+    "Transfer pies to a rack and cool completely before serving."
+  ],
+  "notes": [
+    "Pies can be refrigerated overnight. Return them to room temperature before serving."
+  ],
+  "category": null,
+  "tags": ["dessert", "baked", "sweet", "american"]
+}

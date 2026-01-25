@@ -1,0 +1,74 @@
+{
+  "name": "Corn and Avocado Salad with Pan Seared Halibut",
+  "source_file": "Corn and Avocado Salad with Pan Seared Halibut.txt",
+  "author": "Lauren",
+  "description": "Corn and avocado salad is so full of light and fresh flavors and goes perfectly with easy pan-seared halibut for a meal that's healthy and filling!",
+  "prep_time": "15 minutes",
+  "cook_time": "15 minutes",
+  "total_time": "30 minutes",
+  "servings": "4",
+  "ingredient_groups": {
+    "Salad": [
+      "4 ears corn on the cob",
+      "2 avocados, diced",
+      "2 cups arugula",
+      "2 cups cherry tomatoes, halved",
+      "1/2 cup feta cheese crumbles",
+      "1 tablespoon fresh mint leaves, roughly chopped"
+    ],
+    "Lime Mint Dressing": [
+      "1/4 cup extra virgin olive oil",
+      "2 tablespoons lime juice",
+      "1 tablespoon honey",
+      "Pinch of salt (less than 1/8 teaspoon)",
+      "Pinch of white pepper (less than 1/8 teaspoon)",
+      "1 tablespoon mint leaves"
+    ],
+    "Halibut": [
+      "2 to 4 halibut fillets, 6 to 8 ounces each",
+      "Salt and fresh black pepper",
+      "1/4 cup canola oil"
+    ]
+  },
+  "ingredients": [
+    "4 ears corn on the cob",
+    "2 avocados, diced",
+    "2 cups arugula",
+    "2 cups cherry tomatoes, halved",
+    "1/2 cup feta cheese crumbles",
+    "1 tablespoon fresh mint leaves, roughly chopped",
+    "1/4 cup extra virgin olive oil",
+    "2 tablespoons lime juice",
+    "1 tablespoon honey",
+    "Pinch of salt",
+    "Pinch of white pepper",
+    "2 to 4 halibut fillets, 6 to 8 ounces each",
+    "1/4 cup canola oil for searing"
+  ],
+  "instructions": [
+    "Prep the corn: Bring a large pot of lightly salted water to a boil. Shuck the corn of the husk and silk. Carefully add to the pot of hot water and cook for 5 minutes. Drain and let cool. Once cool, cut the corn off the cob and set aside.",
+    "Make the dressing: In a bowl, whisk together the 1/4 cup olive oil, 2 tablespoons lime juice, 1 tablespoon honey, pinch of salt and white pepper, and 1 tablespoon fresh mint. For an emulsified dressing, combine all ingredients except olive oil using an immersion blender, then add oil in a slow steady stream while blending.",
+    "Make the salad: In a large bowl or platter, spread the arugula over the bottom. Top with halved cherry tomatoes, diced avocado, feta, corn, and fresh mint. Drizzle the dressing over the salad.",
+    "Sear the halibut: Pat the fillets with a paper towel to absorb any excess moisture. Season generously with salt and fresh black pepper. Heat 1/4 cup canola oil in a saute pan over high heat. When the oil is hot, carefully place the fillets skin side up and lower the heat to medium-high. Cook for 5 minutes, lower the heat again to medium and flip the halibut to skin side down. Cook for another 4 to 5 minutes or until the center of the fish reaches 140°F.",
+    "Serve the fish on top of the salad or alongside."
+  ],
+  "notes": [
+    "This salad is a great way to use up leftover corn on the cob!",
+    "Alternatively to boiling the corn, you can grill it or cut it off the cob and toast it in a cast iron pan with a little drizzle of oil.",
+    "Want a little more savory? Try adding crispy bacon or prosciutto!",
+    "Because of the avocado, this salad does not make for great leftovers so eat it the day you make it!"
+  ],
+  "nutrition": {
+    "calories": "520",
+    "carbohydrates": "35g",
+    "protein": "25g",
+    "fat": "35g",
+    "saturated_fat": "7g",
+    "cholesterol": "58mg",
+    "sodium": "300mg",
+    "fiber": "9g",
+    "sugar": "14g"
+  },
+  "category": null,
+  "tags": ["dinner", "fish", "salad", "healthy", "american", "fresh", "summer"]
+}

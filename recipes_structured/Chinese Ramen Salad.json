@@ -1,0 +1,50 @@
+{
+  "name": "Chinese Ramen Salad",
+  "source": "Creations by Kara",
+  "source_file": "Chinese Ramen Salad.txt",
+  "description": "Healthy cabbage salad with chicken, Asian dressing, and an unbeatable crunchy ramen noodle topping.",
+  "prep_time": "25 minutes",
+  "total_time": "25 minutes",
+  "servings": "6",
+  "ingredient_groups": {
+    "Salad": [
+      "1/2 head cabbage, shredded",
+      "1/2 head iceberg lettuce, shredded",
+      "3 green onions, sliced",
+      "1 pkg ramen noodles",
+      "2 tablespoons sesame seeds",
+      "1/4 cup sliced almonds",
+      "1 tablespoon butter",
+      "2 chicken breasts, cooked and diced"
+    ],
+    "Dressing": [
+      "3 tablespoons sugar",
+      "3 tablespoons olive oil",
+      "3 tablespoons soy sauce",
+      "1 1/2 tablespoons vinegar",
+      "Seasoning packet from the ramen"
+    ]
+  },
+  "ingredients": [
+    "1/2 head cabbage, shredded",
+    "1/2 head iceberg lettuce, shredded",
+    "3 green onions, sliced",
+    "1 pkg ramen noodles",
+    "2 tablespoons sesame seeds",
+    "1/4 cup sliced almonds",
+    "1 tablespoon butter",
+    "2 chicken breasts, cooked and diced",
+    "3 tablespoons sugar",
+    "3 tablespoons olive oil",
+    "3 tablespoons soy sauce",
+    "1 1/2 tablespoons vinegar"
+  ],
+  "instructions": [
+    "Place ramen noodles, sesame seeds, almonds, and butter in a pie plate. Bake at 350°F for 10-15 minutes or until lightly browned, stirring occasionally. Let cool.",
+    "Combine sugar, olive oil, soy sauce, vinegar, and seasoning packet in a small bowl and whisk until combined. Set aside, stirring occasionally until sugar is dissolved.",
+    "Chop cabbage and lettuce, place in a large serving bowl. Add green onions and cooked chicken.",
+    "Just before serving, stir in the dressing and the cooled ramen noodle mixture."
+  ],
+  "category": null,
+  "tags": ["salad", "chicken", "chinese", "asian", "healthy", "quick"]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "BB's Apple Cake",
+  "source_file": "BB's Apple Cake.txt",
+  "description": "A classic apple cake with layers of cinnamon-sugar apples in a dense, rich batter.",
+  "ingredients": [
+    "4 large apples, pared and sliced thin",
+    "3 teaspoons cinnamon",
+    "1/2 cup sugar (for apples)",
+    "2 1/4 cups sugar",
+    "4 eggs",
+    "1 cup oil",
+    "1/2 teaspoon salt",
+    "7 tablespoons orange juice",
+    "2 1/2 teaspoons vanilla",
+    "3 cups flour",
+    "3 teaspoons baking powder"
+  ],
+  "instructions": [
+    "Pare and slice apples thin. Add cinnamon and 1/2 cup sugar to the apples and set aside.",
+    "Dump dry ingredients (flour, 2 1/4 cups sugar, baking powder, salt) into a large mixing bowl.",
+    "Add liquid ingredients (eggs, oil, orange juice, vanilla). Beat until smooth. Batter will be thick and heavy.",
+    "Grease and flour a bundt pan.",
+    "Alternate layers of batter and apples in the pan, starting and ending with batter.",
+    "Bake at 350°F for 1 hour and 10 minutes or until done (generally it takes longer - check with a toothpick)."
+  ],
+  "category": null,
+  "tags": ["dessert", "baked", "sweet", "fall", "comfort food", "american"]
+}

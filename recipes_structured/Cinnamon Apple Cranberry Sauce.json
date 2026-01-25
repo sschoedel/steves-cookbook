@@ -1,0 +1,29 @@
+{
+  "name": "Cinnamon Apple Cranberry Sauce",
+  "source": "Food Network",
+  "source_file": "Cinnamon Apple Cranberry Sauce.txt",
+  "author": "Aaron McCargo Jr.",
+  "prep_time": "10 minutes",
+  "cook_time": "15 minutes",
+  "total_time": "45 minutes (including chilling)",
+  "servings": "12",
+  "difficulty": "easy",
+  "ingredients": [
+    "2 cups cranberry juice",
+    "1 (6-ounce) bag sweetened dried cranberries",
+    "1 cinnamon stick, broken in half",
+    "1 cup sugar",
+    "2 Gala apples, peeled, cored and diced",
+    "2 teaspoons corn starch"
+  ],
+  "instructions": [
+    "In a medium saucepan over medium heat, add the cranberry juice, cranberries, cinnamon and sugar. Bring to a boil and let cook for 5 minutes.",
+    "Add the apples and cook, stirring occasionally, until the cranberries have softened and apples are tender, about 5 minutes.",
+    "Remove 8 ounces of the liquid to a small bowl and whisk in the cornstarch.",
+    "Slowly add the cornstarch-juice mixture (slurry) to the cranberry mixture, stirring constantly. Cook for an additional 5 minutes.",
+    "Remove from heat and pour into a serving bowl. Refrigerate until thickened, about 30 minutes.",
+    "Remove the cinnamon sticks and serve."
+  ],
+  "category": null,
+  "tags": ["side dish", "dessert", "sweet", "fall", "holiday", "american"]
+}

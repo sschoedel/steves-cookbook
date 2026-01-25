@@ -1,0 +1,51 @@
+{
+  "name": "Hearty One-Pot Lentil Stew",
+  "source": "The Mediterranean Dish",
+  "source_file": "Hearty One-Pot Lentil Stew.txt",
+  "author": "Suzy Karadsheh",
+  "description": "Weeknight dinner never tasted so good! This lentil stew is hearty, healthy, and easy to make. This vegan stew is loaded with vegetables, spices, and fresh herbs - the ultimate one-pot-wonder!",
+  "prep_time": "20 minutes",
+  "cook_time": "20 minutes",
+  "total_time": "40 minutes",
+  "servings": "6",
+  "ingredients": [
+    "1 1/2 cups green lentils",
+    "Extra virgin olive oil",
+    "1 medium yellow onion, chopped",
+    "1 large carrot, chopped",
+    "2 celery stalks, chopped",
+    "1 russet potato, small diced",
+    "3 to 4 garlic cloves, minced",
+    "1 small zucchini squash, diced",
+    "Kosher salt, a pinch",
+    "Black pepper, a pinch",
+    "1 teaspoon ground coriander",
+    "1 teaspoon ground cumin",
+    "1 teaspoon turmeric powder",
+    "1/2 teaspoon ground cinnamon",
+    "1/2 teaspoon cayenne pepper (optional)",
+    "1 (28 ounce) can diced tomatoes",
+    "2 1/2 cups water or low-sodium broth",
+    "1 cup chopped fresh parsley, stems removed",
+    "Juice from half a lemon or lime",
+    "Bread to serve"
+  ],
+  "instructions": [
+    "Wash and sort lentils: Place the lentils in a bowl and cover with water. Wash and soak for 10 minutes or so. Drain well.",
+    "Saute firm vegetables: In a large heavy pot or Dutch oven set over medium-high heat, add 2 tablespoons of extra virgin olive oil. Once the oil begins to shimmer, add diced onions, carrot, celery, and potatoes. Cook over medium-high heat for 4 to 5 minutes, stirring regularly.",
+    "Add the garlic and zucchini. Saute for another 5 minutes, stirring regularly.",
+    "Add lentils, salt, pepper, coriander, cumin, turmeric, cinnamon, and cayenne. Toss to combine, then add the tomatoes and water (or low-sodium broth).",
+    "Bring everything to a boil for 5 minutes, then reduce heat to low. Cover and let simmer for 20 minutes or so until the vegetables are tender and lentils are well cooked (stir occasionally and add water or liquid if needed).",
+    "Remove from heat and stir in parsley and lime juice (or lemon juice). Transfer to serving bowls and top with a generous drizzle of extra virgin olive oil. Serve hot with your favorite crusty bread."
+  ],
+  "nutrition": {
+    "calories": "247.4",
+    "carbohydrates": "46.2g",
+    "protein": "15.4g",
+    "fat": "1.1g",
+    "fiber": "18.1g",
+    "sodium": "216.9mg"
+  },
+  "category": null,
+  "tags": ["dinner", "stew", "vegan", "vegetarian", "healthy", "mediterranean", "one-pot", "comfort food", "fall", "winter"]
+}

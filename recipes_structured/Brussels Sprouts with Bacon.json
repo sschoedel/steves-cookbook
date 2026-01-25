@@ -1,0 +1,24 @@
+{
+  "name": "Brussels Sprouts with Bacon",
+  "source_file": "Brussels Sprouts with Bacon.txt",
+  "description": "Tender Brussels sprouts braised in stock with crispy bacon, onion, and garlic.",
+  "ingredients": [
+    "1 tablespoon vegetable oil",
+    "1/2 lb sliced bacon, cut into thin strips",
+    "1/2 cup minced onion",
+    "2 cloves garlic, minced",
+    "1/2 cup dry white wine",
+    "2 lb Brussels sprouts, ends trimmed",
+    "5 cups chicken stock, vegetable stock, or water"
+  ],
+  "instructions": [
+    "Warm oil in a heavy-bottomed pot set over medium heat. Add bacon and cook until crisp, about 8 minutes.",
+    "Add onion and garlic. Saute gently until softened but not browned, 5-7 minutes.",
+    "Add wine, raise heat to high, and bring to a boil, stirring to scrape up any flavorful bits of bacon stuck to bottom of the pan.",
+    "When the wine has nearly evaporated, about 5 minutes, add Brussels sprouts.",
+    "Add stock, bring to a boil, then reduce heat and let stock simmer until sprouts are easily pierced with a knife, 12 to 15 minutes.",
+    "Serve sprouts in a bowl, family style."
+  ],
+  "category": null,
+  "tags": ["side dish", "pork", "braised", "savory", "comfort food", "fall", "winter"]
+}

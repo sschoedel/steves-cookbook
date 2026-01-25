@@ -1,0 +1,79 @@
+{
+  "name": "Bacon Wrapped Shrimp with Grits",
+  "source_file": "Bacon Wrapped Shrimp w Grits.txt",
+  "description": "Crispy bacon-wrapped shrimp served over creamy grits with a chipotle-tomato butter sauce.",
+  "prep_time": "30 minutes",
+  "cook_time": "45 minutes",
+  "total_time": "1 hour 15 minutes",
+  "servings": "6",
+  "ingredient_groups": {
+    "Shrimp": [
+      "18 black tiger shrimp, peeled and deveined",
+      "1/2 tablespoon kosher salt",
+      "9 bacon slices, cut in half",
+      "2 teaspoons cracked black pepper",
+      "Grape seed oil for searing"
+    ],
+    "Grits": [
+      "2 quarts chicken stock",
+      "1 quart milk",
+      "1/4 stick butter",
+      "1 quart instant grits",
+      "2 cups grilled corn kernels",
+      "3 tablespoons chopped cilantro",
+      "1 cup poblano peppers, diced",
+      "2 tablespoons cracked black pepper",
+      "2 cups aged white cheddar cheese"
+    ],
+    "Chipotle-Tomato Butter Sauce": [
+      "1/2 yellow onion, chopped",
+      "2 tablespoons chopped garlic",
+      "3 Roma tomatoes, chopped",
+      "3 tablespoons chipotle peppers in adobo",
+      "2 cups chicken stock",
+      "1/2 teaspoon black peppercorns",
+      "1/2 stick butter",
+      "1/2 bunch cilantro",
+      "1 lemon, juiced"
+    ]
+  },
+  "ingredients": [
+    "18 black tiger shrimp, peeled and deveined",
+    "1/2 tablespoon kosher salt",
+    "9 bacon slices, cut in half",
+    "2 teaspoons cracked black pepper",
+    "Grape seed oil for searing",
+    "2 quarts chicken stock",
+    "1 quart milk",
+    "1/4 stick butter",
+    "1 quart instant grits",
+    "2 cups grilled corn kernels",
+    "3 tablespoons chopped cilantro",
+    "1 cup poblano peppers, diced",
+    "2 tablespoons cracked black pepper",
+    "2 cups aged white cheddar cheese",
+    "1/2 yellow onion, chopped",
+    "2 tablespoons chopped garlic",
+    "3 Roma tomatoes, chopped",
+    "3 tablespoons chipotle peppers in adobo",
+    "1/2 teaspoon black peppercorns",
+    "1/2 bunch cilantro",
+    "1 lemon, juiced"
+  ],
+  "instructions": [
+    "For the shrimp: Season shrimp with a little kosher salt. Using a hot grill, quickly mark each shrimp. Remove from grill and allow to cool. Shrimp should still be uncooked.",
+    "When cool enough to handle, wrap each shrimp with a half piece of bacon. Season with cracked black pepper.",
+    "Sear the shrimp in grapeseed oil until crispy on both sides. Set aside until rest of dish is ready.",
+    "For the grits: Using a deep saucepan, combine chicken stock and milk. Bring to a simmer, add butter, and allow time for it to dissolve.",
+    "Slowly whisk in grits a little at a time. When grits begin to thicken, lower heat.",
+    "Switch to a spatula and fold in the corn, cilantro, poblano peppers, black pepper, and cheddar cheese. Adjust seasonings if needed. If grits are too thick, add more chicken stock.",
+    "For the chipotle-tomato butter sauce: In a sauce pot, saute onions and garlic over medium heat.",
+    "Add tomatoes, chipotle peppers and peppercorns. Continue to cook for another 3 minutes.",
+    "Deglaze with chicken stock and lower heat. Cook 5 minutes, then place in a blender and blend until smooth.",
+    "Place liquid back in saucepan over low heat. Mount with butter, whisking in a little at a time.",
+    "Add cilantro and season with lemon juice and salt. Turn off heat and allow 5 minutes to steep cilantro. Strain and reserve warm until time to serve.",
+    "To serve: Place grits in a bowl, drizzle sauce around grits, and place shrimp on top of grits."
+  ],
+  "category": null,
+  "tags": ["dinner", "seafood", "shrimp", "southern", "cajun", "creamy", "savory", "comfort food"]
+}

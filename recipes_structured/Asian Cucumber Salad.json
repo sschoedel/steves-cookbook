@@ -1,0 +1,47 @@
+{
+  "name": "Asian Cucumber Salad",
+  "source": "Feasting at Home",
+  "source_file": "Asian Cucumber Salad.txt",
+  "author": "Sylvia Fountaine",
+  "description": "Asian Cucumber Salad is made with rice vinegar, sesame, ginger, garlic and soy, cool and refreshing and pairs well with many things. It's vegan and gluten-free and is a nice addition to meals and bowls you are already making.",
+  "prep_time": "25 minutes",
+  "total_time": "25 minutes",
+  "servings": "4-5",
+  "ingredients": [
+    "1 1/2 pounds Turkish, Persian or English cucumbers (about 5 cups sliced)",
+    "1/2 teaspoon salt",
+    "4-5 scallions, finely sliced",
+    "1 teaspoon ginger, grated",
+    "1 clove garlic, finely minced",
+    "1/4 cup rice vinegar",
+    "1 tablespoon soy sauce (or Bragg's Liquid Amino Acid or Coconut amino acid)",
+    "1 tablespoon toasted sesame oil",
+    "1 tablespoon maple syrup (or honey, or sugar)",
+    "1 teaspoon chili garlic sauce (sambal oelek) or sriracha, more to taste",
+    "1-2 tablespoons toasted sesame seeds"
+  ],
+  "instructions": [
+    "Using the tines of a fork, score the cucumbers lengthwise - this will help the dressing cling to the cucumber. (Feel free to skip if in a hurry.)",
+    "Slice the cucumbers thinly. Place in a bowl and toss with the salt to help them release water. Let this stand while you gather the remaining ingredients.",
+    "Strain the cucumbers (do not rinse), place them in a large bowl and add the scallions, ginger, garlic, rice vinegar, soy sauce, sesame oil, maple syrup, optional red chili paste and toasted sesame seeds. Mix to combine.",
+    "Taste and adjust salt to your liking. Add more chili paste if you like.",
+    "Refrigerate until ready to serve. This is best served the same day but will keep up to 3 days."
+  ],
+  "notes": [
+    "Optional additions: fish sauce, lime juice, crushed roasted peanuts, gochujang, cilantro or Thai basil, red onions, peanut chili crunch, radishes."
+  ],
+  "nutrition": {
+    "serving_size": "1 cup",
+    "calories": "89",
+    "sugar": "6.4 g",
+    "sodium": "404.5 mg",
+    "fat": "4.8 g",
+    "saturated_fat": "0.7 g",
+    "carbohydrates": "11.5 g",
+    "fiber": "1.4 g",
+    "protein": "2 g",
+    "cholesterol": "0 mg"
+  },
+  "category": null,
+  "tags": ["salad", "asian", "vegan", "gluten-free", "healthy", "quick", "side dish", "fresh", "spicy"]
+}

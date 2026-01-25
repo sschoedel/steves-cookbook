@@ -1,0 +1,41 @@
+{
+  "name": "Coconut Curry Salmon",
+  "source": "Food & Wine",
+  "source_file": "Coconut Curry Salmon.txt",
+  "author": "Eric Adjepong",
+  "description": "Salmon meets a rich coconut curry sauce and a tangy, spicy pepper sauce.",
+  "prep_time": "30 minutes",
+  "total_time": "45 minutes",
+  "ingredients": [
+    "3 Scotch bonnet peppers, seeded, stemmed, and chopped (substitute habanero if needed)",
+    "1/2 cup white balsamic (substitute apple cider vinegar if needed)",
+    "Pinch of kosher salt, plus more as needed",
+    "Pinch of granulated sugar",
+    "4 tablespoons vegetable oil, divided",
+    "4 (6-ounce) fillets Coho salmon",
+    "1 tablespoon unsalted butter",
+    "1 medium (9-ounce) yellow onion, finely chopped",
+    "4 garlic cloves, thinly sliced",
+    "3 tablespoons chopped fresh thyme leaves",
+    "1 green bell pepper, finely chopped",
+    "2 tablespoons tomato paste",
+    "3 tablespoons Madras curry powder",
+    "1 (13 1/2-ounce) can full fat coconut milk, well-shaken",
+    "10 ounces vegetable or chicken stock, or water",
+    "1 tablespoon fresh lemon juice, plus more as needed",
+    "5 green onions, thinly sliced, divided",
+    "6 cups cooked rice or coconut rice, for serving"
+  ],
+  "instructions": [
+    "Combine Scotch bonnet and vinegar with a pinch of both salt and sugar in a blender. Puree until smooth. Set aside as pepper sauce.",
+    "Heat 1 tablespoon oil in a wide, medium saucepan over high heat. Season salmon with salt and add to pan, skin side down. Cook 3 minutes, then flip salmon over and add butter. Sear salmon until lightly browned, about 2 minutes. Set aside.",
+    "Heat remaining 3 tablespoons oil in a medium saucepan over medium heat. Add onion and bell pepper and cook until translucent, stirring frequently, about 7 minutes.",
+    "Add garlic, thyme, all but 1 tablespoon green onion, and curry powder and cook until fragrant, 2 minutes. Add tomato paste and cook 2 minutes, stirring to coat vegetables.",
+    "Add coconut milk and stock to pot. Season with a pinch of salt and lemon juice and stir.",
+    "Bring sauce to a boil then lower heat to medium-low and simmer sauce until slightly thickened, 10 to 15 minutes.",
+    "Add salmon to sauce and simmer 3 minutes.",
+    "Spoon salmon and sauce over rice, garnish with remaining green onion, and serve with pepper sauce."
+  ],
+  "category": null,
+  "tags": ["dinner", "fish", "indian", "thai", "spicy", "creamy", "healthy"]
+}

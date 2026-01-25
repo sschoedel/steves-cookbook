@@ -1,0 +1,89 @@
+{
+  "name": "Vegetable Vindaloo",
+  "source_file": "Vegetable Vindaloo.txt",
+  "author": "Anjali Shah",
+  "description": "Mixed vegetable vindaloo is warm, comforting, and packed with flavor! Featuring homemade vindaloo paste and a medley of fresh vegetables, it's a great hearty dinner option. Plus, it's vegan and gluten-free!",
+  "prep_time": "10 minutes",
+  "cook_time": "30 minutes",
+  "total_time": "40 minutes",
+  "servings": "6",
+  "ingredient_groups": {
+    "Vegetable Ingredients": [
+      "1 tbsp coconut oil",
+      "1 1/4 cup vegetable broth",
+      "3 potatoes, diced",
+      "1/2 cauliflower, cut into florets",
+      "1 cup beans, chopped",
+      "1/2 red bell pepper, diced",
+      "1 tbsp tomato paste",
+      "28 oz canned diced tomatoes",
+      "1 1/2 tsp garam masala"
+    ],
+    "Vindaloo Paste": [
+      "1 red onion, diced",
+      "4 cloves garlic, minced",
+      "2 tsp minced ginger",
+      "1 tsp dried red pepper flakes",
+      "2 tsp smoked paprika",
+      "1 tsp turmeric",
+      "2 tbsp apple cider vinegar",
+      "2 tsp coconut oil",
+      "1/4 cup chopped cilantro",
+      "1 1/2 tbsp ground coriander",
+      "3 tsp cumin",
+      "1/4 tsp cardamom",
+      "1/2 tsp ground cinnamon",
+      "1 tsp salt"
+    ]
+  },
+  "ingredients": [
+    "1 tbsp coconut oil",
+    "1 1/4 cup vegetable broth",
+    "3 potatoes, diced",
+    "1/2 cauliflower, cut into florets",
+    "1 cup beans, chopped",
+    "1/2 red bell pepper, diced",
+    "1 tbsp tomato paste",
+    "28 oz canned diced tomatoes",
+    "1 1/2 tsp garam masala",
+    "1 red onion, diced",
+    "4 cloves garlic, minced",
+    "2 tsp minced ginger",
+    "1 tsp dried red pepper flakes",
+    "2 tsp smoked paprika",
+    "1 tsp turmeric",
+    "2 tbsp apple cider vinegar",
+    "1/4 cup chopped cilantro",
+    "1 1/2 tbsp ground coriander",
+    "3 tsp cumin",
+    "1/4 tsp cardamom",
+    "1/2 tsp ground cinnamon"
+  ],
+  "instructions": [
+    "Prepare the vindaloo paste by adding all paste ingredients into a blender and blend to a smooth paste. Scraping down the edges several times and blending again if needed.",
+    "Next, heat the coconut oil in a large pot over a medium-high heat and saute the paste for 2-3 minutes.",
+    "Stir in the vegetable broth and add the diced potatoes, bring to a simmer.",
+    "Cook for 5 minutes before adding the cauliflower florets, beans, bell pepper, tomato paste and diced tomatoes.",
+    "Stir and continue to simmer gently for 20-30 minutes or until the vegetables have cooked through. Stirring occasionally to prevent the sauce from burning.",
+    "Add the garam masala and adjust the seasoning to taste.",
+    "Serve with rice and naan bread."
+  ],
+  "notes": [
+    "Cut the cauliflower into small florets to help with faster cooking.",
+    "Adjust the spice by increasing or decreasing the amount of dried red pepper flakes.",
+    "The vindaloo paste can be made ahead of time and stored in a sealable jar in the fridge for up to 2 days.",
+    "Store leftovers in the fridge for up to 4 days. Can be frozen for up to 1 month."
+  ],
+  "nutrition": {
+    "calories": "186",
+    "carbohydrates": "34g",
+    "protein": "6g",
+    "fat": "5g",
+    "saturated_fat": "3g",
+    "sodium": "826mg",
+    "fiber": "7g",
+    "sugar": "8g"
+  },
+  "category": null,
+  "tags": ["dinner", "indian", "vegan", "vegetarian", "gluten-free", "spicy", "curry"]
+}

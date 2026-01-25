@@ -1,0 +1,24 @@
+{
+  "name": "Quick Chicken Cacciatore",
+  "source": "Delicious Magazine",
+  "source_file": "Quick Chicken Cacciatore.txt",
+  "description": "Traditional one-pot chicken cacciatore is a quick, flavoursome dinner idea best served with pasta.",
+  "prep_time": "5 minutes",
+  "cook_time": "25 minutes",
+  "servings": "4",
+  "difficulty": "easy",
+  "ingredients": [
+    "1 tablespoon olive oil",
+    "4 chicken thigh cutlets, skin on and bone in",
+    "Salt and pepper"
+  ],
+  "instructions": [
+    "Heat oil in a large, deep frypan over medium heat. Pat the chicken dry with paper towel, then season and place, skin-side down, in the pan. Cook for 4 minutes or until skin is golden, then turn and cook until done.",
+    "Serve with pasta."
+  ],
+  "notes": [
+    "Recipe text was truncated in source - additional ingredients and steps may be needed for a complete cacciatore."
+  ],
+  "category": null,
+  "tags": ["dinner", "chicken", "italian", "one-pot", "quick", "easy"]
+}

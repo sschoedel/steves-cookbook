@@ -1,0 +1,87 @@
+{
+  "name": "Beef Tenderloin with Creamy Mushroom Sauce",
+  "source": "RecipeTin Eats",
+  "source_file": "Beef Tenderloin with Creamy Mushroom Sauce.txt",
+  "author": "Nagi",
+  "description": "This recipe uses a simple but highly effective, low-risk slow-roasting technique for evenly cooked tenderloin that's blushing pink from edge to edge. A slather of garlic-thyme-butter gives the beef a tasty crust, and the drippings from roasting are used to make a magnificent creamy mushroom sauce.",
+  "prep_time": "15 minutes",
+  "cook_time": "1 hour",
+  "total_time": "1 hour 15 minutes (plus optional overnight salting)",
+  "servings": "4-5",
+  "ingredient_groups": {
+    "Beef": [
+      "1-1.25 kg (2-2.5 lb) centre cut beef tenderloin (eye fillet), tied",
+      "1 1/2 teaspoons kosher salt",
+      "1/2 teaspoon black pepper",
+      "1 tablespoon vegetable oil"
+    ],
+    "Garlic-Thyme-Butter Slather": [
+      "75g (5 tablespoons) unsalted butter, softened",
+      "1 teaspoon garlic, finely grated or very finely minced",
+      "1 teaspoon fresh thyme leaves, finely chopped",
+      "1/4 teaspoon kosher salt",
+      "1/4 teaspoon black pepper"
+    ],
+    "Creamy Mushroom Sauce": [
+      "150g (5 oz) white mushrooms, sliced 3mm thick",
+      "1/2 teaspoon garlic, finely minced",
+      "1 thyme sprig",
+      "3/4 cup marsala (Italian fortified wine)",
+      "1/2 cup chicken stock, low sodium",
+      "3/4 cup heavy cream",
+      "1/4 teaspoon black pepper"
+    ]
+  },
+  "ingredients": [
+    "1-1.25 kg (2-2.5 lb) centre cut beef tenderloin (eye fillet), tied",
+    "1 1/2 teaspoons kosher salt",
+    "1/2 teaspoon black pepper",
+    "1 tablespoon vegetable oil",
+    "75g (5 tablespoons) unsalted butter, softened",
+    "1 teaspoon garlic, finely grated",
+    "1 teaspoon fresh thyme leaves, finely chopped",
+    "1/4 teaspoon kosher salt",
+    "1/4 teaspoon black pepper",
+    "150g (5 oz) white mushrooms, sliced",
+    "1/2 teaspoon garlic, finely minced",
+    "1 thyme sprig",
+    "3/4 cup marsala wine",
+    "1/2 cup chicken stock",
+    "3/4 cup heavy cream"
+  ],
+  "instructions": [
+    "Prep beef: Pat beef dry with paper towels, sprinkle with salt and pepper all over. Place the beef on a rack on a tray then refrigerate uncovered 12 to 24 hours. (Can skip this step if short on time.)",
+    "Make butter slather: Mix butter, garlic, thyme, salt and pepper in a bowl.",
+    "De-chill: Remove the beef from the fridge 2 hours prior to cooking. This helps the beef cook evenly.",
+    "Sear: Heat oil in an ovenproof heavy based pan over high heat until smoking. Brown the surface of the beef all over, aggressively and quickly. Then put the beef back on the rack to cool for 15 minutes.",
+    "Preheat oven to 120°C/250°F.",
+    "Butter: Put beef back in cooled skillet. Slather 3/4 of the butter onto the beef - top and sides (not underside).",
+    "Roast: Roast for 15 minutes. Remove, slather remaining butter onto the top and sides. Roast for a further 25-35 minutes or until the internal temperature is 53°C/127°F for medium rare.",
+    "Rest and serve: Remove beef from the skillet onto a cutting board and rest for 10 minutes. The internal temperature will rise to 56-58°C/133-136°F (medium rare). Slice thickly and serve with creamy mushroom sauce.",
+    "For the sauce - Roasting juices: Pour all juices in skillet into a bowl. The fat will rise to the surface. Pour off 1/4 cup of the fat back into the skillet.",
+    "Cook mushrooms: Turn the stove onto high. Once the fat is hot, add mushrooms and cook until they start to sweat. Then add thyme and garlic, and cook for a further 2 minutes until the mushrooms are softened.",
+    "Make sauce: Add chicken stock and reduce by half. Add marsala, cream, pepper and remaining reserved roasting juices. Simmer on medium/medium-high for 5 minutes until it reduces by half and the sauce is thickened. Taste and add more salt if needed. Serve with beef."
+  ],
+  "notes": [
+    "Centre cut beef tenderloin is best for roasting - thickest and even width so it cooks evenly. Tie it so it holds its shape better.",
+    "Fresh thyme is better than dried. Substitute with 1/2 tsp dried thyme for the butter rub if needed.",
+    "Marsala can be substituted with port wine, sherry, madeira, or white wine. For non-alcoholic version, use low sodium chicken stock.",
+    "Use a meat thermometer for best results.",
+    "Overnight salting is recommended for best results but can be skipped.",
+    "Temperature guide: Rare 50°C/122°F pull temp; Medium rare 53°C/127°F pull temp (recommended); Medium 56°C/133°F pull temp.",
+    "Leftovers will keep for 3 days. Freezing not recommended."
+  ],
+  "nutrition": {
+    "calories": "845",
+    "carbohydrates": "4g",
+    "protein": "39g",
+    "fat": "72g",
+    "saturated_fat": "34g",
+    "cholesterol": "213mg",
+    "sodium": "934mg",
+    "fiber": "1g",
+    "sugar": "2g"
+  },
+  "category": null,
+  "tags": ["dinner", "beef", "roast", "creamy", "french", "entertaining", "rich", "comfort food"]
+}

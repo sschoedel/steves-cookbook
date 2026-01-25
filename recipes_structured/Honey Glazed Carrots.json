@@ -1,0 +1,32 @@
+{
+  "name": "Honey Glazed Carrots",
+  "source": "Food Network",
+  "source_file": "Honey Glazed Carrots.txt",
+  "author": "Sunny Anderson",
+  "total_time": "15 minutes",
+  "prep_time": "5 minutes",
+  "cook_time": "10 minutes",
+  "servings": "4",
+  "difficulty": "easy",
+  "ingredients": [
+    "Salt",
+    "1 pound baby carrots",
+    "2 tablespoons butter",
+    "2 tablespoons honey",
+    "1 tablespoon lemon juice",
+    "Freshly ground black pepper",
+    "1/4 cup chopped flat-leaf parsley"
+  ],
+  "instructions": [
+    "In a medium saucepan, bring water to a boil.",
+    "Add salt and then carrots and cook until tender, 5 to 6 minutes.",
+    "Drain the carrots and add back to pan with butter, honey and lemon juice.",
+    "Cook until a glaze coats the carrots, 5 minutes.",
+    "Season with salt and pepper and garnish with parsley."
+  ],
+  "notes": [
+    "Miso Glazed Carrots variation: For 3 lb carrots sliced on the bias, blanch 2-3 min. In a roaster pan, heat 1/4 cup oil, add carrots and cook over high heat until browned (about 5 minutes). Mix 1/2 cup red miso paste with 6 TB butter, 1 TB brown sugar and half of 1 cup sliced scallions. Add to carrots and toss to coat. Roast at 425°F for 20 minutes, stir in rest of scallions and serve."
+  ],
+  "category": null,
+  "tags": ["side dish", "vegetarian", "quick", "healthy"]
+}

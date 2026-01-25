@@ -1,0 +1,58 @@
+{
+  "name": "Chinese Green Beans",
+  "source": "Healthy Recipes Blogs",
+  "source_file": "Chinese Green Beans.txt",
+  "author": "Vered DeLeeuw",
+  "description": "Wonderfully tender-crisp and well seasoned, these Chinese green beans are ready fast and go well with many different meals.",
+  "prep_time": "10 minutes",
+  "cook_time": "15 minutes",
+  "total_time": "25 minutes",
+  "servings": "4",
+  "ingredient_groups": {
+    "Sauce": [
+      "2 tablespoons reduced-sodium soy sauce (or gluten-free alternative)",
+      "1 teaspoon rice vinegar",
+      "1 teaspoon honey",
+      "1 teaspoon cornstarch",
+      "1 teaspoon minced fresh garlic",
+      "1/2 teaspoon red pepper flakes"
+    ],
+    "Beans": [
+      "1 tablespoon avocado oil",
+      "12 oz green beans, trimmed, long ones halved",
+      "Sesame oil, for drizzling"
+    ]
+  },
+  "ingredients": [
+    "2 tablespoons reduced-sodium soy sauce",
+    "1 teaspoon rice vinegar",
+    "1 teaspoon honey",
+    "1 teaspoon cornstarch",
+    "1 teaspoon minced fresh garlic",
+    "1/2 teaspoon red pepper flakes",
+    "1 tablespoon avocado oil",
+    "12 oz green beans, trimmed, long ones halved",
+    "Sesame oil, for drizzling"
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together the soy sauce, rice vinegar, honey, and cornstarch. Mix in the garlic and red pepper flakes. Set aside.",
+    "In a large skillet, heat the oil over medium heat, about 3 minutes. Add the green beans and saute them, stirring often, until they are tender-crisp and just begin to brown in spots, about 8 minutes.",
+    "Reduce the heat to low. Give the sauce another whisk, then add it to the skillet. Cook, stirring, until the beans are coated in the sauce and the sauce has thickened, about 1 minute.",
+    "Transfer the green beans to a serving plate, drizzle them with sesame oil, and serve."
+  ],
+  "notes": [
+    "Cooked green beans should be bright green and tender-crisp. You don't want them brown and limp. Keep a close eye on them as you cook - depending on how hot your stovetop runs, they might be ready faster than 8 minutes."
+  ],
+  "nutrition": {
+    "calories": "115",
+    "carbohydrates": "9g",
+    "protein": "2g",
+    "fat": "8g",
+    "saturated_fat": "1g",
+    "sodium": "293mg",
+    "fiber": "3g",
+    "sugar": "4g"
+  },
+  "category": null,
+  "tags": ["side dish", "chinese", "asian", "vegetarian", "healthy", "quick", "gluten-free"]
+}

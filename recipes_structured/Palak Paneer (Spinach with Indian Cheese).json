@@ -1,0 +1,41 @@
+{
+  "name": "Palak Paneer (Spinach with Indian Cheese)",
+  "source_file": "Palak Paneer (Spinach with Indian Cheese).txt",
+  "description": "Indian-style spinach with cheese (paneer). Adapted from Aarti Sequeira's recipe.",
+  "ingredients": [
+    "Oil for frying",
+    "Onions",
+    "Ginger",
+    "Garlic",
+    "Dry spices (cumin, coriander, garam masala)",
+    "Frozen spinach (or 10 cups fresh spinach, steamed and drained)",
+    "Plain yogurt",
+    "Salt to taste",
+    "Paneer (for paneer variation)",
+    "Cooked chicken (for chicken variation)"
+  ],
+  "instructions": [
+    "Fry the onions, ginger, and garlic in the oil over medium heat, for about 4 or 5 minutes or until lightly browning.",
+    "Add the dry spices and continue frying for another 15 minutes. You will need to stir this every few minutes or so. The mixture will get dryer as you fry it. Add a tablespoon of water when it gets too dry.",
+    "Add the spinach and yogurt and heat through.",
+    "Blend until the spinach is your desired consistency. Taste, and add salt as needed. Salt will bring out all of the flavours.",
+    "For variations: Stir in the paneer and/or chicken and heat through."
+  ],
+  "notes": [
+    "Using Fresh Spinach: You can make this recipe with fresh spinach as well. You will need about 10 cups of spinach. Steam it, then drain and chop it and set aside.",
+    "Storage and Reheating: This will keep for 2-3 days in the fridge. Reheat it over low heat and add water as needed to thin it to your desired consistency."
+  ],
+  "nutrition": {
+    "calories": "125",
+    "carbohydrates": "9g",
+    "protein": "4g",
+    "fat": "8g",
+    "saturated_fat": "1g",
+    "cholesterol": "3mg",
+    "sodium": "76mg",
+    "fiber": "3g",
+    "sugar": "2g"
+  },
+  "category": null,
+  "tags": ["dinner", "indian", "vegetarian", "spinach", "paneer", "side dish"]
+}

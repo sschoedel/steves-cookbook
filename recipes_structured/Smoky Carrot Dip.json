@@ -1,0 +1,30 @@
+{
+  "name": "Smoky Carrot Dip",
+  "source": "Bon Appetit",
+  "source_file": "Smoky Carrot Dip.txt",
+  "description": "A vegan, gluten-free dip made with roasted carrots, toasted almonds, chickpeas, and smoky Spanish paprika.",
+  "servings": "3 cups",
+  "ingredients": [
+    "1/2 cup skin-on almonds",
+    "2 lb carrots, trimmed, peeled",
+    "2 tablespoons plus 1/2 cup extra-virgin olive oil, plus more",
+    "2 1/2 teaspoons kosher salt, divided, plus more",
+    "2 garlic cloves",
+    "1/2 cup canned chickpeas",
+    "3 tablespoons (or more) fresh lemon juice",
+    "1 teaspoon freshly ground black pepper",
+    "3/4 teaspoon hot smoked Spanish paprika",
+    "1/2 cup coarsely chopped parsley, plus leaves for serving"
+  ],
+  "instructions": [
+    "Preheat oven to 350°. Toast almonds on a rimmed baking sheet, tossing halfway through, until slightly darkened and fragrant, 8-10 minutes. Let cool; set aside.",
+    "Increase oven to 400°. Toss carrots on a rimmed baking sheet with 2 Tbsp oil and 1 tsp salt. Spread carrots out evenly on baking sheet and roast, stirring once or twice, until very tender and starting to shrivel and brown (but not char), about 1 hour.",
+    "Transfer carrots to a food processor; add garlic, chickpeas, lemon juice, pepper, paprika, chopped parsley, 1/2 cup oil, 1 1/2 tsp salt, and reserved almonds. Process, adding more oil as needed, until mixture is almost completely smooth. Taste dip and add more lemon juice and/or salt if needed.",
+    "Transfer dip to a small bowl, drizzle with more oil, and top with parsley leaves."
+  ],
+  "notes": [
+    "Do Ahead: Dip can be made 1 week ahead. Cover and chill."
+  ],
+  "category": null,
+  "tags": ["appetizer", "dip", "vegan", "vegetarian", "gluten-free", "healthy", "mediterranean"]
+}

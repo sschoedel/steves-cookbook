@@ -1,0 +1,51 @@
+{
+  "name": "Bread Pudding",
+  "source_file": "Bread Pudding.txt",
+  "description": "Rich brioche bread pudding with vanilla ice cream custard, served with whiskey caramel sauce.",
+  "prep_time": "10 minutes",
+  "total_time": "1 hour",
+  "servings": "8",
+  "ingredient_groups": {
+    "Bread Pudding": [
+      "Butter for greasing",
+      "1 lb brioche, crust removed, torn into 1-inch pieces",
+      "1 1/2 pints vanilla bean ice cream",
+      "4 large eggs, beaten",
+      "1 cup sugar",
+      "3/4 cup water"
+    ],
+    "Caramel Sauce": [
+      "2/3 cup sugar",
+      "2 tablespoons water",
+      "1/2 cup heavy cream, room temperature",
+      "1 tablespoon whiskey",
+      "Pinch of sea salt"
+    ]
+  },
+  "ingredients": [
+    "Butter for greasing",
+    "1 lb brioche, crust removed, torn into 1-inch pieces",
+    "1 1/2 pints vanilla bean ice cream",
+    "4 large eggs, beaten",
+    "1 cup sugar",
+    "3/4 cup water",
+    "2/3 cup sugar (for caramel)",
+    "2 tablespoons water (for caramel)",
+    "1/2 cup heavy cream, room temperature",
+    "1 tablespoon whiskey",
+    "Pinch of sea salt"
+  ],
+  "instructions": [
+    "Preheat oven to 350°F. Butter a shallow 2-quart baking dish and spread the torn brioche in it.",
+    "Scoop ice cream into a glass bowl and warm in microwave in 20 second bursts, stirring, just until melted.",
+    "Whisk in the eggs, sugar and 3/4 cup of water. Pour custard over brioche and let stand for 15 minutes, pressing to submerge bread.",
+    "Bake bread pudding for 30 to 35 minutes until top is browned. Let cool slightly.",
+    "Meanwhile, make caramel sauce: In a medium saucepan, combine sugar with 2 tablespoons water. Cook over moderate heat, swirling pan and brushing down sides with a wet pastry brush until sugar dissolves.",
+    "Cook undisturbed until a medium-amber caramel forms, about 5 minutes.",
+    "Add the cream (be careful, it may boil vigorously) and simmer, whisking, until the caramel is smooth, 1 to 2 minutes.",
+    "Let cool slightly, then stir in whiskey and salt.",
+    "Serve warm bread pudding with caramel sauce drizzled over."
+  ],
+  "category": null,
+  "tags": ["dessert", "baked", "sweet", "comfort food", "southern", "entertaining", "rich"]
+}

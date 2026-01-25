@@ -1,0 +1,74 @@
+{
+  "name": "Spicy Chicken Vegetable Stir Fry",
+  "source": "Karyl's Kulinary Krusade",
+  "source_file": "Spicy Chicken Vegetable Stir Fry.txt",
+  "author": "Karyl",
+  "description": "Spicy Chicken Vegetable Stir Fry is a delicious way to eat healthy, light, and low carb. The bold and spicy marinade does double duty when it's cooked down and added to the stir-fry at the end. Great on its own, or over rice or quinoa.",
+  "prep_time": "10 minutes",
+  "cook_time": "20 minutes",
+  "total_time": "1 hour (including marinating)",
+  "servings": "2",
+  "ingredient_groups": {
+    "Stir Fry": [
+      "10 ounces boneless, skinless chicken thighs, diced into bite-sized pieces",
+      "1 1/2 tablespoons avocado oil or canola oil",
+      "2 cloves raw garlic, sliced thinly",
+      "1/4 cup yellow onion, sliced",
+      "1/2 cup green beans, sliced at an angle into 2-3 pieces",
+      "10 spears asparagus (hard ends removed), cut into 2-inch slices",
+      "1 cup broccoli florets",
+      "1/2 cup snow peas, sliced in half",
+      "1 teaspoon cornstarch"
+    ],
+    "Marinade": [
+      "1/4 cup low sodium soy sauce",
+      "2 tablespoons raw honey",
+      "2 teaspoons Sriracha hot sauce (more or less, to taste)",
+      "1 teaspoon ground chili with fried garlic (more or less, to taste)",
+      "2 cloves garlic, minced"
+    ]
+  },
+  "ingredients": [
+    "10 ounces boneless, skinless chicken thighs, diced into bite-sized pieces",
+    "1 1/2 tablespoons avocado oil or canola oil",
+    "2 cloves raw garlic, sliced thinly",
+    "1/4 cup yellow onion, sliced",
+    "1/2 cup green beans, sliced at an angle",
+    "10 spears asparagus, cut into 2-inch slices",
+    "1 cup broccoli florets",
+    "1/2 cup snow peas, sliced in half",
+    "1 teaspoon cornstarch",
+    "1/4 cup low sodium soy sauce",
+    "2 tablespoons raw honey",
+    "2 teaspoons Sriracha hot sauce",
+    "1 teaspoon ground chili with fried garlic",
+    "2 cloves garlic, minced"
+  ],
+  "instructions": [
+    "Combine marinade ingredients (soy sauce, honey, Sriracha, ground chili with fried garlic, and garlic) in a medium bowl. Add chicken, and marinate in fridge for 30 minutes. Drain marinade into small saucepan.",
+    "Add 1/2 tablespoon oil to wok or skillet and heat over medium-low heat. Add sliced garlic and saute about 3 minutes, until golden brown. Remove garlic and set aside.",
+    "Add onions to wok, and saute about 5 minutes, until golden. Remove onions and add to garlic.",
+    "Add 1 tablespoon oil to wok or skillet, and turn heat to medium-high. When oil begins to sizzle, add green beans, broccoli, and asparagus. Saute for about 5 minutes, tossing occasionally.",
+    "Add snow peas, onion and garlic to wok or skillet, and saute for another 2-3 minutes. Move all vegetables to the side, creating an open space in the middle.",
+    "Add chicken to center of wok or skillet. Saute chicken about 4 minutes per side, until chicken is cooked through.",
+    "While chicken cooks: cook marinade over low heat for 5-10 minutes. Add cornstarch to cooked marinade, and whisk to thicken.",
+    "Turn heat to low, and add cooked marinade a little at a time, tossing well in between. You may not need all of the marinade."
+  ],
+  "notes": [
+    "DO NOT ADD RAW, USED MARINADE TO STIR FRY! Either cook the marinade for 5-10 minutes, or make double the marinade and reserve half before adding chicken.",
+    "Sambal Chili Paste is an alternative to Ground Chili with Fried Garlic.",
+    "Mix it up and use your favorite vegetables. Cut vegetables approximately the same size so they cook evenly. Add more sturdy vegetables first."
+  ],
+  "nutrition": {
+    "calories": "398",
+    "saturated_fat": "2g",
+    "cholesterol": "134mg",
+    "sodium": "1314mg",
+    "carbohydrates": "31g",
+    "fiber": "3g",
+    "sugar": "21g",
+    "protein": "32g"
+  },
+  "category": null,
+  "tags": ["dinner", "chicken", "stir-fry", "asian", "healthy", "spicy", "low-carb", "meal prep"]
+}

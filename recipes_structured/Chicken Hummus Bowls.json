@@ -1,0 +1,42 @@
+{
+  "name": "Chicken Hummus Bowls",
+  "source": "EatingWell",
+  "source_file": "Chicken Hummus Bowls.txt",
+  "description": "The spiced chicken atop these bowls is ready fast with the help of the broiler. Serve with warm whole-wheat pita for scooping up extra hummus at the bottom of the bowl.",
+  "prep_time": "25 minutes",
+  "total_time": "25 minutes",
+  "servings": "4",
+  "ingredients": [
+    "1 pound boneless, skinless chicken thighs, trimmed and cut into 1-inch pieces",
+    "3 tablespoons extra-virgin olive oil, divided",
+    "1 teaspoon ground cumin",
+    "1 teaspoon paprika",
+    "1/4 teaspoon cayenne pepper",
+    "1/4 teaspoon salt, divided",
+    "2 cloves garlic, finely chopped",
+    "2 tablespoons lemon juice",
+    "2 cups hummus",
+    "1 English cucumber, halved lengthwise and sliced",
+    "1 pint cherry tomatoes, halved",
+    "1/4 cup slivered red onion",
+    "1/4 cup chopped fresh parsley"
+  ],
+  "instructions": [
+    "Position rack in upper third of oven; preheat broiler to high. Line a rimmed baking sheet with foil.",
+    "Toss chicken with 1 tablespoon oil, cumin, paprika, cayenne and 1/8 teaspoon salt. Spread evenly on the prepared pan. Broil until just cooked through, 5 to 7 minutes.",
+    "Meanwhile, mash garlic and the remaining 1/8 teaspoon salt into a paste with a fork. Transfer to a medium bowl and whisk in lemon juice and the remaining 2 tablespoons oil. Add the chicken and let stand for 5 minutes, stirring occasionally.",
+    "Divide hummus among 4 shallow bowls or plates. Top with the chicken and any remaining dressing, cucumber, tomatoes, onion and parsley."
+  ],
+  "nutrition": {
+    "calories": "485",
+    "protein": "31.1g",
+    "carbohydrates": "27.3g",
+    "fiber": "9.6g",
+    "fat": "29.4g",
+    "saturated_fat": "5.2g",
+    "cholesterol": "104.1mg",
+    "sodium": "712.1mg"
+  },
+  "category": null,
+  "tags": ["dinner", "chicken", "healthy", "quick", "mediterranean", "middle eastern"]
+}

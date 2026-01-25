@@ -1,0 +1,57 @@
+{
+  "name": "Tofu Stir Fry",
+  "source_file": "Tofu Stir Fry.txt",
+  "description": "This quick and easy Sesame Soy Tofu Stir Fry is loaded with fresh and colorful vegetables and plant-based protein.",
+  "prep_time": "15 minutes",
+  "cook_time": "15 minutes",
+  "total_time": "30 minutes",
+  "servings": "4",
+  "ingredient_groups": {
+    "Sauce": [
+      "1/4 cup reduced-sodium soy sauce (or gluten-free soy sauce)",
+      "1/4 cup reduced-sodium vegetable broth",
+      "1 tablespoon honey (or brown sugar for vegan)"
+    ],
+    "Stir Fry": [
+      "16 ounces super firm tofu (drained, pressed)",
+      "1 tablespoon reduced-sodium soy sauce",
+      "2 tablespoons cornstarch or arrowroot powder",
+      "1 tablespoon neutral oil (such as grapeseed or canola)",
+      "1 tablespoon sesame oil",
+      "1 red bell pepper (diced 1/2 inch)",
+      "1 small bunch of broccolini (chopped 1-inch)",
+      "4 garlic cloves (minced)",
+      "1 tablespoon grated ginger",
+      "1 tablespoon sesame seeds (toasted)"
+    ]
+  },
+  "ingredients": [
+    "1/4 cup reduced-sodium soy sauce",
+    "1/4 cup reduced-sodium vegetable broth",
+    "1 tablespoon honey (or brown sugar for vegan)",
+    "16 ounces super firm tofu, drained and pressed",
+    "1 tablespoon soy sauce (for tofu)",
+    "2 tablespoons cornstarch or arrowroot powder",
+    "1 tablespoon neutral oil",
+    "1 tablespoon sesame oil",
+    "1 red bell pepper, diced",
+    "1 small bunch of broccolini, chopped",
+    "4 garlic cloves, minced",
+    "1 tablespoon grated ginger",
+    "1 tablespoon toasted sesame seeds"
+  ],
+  "instructions": [
+    "In a small bowl combine soy sauce, vegetable broth and honey. Set aside.",
+    "Once the tofu has drained, slice in half then into 1/2 inch cubes and place into a large bowl and season with 1 tablespoon soy sauce.",
+    "Sprinkle cornstarch on top and gently toss with your hands to ensure all tofu pieces are covered.",
+    "In a large nonstick skillet or wok, add 1 tablespoon oil and heat to medium-high.",
+    "Add the tofu and let it get crispy without touching it or flipping for 3-4 minutes, then repeat on all sides.",
+    "Remove tofu and set aside.",
+    "To the skillet at medium heat, add sesame oil, red peppers, broccolini and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook 30 to 60 seconds.",
+    "Add the tofu and sauce, toss and cook for an additional 1 to 2 minutes, or until sauce is slightly thickened and the tofu is heated through.",
+    "Top with sesame seeds."
+  ],
+  "category": null,
+  "tags": ["dinner", "tofu", "vegan", "vegetarian", "stir-fry", "asian", "healthy", "quick"]
+}

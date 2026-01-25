@@ -1,0 +1,28 @@
+{
+  "name": "French Onion Cabbage Soup",
+  "source_file": "French Onion Cabbage Soup.txt",
+  "description": "A hearty French onion-style soup with cabbage, topped with bread and melted cheese.",
+  "total_time": "1 hour 10 minutes",
+  "ingredients": [
+    "Broth",
+    "Cabbage",
+    "Onions",
+    "4 bread slices",
+    "Cheese",
+    "Butter"
+  ],
+  "instructions": [
+    "In a large saucepan or soup pot, bring broth to a boil.",
+    "Transfer cabbage and onions, along with cooking juices, to boiling broth. Reduce heat to medium-low and simmer, uncovered, for 30 minutes.",
+    "Drain cabbage and onions, reserving the broth. Ladle half of the cabbage and onions into a large, deep oven-proof casserole dish.",
+    "Arrange 4 bread slices on top and strew with 3/4 of the cheese. Ladle 1 1/2 cups of reserved broth into casserole.",
+    "Add remaining cabbage and onions on top and ladle remaining broth.",
+    "Top with remaining bread and cheese and dot with remaining butter.",
+    "Bake until cheese has melted and crust is golden, about 15 minutes."
+  ],
+  "notes": [
+    "Recipe text appears to be partial - may be missing initial ingredient quantities."
+  ],
+  "category": null,
+  "tags": ["soup", "french", "vegetarian", "comfort food", "winter"]
+}

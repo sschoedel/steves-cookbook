@@ -1,0 +1,65 @@
+{
+  "name": "Fish Tacos",
+  "source_file": "FISH TACOS (1 HR) 12 TACOS.txt",
+  "description": "Crispy panko-crusted fish tacos with hoisin mayo sauce.",
+  "total_time": "1 hour",
+  "servings": "12 tacos",
+  "ingredient_groups": {
+    "Hoisin Mayo Sauce": [
+      "1/2 cup mayonnaise",
+      "1/4 cup hoisin sauce",
+      "2 tablespoons sweet pickle relish",
+      "1 1/2 teaspoons fresh lemon juice"
+    ],
+    "Fish": [
+      "1 cup flour",
+      "1 teaspoon garlic powder",
+      "1 teaspoon onion powder",
+      "1 tablespoon kosher salt",
+      "1 teaspoon white pepper",
+      "1 lb tilapia fillets, cut into strips",
+      "2 large eggs, beaten",
+      "3 cups panko (Japanese bread crumbs)",
+      "3 cups vegetable oil, for frying"
+    ],
+    "For Serving": [
+      "12 corn tortillas, warmed",
+      "Shredded green cabbage",
+      "Lettuce leaves",
+      "Cilantro",
+      "Sliced scallions"
+    ]
+  },
+  "ingredients": [
+    "1/2 cup mayonnaise",
+    "1/4 cup hoisin sauce",
+    "2 tablespoons sweet pickle relish",
+    "1 1/2 teaspoons fresh lemon juice",
+    "1 cup flour",
+    "1 teaspoon garlic powder",
+    "1 teaspoon onion powder",
+    "1 tablespoon kosher salt",
+    "1 teaspoon white pepper",
+    "1 lb tilapia fillets, cut into strips",
+    "2 large eggs, beaten",
+    "3 cups panko (Japanese bread crumbs)",
+    "3 cups vegetable oil, for frying",
+    "12 corn tortillas, warmed",
+    "Shredded green cabbage",
+    "Lettuce leaves",
+    "Cilantro",
+    "Sliced scallions"
+  ],
+  "instructions": [
+    "In a bowl, whisk mayo with hoisin sauce, pickle relish and lemon juice. Set aside.",
+    "In a large resealable plastic bag, combine flour, garlic powder, onion powder, salt and white pepper. Seal bag and shake. Add fish and shake to coat.",
+    "Put eggs and panko in separate shallow bowls. Dip fish in egg and then in panko. Transfer fish to a wax paper-lined platter.",
+    "In a large, deep skillet, heat oil to 350°F. Add half the fish and fry over moderate heat, turning once, until golden, about 3 minutes. Drain fish on paper towel-lined platter. Repeat with remaining fish.",
+    "Serve fish in tortillas, passing hoisin mayo, cabbage, lettuce, cilantro and scallions for topping."
+  ],
+  "notes": [
+    "Cocktail pairing suggestion: Margarita made with Patron Silver."
+  ],
+  "category": null,
+  "tags": ["dinner", "fish", "mexican", "fried", "quick"]
+}

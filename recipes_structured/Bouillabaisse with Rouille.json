@@ -1,0 +1,59 @@
+{
+  "name": "Bouillabaisse with Rouille",
+  "source_file": "Bouillabaisse w Rouille.txt",
+  "description": "Classic French seafood stew with a rich saffron broth, served with toasted bread and spicy rouille sauce.",
+  "ingredient_groups": {
+    "Bouillabaisse": [
+      "1/2 cup olive oil",
+      "1 cup each chopped onion and leek",
+      "4 cloves garlic, mashed",
+      "1 can whole tomatoes",
+      "2 1/2 quarts water",
+      "1/2 teaspoon saffron",
+      "Fresh herb sprigs: thyme, parsley, fennel fronds, basil",
+      "1 tablespoon sea salt",
+      "3-4 lbs fish heads and trimmings",
+      "Toasted rustic bread",
+      "1 1/2 lbs mixed seafood: peeled shrimp, wild cod, halibut, sole, scrubbed mussels or clams"
+    ],
+    "Rouille": [
+      "1 roasted and peeled red bell pepper",
+      "1 roasted hot red chili pepper",
+      "1 tablespoon fresh lemon juice",
+      "1 potato, cooked in soup",
+      "1 1/2 teaspoons fine sea salt",
+      "1/3 cup extra virgin olive oil"
+    ]
+  },
+  "ingredients": [
+    "1/2 cup olive oil",
+    "1 cup each chopped onion and leek",
+    "4 cloves garlic, mashed",
+    "1 can whole tomatoes",
+    "2 1/2 quarts water",
+    "1/2 teaspoon saffron",
+    "Fresh herb sprigs: thyme, parsley, fennel fronds, basil",
+    "1 tablespoon sea salt",
+    "3-4 lbs fish heads and trimmings",
+    "Toasted rustic bread",
+    "1 1/2 lbs mixed seafood: peeled shrimp, wild cod, halibut, sole, scrubbed mussels or clams",
+    "1 roasted and peeled red bell pepper",
+    "1 roasted hot red chili pepper",
+    "1 tablespoon fresh lemon juice",
+    "1 potato, cooked in soup",
+    "1 1/2 teaspoons fine sea salt",
+    "1/3 cup extra virgin olive oil"
+  ],
+  "instructions": [
+    "Heat oil in tall pot over medium heat. Add onion and leek and cook gently until softened.",
+    "Stir in garlic and cook 1 minute, then add tomatoes, water, herbs, saffron, salt and fish bones (and shrimp shells). Bring to simmer, then reduce heat so broth bubbles slowly without boiling. Cook 30 minutes.",
+    "Strain broth into a large bowl and discard solids. Pour broth back in pot and bring to boil.",
+    "Add shrimp and cook until pink, 1-2 minutes. Add rest of fish and shellfish, cover and simmer until mussels or clams open.",
+    "Add salt and ground pepper if needed.",
+    "For the rouille: Puree the roasted red bell pepper, hot red chili pepper, lemon juice, cooked potato, and sea salt in a food processor until smooth.",
+    "Slowly add olive oil while processing to form a paste.",
+    "Serve bouillabaisse with toasted bread and rouille on the side."
+  ],
+  "category": null,
+  "tags": ["dinner", "seafood", "fish", "soup", "french", "mediterranean", "entertaining"]
+}

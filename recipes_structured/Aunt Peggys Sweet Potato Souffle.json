@@ -1,0 +1,31 @@
+{
+  "name": "Aunt Peggy's Sweet Potato Souffle",
+  "source": "Paula Deen",
+  "source_file": "Aunt Peggys Sweet Potato Souffle (Paula Deen).txt",
+  "description": "A classic Southern sweet potato casserole with a crunchy pecan topping.",
+  "prep_time": "15 minutes",
+  "cook_time": "20 minutes",
+  "total_time": "35 minutes",
+  "servings": "4-6",
+  "difficulty": "easy",
+  "ingredients": [
+    "3 cups cooked and mashed sweet potatoes (from about 2-3 small baked potatoes)",
+    "1 cup granulated sugar",
+    "3 eggs, beaten",
+    "1/2 cup milk",
+    "12 tablespoons unsalted butter, divided",
+    "1 tablespoon vanilla extract",
+    "1/2 teaspoon salt",
+    "1 cup light brown sugar, packed",
+    "1/2 cup self-rising cake flour",
+    "1 cup pecans, chopped"
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F. Lightly grease an 8-inch square baking dish.",
+    "In a large bowl, combine the sweet potatoes, sugar, eggs, milk, 3 tablespoons melted butter, vanilla and salt. Pour the mixture into the prepared baking dish.",
+    "For the topping: Combine the brown sugar, 4 tablespoons butter (softened at room temperature), flour, and pecans in a separate bowl. Crumble the topping over the sweet potato mixture.",
+    "Bake until golden and set, about 20 minutes."
+  ],
+  "category": null,
+  "tags": ["side dish", "southern", "dessert", "sweet", "baked", "comfort food", "holiday", "fall"]
+}

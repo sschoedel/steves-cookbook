@@ -1,0 +1,27 @@
+{
+  "name": "Roasted Chicken with Apples and Mixed Veggies",
+  "source_file": "Roasted Chicken w apples and mixed veggies.txt",
+  "description": "Seared chicken thighs and drumsticks roasted with carrots, garlic, onions, apples, and Brussels sprouts.",
+  "total_time": "1 hour 30 minutes",
+  "servings": "8",
+  "ingredients": [
+    "8 chicken thighs",
+    "8 chicken drumsticks",
+    "Salt and pepper to taste",
+    "1/4 cup olive oil",
+    "4 large carrots, sliced",
+    "12 garlic cloves, peeled",
+    "1 1/2 yellow onions, julienned",
+    "1 1/2 apples, chopped",
+    "1 pint Brussels sprouts, halved"
+  ],
+  "instructions": [
+    "In a large skillet, season chicken with salt, pepper, and olive oil. Sear in hot pan to brown outside and place entire pan with contents in the oven.",
+    "Bake at 375°F. Veggies will cook in varying times, so be aware not to add them too early, or they will overcook.",
+    "When chicken has been in the oven 15 minutes, add carrots and garlic cloves.",
+    "After another 15 minutes, add onions, apples, and Brussels sprouts.",
+    "Veggies and chicken should be fully cooked after 45 minutes total, but check thighs to make sure."
+  ],
+  "category": null,
+  "tags": ["dinner", "chicken", "roast", "one-pot", "fall", "healthy", "american"]
+}

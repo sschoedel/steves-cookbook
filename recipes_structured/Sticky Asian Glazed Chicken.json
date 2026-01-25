@@ -1,0 +1,32 @@
+{
+  "name": "Sticky Asian Glazed Chicken",
+  "source_file": "Sticky Asian Glazed Chicken.txt",
+  "author": "Alyssa Rivers",
+  "description": "Sticky Asian glazed chicken is tender and juicy chicken coated in a sticky-sweet Asian sauce. This meal is ready in just thirty minutes, and the flavor is incredible!",
+  "prep_time": "5 minutes",
+  "cook_time": "15 minutes",
+  "total_time": "20 minutes",
+  "servings": "4",
+  "ingredients": [
+    "1 pound thinly sliced chicken breasts or boneless chicken thighs",
+    "1 tablespoon olive oil",
+    "3/4 cup brown sugar",
+    "1/2 cup soy sauce",
+    "2 tablespoons hoisin sauce",
+    "1 tablespoon sweet chili sauce",
+    "1 tablespoon ginger, peeled and grated",
+    "Pinch of dried red pepper flakes to taste",
+    "1/2 teaspoon minced garlic",
+    "Juice of one lime",
+    "Salt and pepper",
+    "Sesame seeds for garnish",
+    "Chopped green onions for garnish"
+  ],
+  "instructions": [
+    "Heat a large skillet over medium high heat and add 1 Tbs of olive oil. Add the chicken and salt and pepper. Cook chicken about 3 minutes on each side or until thermometer reads 165 degrees and brown on each side. Set chicken aside on plate.",
+    "In the skillet whisk together brown sugar, soy sauce, hoisin sauce, sweet chili sauce, ginger, red pepper flakes, garlic and lime juice. Bring to a boil over medium heat for 1-2 minutes until sauce thickens.",
+    "Add chicken back to the sauce and coat each side with the sauce. Garnish with sesame seeds and chopped green onions."
+  ],
+  "category": null,
+  "tags": ["dinner", "chicken", "asian", "quick", "sweet", "sticky"]
+}

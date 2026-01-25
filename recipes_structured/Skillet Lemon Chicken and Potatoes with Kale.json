@@ -1,0 +1,38 @@
+{
+  "name": "Skillet Lemon Chicken and Potatoes with Kale",
+  "source": "EatingWell",
+  "source_file": "Skillet Lemon Chicken and Potatoes with Kale.txt",
+  "author": "Carolyn Casner",
+  "description": "This easy one-pan skillet-roasted lemon chicken is perfect for weeknight dinners. Juicy chicken thighs are cooked in the same pan as baby potatoes and kale for a satisfying meal with minimal cleanup.",
+  "ingredients": [
+    "3 tablespoons extra-virgin olive oil, divided",
+    "1 pound boneless, skinless chicken thighs, trimmed",
+    "1/2 teaspoon salt, divided",
+    "1/2 teaspoon ground pepper, divided",
+    "1 pound baby Yukon Gold potatoes, halved lengthwise",
+    "1/2 cup low-sodium chicken broth",
+    "1 large lemon, sliced and seeds removed",
+    "4 cloves garlic, minced",
+    "1 tablespoon chopped fresh tarragon",
+    "6 cups baby kale"
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees F.",
+    "Heat 1 tablespoon oil in a large cast-iron skillet over medium-high heat. Sprinkle chicken with 1/4 teaspoon each salt and pepper. Cook, turning once, until browned on both sides, about 5 minutes total. Transfer to a plate.",
+    "Add the remaining 2 tablespoons oil, potatoes and the remaining 1/4 teaspoon each salt and pepper to the pan. Cook the potatoes, cut-side down, until browned, about 3 minutes. Stir in broth, lemon, garlic and tarragon. Return the chicken to the pan.",
+    "Transfer the pan to the oven. Roast until the chicken is cooked through and the potatoes are tender, about 15 minutes. Stir kale into the mixture and roast until it has wilted, 3 to 4 minutes."
+  ],
+  "nutrition": {
+    "calories": "374",
+    "protein": "24.7g",
+    "carbohydrates": "25.6g",
+    "fiber": "2.9g",
+    "sugar": "1.8g",
+    "fat": "19.3g",
+    "saturated_fat": "3.9g",
+    "cholesterol": "75.5mg",
+    "sodium": "377.9mg"
+  },
+  "category": null,
+  "tags": ["dinner", "chicken", "skillet", "one-pot", "healthy", "kale", "lemon"]
+}

@@ -1,0 +1,73 @@
+{
+  "name": "Chicken Tikka Masala",
+  "source_file": "Chicken Tikka Masala.txt",
+  "description": "Classic Indian-style chicken in a creamy, spiced tomato sauce, served over basmati rice.",
+  "prep_time": "15 minutes",
+  "cook_time": "20 minutes",
+  "total_time": "35 minutes",
+  "servings": "4-6",
+  "ingredient_groups": {
+    "For the Chicken": [
+      "1 1/4 pounds boneless skinless chicken breasts, thighs, or a mix",
+      "6 tablespoons plain whole milk yogurt",
+      "1/2 tablespoon grated ginger",
+      "3 cloves garlic, minced",
+      "1 teaspoon cumin",
+      "1 teaspoon paprika",
+      "1 1/4 teaspoons salt"
+    ],
+    "For the Tikka Masala Sauce": [
+      "2 tablespoons canola oil, divided",
+      "1 small onion, thinly sliced (about 5 ounces, or 1 1/2 cups sliced)",
+      "2 teaspoons grated ginger",
+      "4 cloves garlic, minced",
+      "1 tablespoon ground coriander",
+      "2 teaspoons paprika",
+      "1 teaspoon garam masala",
+      "1/2 teaspoon turmeric",
+      "1/2 teaspoon freshly ground black pepper",
+      "1 (14-ounce) can crushed fire-roasted tomatoes",
+      "6 tablespoons plain whole milk yogurt",
+      "1/4 to 1/2 teaspoon cayenne pepper",
+      "1/2 teaspoon salt",
+      "Cooked rice, to serve",
+      "Cilantro, to garnish"
+    ]
+  },
+  "ingredients": [
+    "1 1/4 pounds boneless skinless chicken breasts or thighs",
+    "6 tablespoons plain whole milk yogurt (for chicken)",
+    "1/2 tablespoon grated ginger",
+    "3 cloves garlic, minced",
+    "1 teaspoon cumin",
+    "1 teaspoon paprika",
+    "1 1/4 teaspoons salt",
+    "2 tablespoons canola oil, divided",
+    "1 small onion, thinly sliced",
+    "2 teaspoons grated ginger (for sauce)",
+    "4 cloves garlic, minced (for sauce)",
+    "1 tablespoon ground coriander",
+    "2 teaspoons paprika (for sauce)",
+    "1 teaspoon garam masala",
+    "1/2 teaspoon turmeric",
+    "1/2 teaspoon black pepper",
+    "1 (14-ounce) can crushed fire-roasted tomatoes",
+    "6 tablespoons plain whole milk yogurt (for sauce)",
+    "1/4 to 1/2 teaspoon cayenne pepper",
+    "Cooked basmati rice, to serve",
+    "Cilantro, to garnish"
+  ],
+  "instructions": [
+    "Prepare the chicken: Trim chicken thighs of any extra fat. Chop into bite-sized pieces about 1/2 to 1-inch wide. Place the chicken pieces in a medium bowl.",
+    "Add the yogurt, ginger, garlic, cumin, paprika and salt. Using your hands, combine the chicken with the spices until the chicken is evenly coated.",
+    "Marinate the chicken: Cover the bowl with plastic wrap and let the chicken marinate in the fridge for at least 45 minutes or as long as overnight. (Marinating for 4 to 6 hours is perfect.)",
+    "Cook the chicken: In a large skillet, heat 1 tablespoon of canola oil over medium-high heat. Add the chicken thigh pieces and cook for about 6 to 7 minutes, until they're cooked through. Transfer to a plate and set aside.",
+    "Toast the spices: Wipe down the pan. Heat remaining canola oil over medium heat. Add the onions and cook for 5 minutes, until softened, stirring often.",
+    "Add the grated ginger, minced garlic, coriander, paprika, garam masala, turmeric, black pepper, salt, and cayenne. Let the spices cook until fragrant, about 30 seconds to a minute.",
+    "Make the sauce: Add the crushed tomatoes to the pan with the spices and let everything cook for 4 minutes, stirring often. Add the yogurt and stir to combine.",
+    "Simmer the sauce: Reduce the heat to medium-low and let the sauce simmer for another 4 minutes. Add the chicken pieces to the pan and coat with sauce.",
+    "Serve over cooked basmati rice and garnish with cilantro."
+  ],
+  "category": null,
+  "tags": ["dinner", "chicken", "indian", "spicy", "creamy", "comfort food"]
+}

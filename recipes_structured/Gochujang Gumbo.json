@@ -1,0 +1,35 @@
+{
+  "name": "Gochujang Gumbo",
+  "source": "Real Simple",
+  "source_file": "Gochujang Gumbo.txt",
+  "author": "Robin Bashinsky",
+  "description": "A fusion gumbo that's warming and spicy, with big flavor from andouille sausage, garlic, gochujang (Korean chile bean paste), and Fresno chiles.",
+  "prep_time": "45 minutes",
+  "total_time": "45 minutes",
+  "ingredients": [
+    "1 tablespoon canola oil",
+    "6 ounces chopped andouille sausage",
+    "2 cups chopped yellow onion (about 1 large)",
+    "1 1/4 cups chopped celery (about 2 large stalks)",
+    "1 1/4 cups chopped yellow bell pepper (about 1 large)",
+    "6 garlic cloves, chopped",
+    "2 tablespoons gochujang (Korean chile bean paste)",
+    "4 cups chicken broth",
+    "2 cups frozen sliced okra, thawed",
+    "1 tablespoon file powder",
+    "1/4 pound peeled and deveined raw medium shrimp",
+    "3 tablespoons red wine vinegar",
+    "1 teaspoon kosher salt",
+    "1/4 cup sliced scallions (about 3 small)",
+    "2 red Fresno chiles, seeded and minced"
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high. Add sausage, and cook, stirring occasionally, until browned, 5 to 6 minutes.",
+    "Add onion, celery, bell pepper, and garlic, and cook, stirring often, until onion is translucent, 3 to 4 minutes. Increase heat to high.",
+    "Add gochujang; cook, stirring often, until vegetables are very tender, 5 to 6 minutes. Add broth; bring to a boil.",
+    "Stir in okra and file powder, and cook until slightly viscous, about 5 minutes. Add shrimp, and cook until shrimp are pink and cooked through, 3 to 4 minutes.",
+    "Stir in vinegar and salt. Spoon into bowls; top with scallions and chiles."
+  ],
+  "category": null,
+  "tags": ["dinner", "soup", "seafood", "shrimp", "pork", "cajun", "korean", "spicy", "quick"]
+}

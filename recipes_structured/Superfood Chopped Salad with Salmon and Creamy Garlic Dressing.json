@@ -1,0 +1,42 @@
+{
+  "name": "Superfood Chopped Salad with Salmon and Creamy Garlic Dressing",
+  "source": "EatingWell",
+  "source_file": "Superfood Chopped Salad with Salmon and Creamy Garlic Dressing.txt",
+  "description": "Curly kale forms the base of this salad with a multitude of chopped veggies like broccoli, cabbage and carrots. Finish with rich salmon for protein and a drizzle of creamy yogurt dressing to bring it all together.",
+  "servings": "4",
+  "ingredients": [
+    "1 pound salmon fillet",
+    "1/2 cup low-fat plain yogurt",
+    "1/4 cup mayonnaise",
+    "2 tablespoons lemon juice",
+    "2 tablespoons grated Parmesan cheese",
+    "1 tablespoon finely chopped fresh parsley",
+    "1 tablespoon snipped fresh chives",
+    "2 teaspoons reduced-sodium tamari or soy sauce",
+    "1 medium clove garlic, minced",
+    "1/4 teaspoon ground pepper",
+    "8 cups chopped curly kale",
+    "2 cups chopped broccoli",
+    "2 cups chopped red cabbage",
+    "2 cups finely diced carrots",
+    "Sunflower seeds"
+  ],
+  "instructions": [
+    "Arrange rack in upper third of oven. Preheat broiler to high. Line a baking sheet with foil.",
+    "Place salmon on the prepared baking sheet, skin-side down. Broil, rotating the pan from front to back once, until the salmon is opaque in the center, 8 to 12 minutes. Cut into 4 portions.",
+    "Meanwhile, whisk yogurt, mayonnaise, lemon juice, Parmesan, parsley, chives, tamari (or soy sauce), garlic and pepper in a small bowl.",
+    "Combine kale, broccoli, cabbage, carrots and sunflower seeds in a large bowl. Add 3/4 cup of the dressing and toss to coat. Divide the salad among 4 dinner plates and top each with a piece of salmon and about 1 tablespoon of the remaining dressing."
+  ],
+  "nutrition": {
+    "calories": "409",
+    "protein": "31.9g",
+    "carbohydrates": "18.7g",
+    "fiber": "5.8g",
+    "fat": "24.2g",
+    "saturated_fat": "4.2g",
+    "cholesterol": "62.8mg",
+    "sodium": "356.4mg"
+  },
+  "category": null,
+  "tags": ["salad", "salmon", "seafood", "healthy", "kale", "superfood", "dinner"]
+}

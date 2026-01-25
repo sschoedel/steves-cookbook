@@ -1,0 +1,42 @@
+{
+  "name": "Cod with Tomato Cream Sauce",
+  "source": "EatingWell",
+  "source_file": "Cod with Tomato Cream Sauce.txt",
+  "description": "This silky tomato sauce with a touch of cream makes mild-flavored cod sing. Serve with farro or rice and a salad of mixed greens.",
+  "servings": "4",
+  "ingredients": [
+    "1 1/4 pounds cod or tilapia fillets, cut into 4 pieces",
+    "3 teaspoons chopped fresh thyme, divided",
+    "1/2 teaspoon salt, divided",
+    "1/4 teaspoon freshly ground pepper",
+    "1 tablespoon extra-virgin olive oil",
+    "1 shallot, chopped",
+    "2 cloves garlic, minced",
+    "3/4 cup white wine",
+    "1 (14-ounce) can diced tomatoes",
+    "1/4 cup heavy cream or half-and-half",
+    "1/2 teaspoon cornstarch"
+  ],
+  "instructions": [
+    "Season fish with 1 teaspoon thyme, 1/4 teaspoon salt and pepper.",
+    "Heat oil in a large skillet over medium heat. Add shallot, garlic and 1 teaspoon thyme; cook, stirring, until beginning to soften, about 1 minute.",
+    "Add wine, tomatoes and the fish to the pan; bring to a simmer. Cover and cook until the fish is cooked through, 4 to 6 minutes. Transfer the fish to a large plate; keep warm.",
+    "Whisk cream and cornstarch in a small bowl. Add to the pan, along with the remaining 1 teaspoon thyme and 1/4 teaspoon salt. Cook, stirring, for 1 minute.",
+    "Divide the fish and sauce among 4 shallow bowls."
+  ],
+  "notes": [
+    "Tip: For sustainably fished cod, choose U.S. Pacific cod or Atlantic cod from Iceland and the northeast Arctic."
+  ],
+  "nutrition": {
+    "calories": "219",
+    "protein": "18.6g",
+    "carbohydrates": "6.4g",
+    "fiber": "1.6g",
+    "fat": "9.8g",
+    "saturated_fat": "4.1g",
+    "cholesterol": "73.8mg",
+    "sodium": "493.9mg"
+  },
+  "category": null,
+  "tags": ["dinner", "fish", "creamy", "mediterranean", "healthy", "quick"]
+}

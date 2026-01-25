@@ -1,0 +1,43 @@
+{
+  "name": "Mexican Cabbage Soup",
+  "source": "EatingWell",
+  "source_file": "Mexican Cabbage Soup.txt",
+  "description": "Based on a popular weight-loss plan, this healthy cabbage soup recipe gets tons of flavor and a metabolism-boosting kick from spicy chiles.",
+  "total_time": "20 minutes",
+  "servings": "8",
+  "ingredients": [
+    "2 tablespoons extra-virgin olive oil",
+    "2 cups chopped onions",
+    "1 cup chopped carrot",
+    "1 cup chopped celery",
+    "1 cup chopped poblano or green bell pepper",
+    "4 large cloves garlic, minced",
+    "8 cups sliced cabbage",
+    "1 tablespoon tomato paste",
+    "1 tablespoon minced chipotle chiles in adobo sauce",
+    "1 teaspoon ground cumin",
+    "1/2 teaspoon ground coriander",
+    "4 cups low-sodium vegetable broth or chicken broth",
+    "4 cups water",
+    "2 (15 ounce) cans low-sodium pinto or black beans, rinsed",
+    "3/4 teaspoon salt",
+    "1/2 cup chopped fresh cilantro, plus more for serving",
+    "2 tablespoons lime juice"
+  ],
+  "instructions": [
+    "Heat oil in a large soup pot (8-quart or larger) over medium heat. Add onions, carrot, celery, poblano (or bell pepper) and garlic; cook, stirring frequently, until softened, 10 to 12 minutes. Add cabbage; cook, stirring occasionally, until slightly softened, about 10 minutes more. Add tomato paste, chipotle, cumin and coriander; cook, stirring, for 1 minute more.",
+    "Add broth, water, beans and salt. Cover and bring to a boil over high heat. Reduce heat and simmer, partially covered, until the vegetables are tender, about 10 minutes. Remove from heat and stir in cilantro and lime juice. Serve garnished with cheese, yogurt and/or avocado, if desired."
+  ],
+  "nutrition": {
+    "calories": "167",
+    "protein": "6.5g",
+    "carbohydrates": "27.1g",
+    "fiber": "8.7g",
+    "fat": "3.8g",
+    "saturated_fat": "0.6g",
+    "sodium": "408.1mg",
+    "potassium": "623.7mg"
+  },
+  "category": null,
+  "tags": ["soup", "mexican", "vegetarian", "healthy", "low-calorie", "cabbage", "beans"]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Cajun Jambalaya",
+  "source_file": "Cajun Jambalaya.txt",
+  "description": "Classic Cajun jambalaya with shrimp, chicken, and andouille sausage.",
+  "ingredient_groups": {
+    "Main Ingredients": [
+      "12 shrimp, peeled and deveined",
+      "4 oz chicken",
+      "Andouille sausage, sliced",
+      "1 tablespoon Creole seasoning",
+      "2 tablespoons olive oil",
+      "1/4 cup chopped onion",
+      "1/4 cup chopped green pepper",
+      "1/2 cup chopped celery",
+      "2 tablespoons chopped garlic",
+      "1/2 cup chopped tomatoes",
+      "1 teaspoon Worcestershire sauce",
+      "1 teaspoon hot sauce",
+      "3/4 cup rice",
+      "3 cups chicken stock",
+      "Bay leaves"
+    ],
+    "Creole Seasoning": [
+      "2 1/2 teaspoons paprika",
+      "2 tablespoons salt",
+      "1 tablespoon black pepper",
+      "1 tablespoon onion powder",
+      "1 tablespoon cayenne pepper",
+      "1 tablespoon oregano",
+      "1 tablespoon dried thyme"
+    ]
+  },
+  "ingredients": [
+    "12 shrimp, peeled and deveined",
+    "4 oz chicken",
+    "Andouille sausage, sliced",
+    "1 tablespoon Creole seasoning",
+    "2 tablespoons olive oil",
+    "1/4 cup chopped onion",
+    "1/4 cup chopped green pepper",
+    "1/2 cup chopped celery",
+    "2 tablespoons chopped garlic",
+    "1/2 cup chopped tomatoes",
+    "Bay leaves",
+    "1 teaspoon Worcestershire sauce",
+    "1 teaspoon hot sauce",
+    "3/4 cup rice",
+    "3 cups chicken stock",
+    "2 1/2 teaspoons paprika",
+    "2 tablespoons salt",
+    "1 tablespoon black pepper",
+    "1 tablespoon onion powder",
+    "1 tablespoon cayenne pepper",
+    "1 tablespoon oregano",
+    "1 tablespoon dried thyme"
+  ],
+  "instructions": [
+    "Combine shrimp, chicken and Creole seasoning - work in well.",
+    "In a large saucepan, heat oil with onions, peppers and celery for 3 minutes.",
+    "Add garlic, tomatoes, bay leaves, Worcestershire and hot sauces.",
+    "Stir in rice and slowly add broth.",
+    "Reduce heat to medium and cook until rice absorbs liquid, stirring occasionally, about 15 minutes.",
+    "When rice is tender, add shrimp, chicken and sausage.",
+    "Cook until done, about 10 minutes. Season to taste."
+  ],
+  "category": null,
+  "tags": ["dinner", "chicken", "seafood", "shrimp", "pork", "cajun", "southern", "one-pot", "spicy"]
+}

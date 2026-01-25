@@ -1,0 +1,116 @@
+{
+  "schema_version": "1.0",
+  "description": "Standardized section structure for Steve's Cookbook recipes",
+  "sections": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "description": "Recipe title/name"
+    },
+    "source": {
+      "type": "string",
+      "required": false,
+      "description": "Original source (website, cookbook, author)"
+    },
+    "source_images": {
+      "type": "array",
+      "items": "string",
+      "required": false,
+      "description": "Original image filenames (e.g., IMG_8120)"
+    },
+    "description": {
+      "type": "string",
+      "required": false,
+      "description": "Brief description or intro text about the recipe"
+    },
+    "prep_time": {
+      "type": "string",
+      "required": false,
+      "description": "Preparation time (e.g., '15 mins', '1 hour')"
+    },
+    "cook_time": {
+      "type": "string",
+      "required": false,
+      "description": "Cooking time (e.g., '30 mins', '2 hours')"
+    },
+    "total_time": {
+      "type": "string",
+      "required": false,
+      "description": "Total time if specified separately"
+    },
+    "servings": {
+      "type": "string",
+      "required": false,
+      "description": "Number of servings or yield (e.g., '4 servings', '6-8 people')"
+    },
+    "difficulty": {
+      "type": "string",
+      "required": false,
+      "enum": ["easy", "moderate", "advanced"],
+      "description": "Difficulty level if specified"
+    },
+    "ingredients": {
+      "type": "array",
+      "items": "string",
+      "required": true,
+      "description": "List of ingredients, each as a string with quantity and item"
+    },
+    "ingredient_groups": {
+      "type": "object",
+      "required": false,
+      "description": "Grouped ingredients (e.g., {'sauce': [...], 'main': [...]})"
+    },
+    "instructions": {
+      "type": "array",
+      "items": "string",
+      "required": true,
+      "description": "Step-by-step cooking instructions"
+    },
+    "equipment": {
+      "type": "array",
+      "items": "string",
+      "required": false,
+      "description": "Required equipment or tools"
+    },
+    "notes": {
+      "type": "array",
+      "items": "string",
+      "required": false,
+      "description": "Tips, variations, storage instructions, or other notes"
+    },
+    "nutrition": {
+      "type": "object",
+      "required": false,
+      "description": "Nutritional information per serving",
+      "properties": {
+        "calories": "string",
+        "protein": "string",
+        "carbohydrates": "string",
+        "fat": "string",
+        "fiber": "string",
+        "sodium": "string"
+      }
+    },
+    "category": {
+      "type": "string",
+      "required": false,
+      "enum": ["Steve's Signatures", "Steve Approved", null],
+      "description": "Recipe classification (to be filled in manually)"
+    },
+    "tags": {
+      "type": "array",
+      "items": "string",
+      "required": false,
+      "description": "Auto-generated tags for categorization"
+    }
+  },
+  "tag_vocabulary": {
+    "meal_type": ["breakfast", "brunch", "lunch", "dinner", "snack", "dessert", "appetizer", "side dish"],
+    "dish_type": ["soup", "stew", "salad", "sandwich", "pasta", "casserole", "stir-fry", "roast", "grilled", "baked", "fried", "braised", "slow cooker", "one-pot", "skillet"],
+    "protein": ["chicken", "beef", "pork", "lamb", "fish", "seafood", "shrimp", "tofu", "eggs", "turkey"],
+    "cuisine": ["italian", "mexican", "asian", "chinese", "japanese", "korean", "thai", "indian", "mediterranean", "french", "american", "cajun", "southern", "greek", "middle eastern"],
+    "dietary": ["vegetarian", "vegan", "gluten-free", "dairy-free", "low-carb", "keto", "healthy"],
+    "flavor_profile": ["savory", "sweet", "spicy", "tangy", "smoky", "creamy", "fresh", "rich"],
+    "occasion": ["weeknight", "meal prep", "entertaining", "holiday", "comfort food", "quick", "make-ahead", "summer", "fall", "winter"]
+  }
+}

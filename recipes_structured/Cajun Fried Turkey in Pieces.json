@@ -1,0 +1,59 @@
+{
+  "name": "Cajun Fried Turkey in Pieces",
+  "source": "The Chew - ABC",
+  "source_file": "Cajun Fried Turkey in Pieces.txt",
+  "author": "Mario Batali",
+  "description": "This Cajun Fried Turkey recipe will be a must have for this Thanksgiving!",
+  "total_time": "2+ hours",
+  "servings": "6-8",
+  "difficulty": "moderate",
+  "ingredient_groups": {
+    "Cajun Seasoning": [
+      "1/4 cup kosher salt",
+      "2 tablespoons smoked sweet paprika",
+      "4 teaspoons cayenne pepper",
+      "2 tablespoons garlic powder",
+      "1 tablespoon dried oregano",
+      "1 tablespoon dried thyme",
+      "2 teaspoons onion powder",
+      "1 tablespoon freshly ground black pepper"
+    ],
+    "Fried Turkey": [
+      "1 whole turkey (8 pounds)",
+      "6 cups buttermilk, divided",
+      "3 cups flour",
+      "Hot sauce (to serve)",
+      "Canola oil (for frying)"
+    ]
+  },
+  "ingredients": [
+    "1/4 cup kosher salt",
+    "2 tablespoons smoked sweet paprika",
+    "4 teaspoons cayenne pepper",
+    "2 tablespoons garlic powder",
+    "1 tablespoon dried oregano",
+    "1 tablespoon dried thyme",
+    "2 teaspoons onion powder",
+    "1 tablespoon freshly ground black pepper",
+    "1 whole turkey (8 pounds)",
+    "6 cups buttermilk, divided",
+    "3 cups flour",
+    "Hot sauce (to serve)",
+    "Canola oil (for frying)"
+  ],
+  "instructions": [
+    "In a small bowl, add the salt, paprika, cayenne pepper, garlic powder, oregano, thyme, onion powder, and pepper and mix to combine.",
+    "To break down the turkey, ask the butcher to cut the breasts in half lengthwise, then 4 times crosswise into pieces. Cut the thighs into 4 pieces and wings into 3 pieces. Cut the top portion off of the leg, discarding the meatless bottom portion of the leg, while keeping the bones in and skin on.",
+    "Place turkey pieces in a zip top bag or roasting pan. Whisk 3 cups of buttermilk and 3 tablespoons of the cajun spice mix to combine. Pour over turkey, seal or cover, and refrigerate overnight.",
+    "Place two baking racks inside of two baking sheets.",
+    "Remove the turkey pieces from the marinade to a baking rack fitted inside a baking sheet and allow to come to room temperature. Preheat canola oil in a large Dutch oven to 340°F.",
+    "Place flour in a baking dish and add 2 tablespoons of cajun spice blend. Add remaining buttermilk to a second baking dish. Dredge turkey pieces in flour and remove to the baking rack, shaking off any excess flour. Then dip in buttermilk mixture and back into the flour, shaking off any excess. Repeat with remaining pieces of turkey.",
+    "Place the dredged turkey into the fry oil and fry until golden brown and cooked through, or a meat thermometer reaches 160°F, about 6-8 minutes. Remove to a clean baking rack and repeat with all turkey pieces.",
+    "Season with salt. Serve with hot sauce."
+  ],
+  "notes": [
+    "Tip: Fry before dinner and keep warm in a 200°F oven. Place a baking rack inside of a baking sheet and place turkey on the baking rack to keep the skin crispy."
+  ],
+  "category": null,
+  "tags": ["dinner", "turkey", "fried", "cajun", "southern", "spicy", "holiday", "entertaining"]
+}

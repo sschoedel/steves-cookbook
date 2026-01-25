@@ -1,0 +1,50 @@
+{
+  "name": "Korean BBQ Short Ribs (Galbi)",
+  "source": "EatingWell",
+  "source_file": "Korean BBQ Short Ribs (Galbi).txt",
+  "description": "Sweet-and-savory Korean marinated short ribs. The longer you marinate these ribs, the better. Look for flanken-cut short ribs in the meat department or ask your butcher to cut them for you.",
+  "prep_time": "30 minutes",
+  "total_time": "2 hours 30 minutes",
+  "servings": "4",
+  "ingredient_groups": {
+    "Ribs": [
+      "1 large Asian pear or 2 firm ripe pears, peeled and grated",
+      "3 cloves garlic, grated",
+      "3 tablespoons reduced-sodium tamari",
+      "2 tablespoons toasted sesame oil",
+      "1 tablespoon packed brown sugar",
+      "2 teaspoons grated fresh ginger",
+      "1/4 teaspoon ground pepper",
+      "6 bone-in flanken-cut beef short ribs (about 1 1/2 pounds), trimmed"
+    ],
+    "For Serving": [
+      "12 small lettuce leaves",
+      "Perilla or shiso leaves (or mint as substitute)",
+      "Cooked rice",
+      "Ssamjang sauce",
+      "Kimchi (optional)"
+    ]
+  },
+  "ingredients": [
+    "1 large Asian pear or 2 firm ripe pears, peeled and grated",
+    "3 cloves garlic, grated",
+    "3 tablespoons reduced-sodium tamari",
+    "2 tablespoons toasted sesame oil",
+    "1 tablespoon packed brown sugar",
+    "2 teaspoons grated fresh ginger",
+    "1/4 teaspoon ground pepper",
+    "6 bone-in flanken-cut beef short ribs (about 1 1/2 pounds), trimmed",
+    "12 small lettuce leaves"
+  ],
+  "instructions": [
+    "To marinate ribs: Combine pear, garlic, tamari, oil, sugar, ginger and pepper in a medium bowl, stirring until the sugar dissolves. Add ribs and massage the marinade into them. Cover and refrigerate, stirring occasionally, for at least 2 hours or up to 1 day.",
+    "To grill ribs: Preheat grill to high.",
+    "Lightly oil the grill rack. Shake any excess marinade off the ribs. Grill, without crowding, 30 to 45 seconds per side for rare, or longer if desired. Let rest on a clean cutting board for 5 minutes, then cut each in half.",
+    "To serve: Assemble 12 lettuce wraps with 1 perilla leaf, 1/4 cup rice, one piece of meat and 1 teaspoon Ssamjang each. Garnish with kimchi, if desired."
+  ],
+  "notes": [
+    "Perilla leaves are slightly thick and minty tasting, often used in place of lettuce to wrap up foods in Korean cooking. Shiso or even large mint leaves make a good substitute."
+  ],
+  "category": null,
+  "tags": ["dinner", "beef", "korean", "grilled", "bbq", "asian", "make-ahead"]
+}

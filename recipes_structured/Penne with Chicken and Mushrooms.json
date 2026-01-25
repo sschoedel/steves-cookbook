@@ -1,0 +1,29 @@
+{
+  "name": "Penne with Chicken and Mushrooms",
+  "source_file": "Penne with Chicken and Mushrooms.txt",
+  "description": "Creamy penne pasta with chicken thighs, mushrooms, prosciutto, and tomatoes in a white wine cream sauce.",
+  "ingredients": [
+    "1 oz butter",
+    "1 tablespoon olive oil",
+    "1 onion, sliced",
+    "1 clove garlic, crushed",
+    "2 oz prosciutto, chopped",
+    "8 oz chicken thighs",
+    "4 oz mushrooms, sliced",
+    "1 tomato, peeled, halved and sliced",
+    "1 tablespoon tomato paste",
+    "1/2 cup white wine",
+    "1 cup cream",
+    "1 lb penne",
+    "Freshly grated Parmesan for serving"
+  ],
+  "instructions": [
+    "Heat the butter and oil in a large frying pan. Add onion and garlic and stir over low heat until the onion is tender. Add prosciutto to the pan and fry until crisp.",
+    "Add chicken thighs and cook until browned. Add mushrooms and cook until softened.",
+    "Add tomato, tomato paste, and white wine. Simmer until reduced.",
+    "Stir in cream and heat through.",
+    "Cook penne according to package directions. Drain and toss with sauce. Serve with freshly grated Parmesan."
+  ],
+  "category": null,
+  "tags": ["dinner", "pasta", "chicken", "italian", "creamy", "mushrooms"]
+}

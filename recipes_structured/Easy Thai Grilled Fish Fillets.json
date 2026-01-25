@@ -1,0 +1,57 @@
+{
+  "name": "Easy Thai Grilled Fish Fillets",
+  "source_file": "Easy Thai Grilled Fish Fillets Recipe.txt",
+  "description": "Creating amazing-tasting grilled fish starts with a delicious sauce. This Thai recipe combines soy sauce, oyster sauce, fish sauce, brown sugar, garlic, lime juice, and red chile pepper to make a mixture that acts as both marinade and dipping sauce.",
+  "prep_time": "10 minutes",
+  "cook_time": "10 minutes",
+  "total_time": "20 minutes",
+  "servings": "4",
+  "ingredient_groups": {
+    "Marinade/Sauce": [
+      "3 tablespoons oyster sauce",
+      "2 tablespoons soy sauce, more to taste",
+      "2 tablespoons lightly packed brown sugar",
+      "4 to 5 cloves garlic, minced",
+      "1 tablespoon freshly squeezed lime juice",
+      "2 teaspoons fish sauce, more to taste",
+      "1 red chile, minced"
+    ],
+    "Fish": [
+      "4 (6- to 8-ounce) skinless mild white fish fillets, such as snapper or cod",
+      "Neutral oil, such as vegetable or canola",
+      "Lime or lemon wedges, for garnish"
+    ]
+  },
+  "ingredients": [
+    "3 tablespoons oyster sauce",
+    "2 tablespoons soy sauce",
+    "2 tablespoons lightly packed brown sugar",
+    "4 to 5 cloves garlic, minced",
+    "1 tablespoon freshly squeezed lime juice",
+    "2 teaspoons fish sauce",
+    "1 red chile, minced",
+    "4 (6- to 8-ounce) skinless mild white fish fillets (snapper or cod)",
+    "Neutral oil (vegetable or canola)",
+    "Lime or lemon wedges, for garnish"
+  ],
+  "instructions": [
+    "In a medium bowl, stir together the oyster sauce, soy sauce, brown sugar, garlic, lime juice, fish sauce, and red chile until the sugar dissolves.",
+    "Place fish fillets in a flat-bottomed dish and pour over half of the marinade. Reserve the rest of the marinade for later. Turn fillets in sauce to coat all sides. Allow fish to marinate for at least 15 minutes while warming up the grill.",
+    "Heat the grill until hot but not blazing. You should hear a nice sizzle when you place the fish on the grill.",
+    "Lightly brush fish with oil.",
+    "Place fish on the grill and let sear undisturbed for at least 2 minutes. Grill fish for an additional 3 to 6 minutes per side (depending on thickness), until the internal temperature reaches 145°F, the fish flakes easily, and the flesh is no longer translucent.",
+    "Warm the remaining marinade or use it at room temperature as a glaze or dipping sauce. Garnish fish with fresh lime or lemon wedges, and serve."
+  ],
+  "notes": [
+    "If you'd rather cook the fish in the oven, place the fish in a covered baking dish along with the marinade. Bake at 400°F for 20 minutes, or until the fish flakes easily.",
+    "If the fish is too thin or delicate to grill, you may want to use a fish cage, or place aluminum foil or banana leaves over the grill grates. Both should be coated with oil to avoid sticking."
+  ],
+  "nutrition": {
+    "calories": "328",
+    "fat": "6g",
+    "carbohydrates": "32g",
+    "protein": "43g"
+  },
+  "category": null,
+  "tags": ["dinner", "fish", "thai", "asian", "grilled", "healthy", "spicy", "quick"]
+}

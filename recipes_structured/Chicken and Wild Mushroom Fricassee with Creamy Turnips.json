@@ -1,0 +1,74 @@
+{
+  "name": "Chicken and Wild Mushroom Fricassee with Creamy Turnips",
+  "source_file": "CHICKEN and WILD MUSHROOM FRICASSEE.txt",
+  "description": "Braised chicken thighs with wild mushrooms in a rich sauce, served with creamy turnip puree.",
+  "prep_time": "1 hour",
+  "total_time": "2 hours",
+  "servings": "6",
+  "ingredient_groups": {
+    "Chicken": [
+      "1/4 cup olive oil",
+      "6 chicken thighs with skin",
+      "Kosher salt and black pepper",
+      "1 onion, chopped",
+      "1 celery rib, chopped",
+      "2 garlic cloves, thinly sliced",
+      "4 oz wild mushrooms, chopped",
+      "1 tablespoon tomato paste",
+      "1/4 teaspoon cayenne pepper",
+      "1/2 cup dry white wine",
+      "1 bay leaf",
+      "2 thyme sprigs",
+      "1 carrot, chopped",
+      "4 cups low-sodium chicken broth"
+    ],
+    "Turnip Puree": [
+      "4 small turnips (1 1/2 lb), peeled and quartered",
+      "1 large Yukon Gold potato (8 oz), peeled and quartered",
+      "1 rosemary sprig",
+      "Kosher salt",
+      "1/4 cup heavy cream",
+      "6 tablespoons unsalted butter",
+      "Freshly ground black pepper"
+    ]
+  },
+  "ingredients": [
+    "1/4 cup olive oil",
+    "6 chicken thighs with skin",
+    "Kosher salt and black pepper",
+    "1 onion, chopped",
+    "1 celery rib, chopped",
+    "2 garlic cloves, thinly sliced",
+    "4 oz wild mushrooms, chopped",
+    "1 tablespoon tomato paste",
+    "1/4 teaspoon cayenne pepper",
+    "1/2 cup dry white wine",
+    "1 bay leaf",
+    "2 thyme sprigs",
+    "1 carrot, chopped",
+    "4 cups low-sodium chicken broth",
+    "4 small turnips (1 1/2 lb), peeled and quartered",
+    "1 large Yukon Gold potato (8 oz), peeled and quartered",
+    "1 rosemary sprig",
+    "1/4 cup heavy cream",
+    "6 tablespoons unsalted butter"
+  ],
+  "instructions": [
+    "In a large cast iron casserole, heat oil until shimmering. Season chicken with salt and pepper. Working in batches, brown chicken over moderately high heat, 5 to 7 minutes. Transfer to a plate.",
+    "Add onion, carrot and celery to casserole and cook over moderate heat, stirring occasionally, until lightly browned, 7 to 8 minutes.",
+    "Add garlic and mushrooms and cook 2 minutes. Stir in tomato paste and cayenne and cook, stirring, until deep mahogany, about 5 minutes.",
+    "Add wine, bay leaf and thyme and simmer for 2 minutes. Add broth and chicken and bring to a boil.",
+    "Cover and simmer over moderate heat until chicken is tender, about 1 hour.",
+    "For the turnip puree: In a medium saucepan, combine turnips and potatoes with rosemary and water to cover by 1 inch. Season with salt and bring to a boil.",
+    "Simmer vegetables over moderate heat until tender, 20-25 minutes. Drain vegetables and discard rosemary.",
+    "Transfer turnips and potato to a food processor, add cream and butter and puree until smooth. Season turnip puree with salt and pepper and keep warm.",
+    "Transfer chicken to a plate. Boil the cooking liquid until thickened and reduced to 2 1/2 cups, about 10 minutes. Discard bay leaf and thyme.",
+    "Coarsely shred the chicken and stir it into the reduced sauce, discarding skin and bones. Simmer gently until chicken is warmed through, about 2 minutes.",
+    "Serve chicken fricassee with creamy turnips."
+  ],
+  "notes": [
+    "Fricassee and turnip puree can be refrigerated separately for up to 2 days. Reheat gently."
+  ],
+  "category": null,
+  "tags": ["dinner", "chicken", "braised", "french", "creamy", "comfort food", "fall", "winter"]
+}

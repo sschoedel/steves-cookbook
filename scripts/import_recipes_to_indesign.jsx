@@ -62,23 +62,61 @@ function main() {
     var orderFile = new File(folder.parent.fsName + "/recipe_order.json");
     var orderedNames = null;
 
+    // Debug: show path being checked
+    var debugMsg = "Looking for order file at:\n" + orderFile.fsName + "\n\nFile exists: " + orderFile.exists;
+
     if (orderFile.exists) {
         orderedNames = readJSONFile(orderFile);
+        debugMsg += "\n\nOrder file read: " + (orderedNames ? "yes" : "no");
+        debugMsg += "\nOrder file length: " + (orderedNames ? orderedNames.length : 0);
+        debugMsg += "\nFirst 3 entries: " + (orderedNames ? orderedNames.slice(0, 3).join(", ") : "N/A");
+
         if (orderedNames && orderedNames.length > 0) {
-            // Sort files according to the order file
-            jsonFiles.sort(function(a, b) {
-                var aIndex = -1, bIndex = -1;
-                for (var i = 0; i < orderedNames.length; i++) {
-                    if (orderedNames[i] === a.name) aIndex = i;
-                    if (orderedNames[i] === b.name) bIndex = i;
+            // Build a map of filename -> file for quick lookup
+            // Note: File.name in ExtendScript returns URL-encoded names, so we decode them
+            var fileMap = {};
+            for (var i = 0; i < jsonFiles.length; i++) {
+                var decodedName = decodeURI(jsonFiles[i].name);
+                fileMap[decodedName] = jsonFiles[i];
+            }
+
+            // Debug: check if first order entry exists in map
+            var firstOrderName = orderedNames[0];
+            debugMsg += "\n\nLooking up: '" + firstOrderName + "'";
+            debugMsg += "\nFound in map: " + (fileMap[firstOrderName] ? "YES" : "NO");
+
+            // Build ordered array based on recipe_order.json
+            var orderedFiles = [];
+            for (var i = 0; i < orderedNames.length; i++) {
+                var fileName = orderedNames[i];
+                if (fileMap[fileName]) {
+                    orderedFiles.push(fileMap[fileName]);
+                    delete fileMap[fileName]; // Remove from map so we know what's left
                 }
-                // Files not in order list go to the end
-                if (aIndex === -1) aIndex = 9999;
-                if (bIndex === -1) bIndex = 9999;
-                return aIndex - bIndex;
-            });
+            }
+
+            // Add any remaining files not in the order list (at the end)
+            for (var fileName in fileMap) {
+                if (fileMap.hasOwnProperty(fileName)) {
+                    orderedFiles.push(fileMap[fileName]);
+                }
+            }
+
+            debugMsg += "\n\nOrdered files count: " + orderedFiles.length;
+            if (orderedFiles.length > 0) {
+                var first3 = [];
+                for (var d = 0; d < Math.min(3, orderedFiles.length); d++) {
+                    first3.push(orderedFiles[d].name);
+                }
+                debugMsg += "\nFirst 3 ordered: " + first3.join(", ");
+            }
+
+            jsonFiles = orderedFiles;
         }
+
+        alert(debugMsg);
     } else {
+        alert(debugMsg + "\n\nFalling back to alphabetical order.");
         // Fallback: sort alphabetically by name
         jsonFiles.sort(function(a, b) {
             return a.name.toLowerCase().localeCompare(b.name.toLowerCase());

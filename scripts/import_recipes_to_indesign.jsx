@@ -62,15 +62,8 @@ function main() {
     var orderFile = new File(folder.parent.fsName + "/recipe_order.json");
     var orderedNames = null;
 
-    // Debug: show path being checked
-    var debugMsg = "Looking for order file at:\n" + orderFile.fsName + "\n\nFile exists: " + orderFile.exists;
-
     if (orderFile.exists) {
         orderedNames = readJSONFile(orderFile);
-        debugMsg += "\n\nOrder file read: " + (orderedNames ? "yes" : "no");
-        debugMsg += "\nOrder file length: " + (orderedNames ? orderedNames.length : 0);
-        debugMsg += "\nFirst 3 entries: " + (orderedNames ? orderedNames.slice(0, 3).join(", ") : "N/A");
-
         if (orderedNames && orderedNames.length > 0) {
             // Build a map of filename -> file for quick lookup
             // Note: File.name in ExtendScript returns URL-encoded names, so we decode them
@@ -79,11 +72,6 @@ function main() {
                 var decodedName = decodeURI(jsonFiles[i].name);
                 fileMap[decodedName] = jsonFiles[i];
             }
-
-            // Debug: check if first order entry exists in map
-            var firstOrderName = orderedNames[0];
-            debugMsg += "\n\nLooking up: '" + firstOrderName + "'";
-            debugMsg += "\nFound in map: " + (fileMap[firstOrderName] ? "YES" : "NO");
 
             // Build ordered array based on recipe_order.json
             var orderedFiles = [];
@@ -102,21 +90,9 @@ function main() {
                 }
             }
 
-            debugMsg += "\n\nOrdered files count: " + orderedFiles.length;
-            if (orderedFiles.length > 0) {
-                var first3 = [];
-                for (var d = 0; d < Math.min(3, orderedFiles.length); d++) {
-                    first3.push(orderedFiles[d].name);
-                }
-                debugMsg += "\nFirst 3 ordered: " + first3.join(", ");
-            }
-
             jsonFiles = orderedFiles;
         }
-
-        alert(debugMsg);
     } else {
-        alert(debugMsg + "\n\nFalling back to alphabetical order.");
         // Fallback: sort alphabetically by name
         jsonFiles.sort(function(a, b) {
             return a.name.toLowerCase().localeCompare(b.name.toLowerCase());

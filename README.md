@@ -44,8 +44,9 @@ export MISTRAL_API_KEY=your_api_key_here
 ```
 steves-cookbook/
 ├── README.md                    # This file
-├── claude.md                    # Detailed project context for Claude sessions
+├── CLAUDE.md                    # Detailed project context for Claude sessions
 ├── recipe_sections.json         # Schema for recipe JSON structure
+├── recipe_order.json            # Cookbook order (generated)
 ├── recipe_mapping.json          # Maps original images to recipes
 ├── pyproject.toml               # Python dependencies (uses uv)
 ├── scripts/
@@ -54,7 +55,10 @@ steves-cookbook/
 │   ├── unify_recipes.py         # Pass 2: Main unification script
 │   ├── merge_pages.py           # Pass 2 helper: Merge multi-page recipes
 │   ├── rename_helper.py         # Pass 2 helper: Rename files
-│   └── cleanup_html_entities.py # Pass 2 helper: Clean HTML entities
+│   ├── cleanup_html_entities.py # Pass 2 helper: Clean HTML entities
+│   ├── generate_recipe_order.py # Generate cookbook order
+│   ├── import_recipes_to_indesign.jsx  # InDesign import script
+│   └── install_indesign_script.sh      # Install jsx to InDesign
 ├── prompts/
 │   └── structuring-prompt.md    # Prompt for Pass 4 recipe structuring
 ├── ocr_results/                 # Raw OCR output (1 txt per image)
@@ -85,6 +89,57 @@ Each recipe in `recipes_structured/` follows this schema:
 }
 ```
 
+## Recipe Breakdown
+
+| Category | Count | Examples |
+|----------|-------|----------|
+| **Appetizers & Dips** | 5 | Fried olives, crab dip, queso, carrot dip |
+| **Salads** | 5 | Asian cucumber, balsamic beet, ramen salad |
+| **Soups** | 8 | Chicken soup, lentil, cabbage, chili |
+| **Main Courses** | ~70 | See breakdown below |
+| **Side Dishes** | 14 | Mashed potatoes, green beans, grits |
+| **Desserts** | 7 | Apple cake, bread pudding, coconut pie |
+
+### Main Courses by Protein
+- **Chicken & Turkey:** 36 recipes
+- **Beef:** 8 recipes
+- **Pork:** 4 recipes
+- **Seafood & Fish:** 13 recipes
+- **Vegetarian & Vegan:** 7 recipes
+
+## Cookbook Order
+
+Recipes are organized for meal progression in `recipe_order.json`:
+
+1. Appetizers & Dips
+2. Salads
+3. Soups
+4. Main Courses (by protein: Chicken → Beef → Pork → Seafood → Vegetarian)
+5. Side Dishes
+6. Desserts
+
+Regenerate order after adding recipes:
+```bash
+python3 scripts/generate_recipe_order.py
+```
+
+## InDesign Export
+
+Import recipes into InDesign for cookbook layout:
+
+```bash
+# Install script to InDesign
+./scripts/install_indesign_script.sh
+
+# In InDesign: Window > Utilities > Scripts
+# Double-click import_recipes_to_indesign.jsx
+# Select the recipes_structured folder
+```
+
+**Page settings:** 8.25" × 10.25" (trims to 8" × 10"), 0.5" top/bottom margins, 1" left/right margins.
+
+After import, edit paragraph styles in InDesign to customize fonts, sizes, and formatting — all recipes update automatically.
+
 ## What's Next
 
 1. **Manual categorization:** Update `category` field in each JSON ("Steve's Signatures" vs "Steve Approved")
@@ -93,4 +148,4 @@ Each recipe in `recipes_structured/` follows this schema:
 
 ## Documentation
 
-See `claude.md` for detailed project context, tag vocabulary, and technical notes.
+See `CLAUDE.md` for detailed project context, tag vocabulary, and technical notes.

@@ -2,7 +2,7 @@
   "name": "Quick Chicken Cacciatore",
   "source": "Delicious Magazine",
   "source_file": "Quick Chicken Cacciatore.txt",
-  "description": "Traditional one-pot chicken cacciatore is a quick, flavoursome dinner idea best served with pasta.",
+  "description": "Traditional one-pot chicken cacciatore is a quick, flavoursome dinner idea best served with pasta or polenta.",
   "prep_time": "5 minutes",
   "cook_time": "25 minutes",
   "servings": "4",
@@ -10,15 +10,22 @@
   "ingredients": [
     "1 tablespoon olive oil",
     "4 chicken thigh cutlets, skin on and bone in",
-    "Salt and pepper"
+    "Salt and pepper",
+    "1 onion, chopped",
+    "2 garlic cloves, crushed",
+    "2 teaspoons chopped rosemary leaves",
+    "1 red capsicum (bell pepper), cut into strips",
+    "1 cup (120g) pitted green olives, halved",
+    "1 cup (250ml) red wine",
+    "400g can chopped tomatoes",
+    "1 tablespoon chopped flat-leaf parsley leaves",
+    "1 cup (170g) instant polenta, cooked to packet instructions (optional)"
   ],
   "instructions": [
-    "Heat oil in a large, deep frypan over medium heat. Pat the chicken dry with paper towel, then season and place, skin-side down, in the pan. Cook for 4 minutes or until skin is golden, then turn and cook until done.",
-    "Serve with pasta."
-  ],
-  "notes": [
-    "Recipe text was truncated in source - additional ingredients and steps may be needed for a complete cacciatore."
+    "Heat oil in a large, deep frypan over medium heat. Pat the chicken dry with paper towel, then season and place, skin-side down, in the pan. Cook for 4 minutes or until skin is golden, then turn and cook for a further 1 minute or until browned. Transfer to a plate.",
+    "Return the pan to medium heat with the onion and cook, stirring, for 2 minutes or until softened. Add the garlic and rosemary, then cook for a further 1 minute or until fragrant. Add the capsicum, olives and red wine, then cook for 3-4 minutes until the liquid is reduced by half. Add tomato, then return the chicken, skin-side up, to the pan. Bring to a simmer and cook for 12 minutes or until chicken is cooked through.",
+    "Garnish with parsley and serve with polenta, if desired."
   ],
   "category": null,
-  "tags": ["dinner", "chicken", "italian", "one-pot", "quick", "easy"]
+  "tags": ["dinner", "chicken", "italian", "one-pot", "quick", "easy", "olives", "braised"]
 }

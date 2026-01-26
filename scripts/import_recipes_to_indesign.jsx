@@ -436,14 +436,14 @@ function buildRecipeContent(recipe) {
                 addText(groupName, "ingredientGroup");
                 var groupIngredients = recipe.ingredient_groups[groupName];
                 for (var i = 0; i < groupIngredients.length; i++) {
-                    addText("• " + groupIngredients[i], "ingredient");
+                    addText("- " + groupIngredients[i], "ingredient");
                 }
             }
         }
     } else if (recipe.ingredients && recipe.ingredients.length > 0) {
         // Flat ingredients list (only if no groups exist)
         for (var i = 0; i < recipe.ingredients.length; i++) {
-            addText("• " + recipe.ingredients[i], "ingredient");
+            addText("- " + recipe.ingredients[i], "ingredient");
         }
     }
 
@@ -459,7 +459,7 @@ function buildRecipeContent(recipe) {
     if (recipe.notes && recipe.notes.length > 0) {
         addText("Notes", "sectionHeaderNotes");
         for (var i = 0; i < recipe.notes.length; i++) {
-            addText("• " + recipe.notes[i], "note");
+            addText("- " + recipe.notes[i], "note");
         }
     }
 

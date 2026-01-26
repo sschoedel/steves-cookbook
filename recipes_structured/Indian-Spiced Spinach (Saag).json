@@ -1,6 +1,6 @@
 {
   "name": "Indian-Spiced Spinach (Saag)",
-  "source_file": "INDIAN-SPICED SPINACH (SAAG).txt",
+  "source_file": "Indian-Spiced Spinach (Saag).txt",
   "author": "Sylvia",
   "description": "Indian-Spiced Spinach (also known as Saag) is a gluten-free side dish that can be made vegan or vegetarian, or with chicken. Layered with Indian flavours (onion, ginger, garlic, coriander, cumin, and cardamom), but simple to prepare.",
   "prep_time": "10 minutes",
@@ -22,14 +22,30 @@
     "1/2 cup plain yogurt (dairy or non-dairy, not sweetened)"
   ],
   "instructions": [
-    "Defrost and cook the spinach according to the package directions. Set aside."
+    "Defrost and cook the spinach according to the package directions. Set aside.",
+    "Fry the onions, ginger, and garlic in the oil over medium heat, for about 4 or 5 minutes or until lightly browning.",
+    "Add the dry spices and continue frying for another 15 minutes. You will need to stir this every few minutes or so. The mixture will get dryer as you fry it. Add a tablespoon of water when it gets too dry.",
+    "Add the spinach and yogurt and heat through.",
+    "Blend until the spinach is your desired consistency. Taste, and add salt as needed. Salt will bring out all of the flavours.",
+    "For variations: Stir in the paneer and/or chicken and heat through."
   ],
   "notes": [
     "Vegetarian variation: Add 1/2 cup paneer per person.",
-    "Meat-eater variation: Add 1 cup cooked chicken per person."
+    "Meat-eater variation: Add 1 cup cooked chicken per person.",
+    "Adapted from Aarti Sequeira's Paneer: Spinach with Indian Cheese recipe.",
+    "Using Fresh Spinach: You can make this recipe with fresh spinach as well. You will need about 10 cups of spinach. Steam it, then drain and chop it and set aside.",
+    "Storage and Reheating: This will keep for 2-3 days in the fridge. Reheat it over low heat and add water as needed to thin it to your desired consistency."
   ],
   "nutrition": {
-    "calories": "125"
+    "calories": "125kcal",
+    "carbohydrates": "9g",
+    "protein": "4g",
+    "fat": "8g",
+    "saturated_fat": "1g",
+    "cholesterol": "3mg",
+    "sodium": "76mg",
+    "fiber": "3g",
+    "sugar": "2g"
   },
   "category": null,
   "tags": ["side dish", "indian", "vegetarian", "vegan", "gluten-free", "healthy", "spinach", "quick"]

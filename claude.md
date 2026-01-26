@@ -33,8 +33,9 @@ The processing pipeline has 4 passes:
 ## Directory Structure
 ```
 steves-cookbook/
-├── claude.md                    # This file - project context
+├── CLAUDE.md                    # This file - project context
 ├── recipe_sections.json         # Pass 3: Section schema
+├── recipe_order.json            # Cookbook order (generated)
 ├── pyproject.toml               # Python project config (uses uv)
 ├── scripts/
 │   ├── ocr_batch.py             # Pass 1: Batch OCR script
@@ -42,7 +43,10 @@ steves-cookbook/
 │   ├── unify_recipes.py         # Pass 2: Main unification script
 │   ├── merge_pages.py           # Pass 2 helper: Merge multi-page recipes
 │   ├── rename_helper.py         # Pass 2 helper: Rename poorly-named files
-│   └── cleanup_html_entities.py # Pass 2 helper: Clean HTML entities
+│   ├── cleanup_html_entities.py # Pass 2 helper: Clean HTML entities
+│   ├── generate_recipe_order.py # Generates recipe_order.json
+│   ├── import_recipes_to_indesign.jsx  # InDesign import script
+│   └── install_indesign_script.sh      # Installs jsx to InDesign
 ├── prompts/
 │   └── structuring-prompt.md    # Prompt for Pass 4 recipe structuring
 ├── ocr_results/                 # Pass 1 output: Raw OCR (1 txt per image)
@@ -112,6 +116,88 @@ The `category` field is `null` by default. User should manually update to classi
 - ✅ All 4 passes of the pipeline complete
 - ✅ 108 recipes structured as JSON in `recipes_structured/`
 - ✅ Recipes include ingredients, instructions, notes, nutrition (when available), and auto-generated tags
+- ✅ InDesign import script created for cookbook layout
+
+## Recipe Breakdown by Category
+
+| Category | Count | Notes |
+|----------|-------|-------|
+| **Appetizers & Dips** | 5 | Olives, crab dip, queso, carrot dip, tomato burrata |
+| **Salads** | 5 | Mix of side salads (excludes main-course salads) |
+| **Soups** | 8 | Various soups including chili |
+| **Main Courses** | ~70 | See breakdown below |
+| **Side Dishes** | 14 | Potatoes, vegetables, grains |
+| **Desserts** | 7 | Cakes, pies, pudding, bars |
+
+### Main Course Breakdown
+- **Chicken & Turkey:** 36 recipes
+- **Beef:** 8 recipes
+- **Pork:** 4 recipes
+- **Seafood & Fish:** 13 recipes
+- **Vegetarian & Vegan:** 7 recipes
+- **Pasta:** 1 recipe (not categorized by protein)
+
+**Note:** No dedicated breakfast items in the collection.
+
+## Cookbook Order
+
+Recipes are ordered for a logical meal progression:
+
+1. **Appetizers & Dips** (5)
+2. **Salads** (5)
+3. **Soups** (8)
+4. **Main Courses** - organized by protein:
+   - Chicken & Turkey
+   - Beef
+   - Pork
+   - Seafood & Fish
+   - Vegetarian & Vegan
+   - Pasta
+5. **Side Dishes** (14)
+6. **Desserts** (7)
+
+The ordered list is stored in `recipe_order.json` and used by the InDesign import script.
+
+To regenerate the order (e.g., after adding recipes):
+```bash
+python3 scripts/generate_recipe_order.py
+```
+
+## InDesign Export
+
+### Scripts
+- `scripts/import_recipes_to_indesign.jsx` - Main InDesign script
+- `scripts/install_indesign_script.sh` - Copies script to InDesign Scripts Panel
+- `scripts/generate_recipe_order.py` - Generates `recipe_order.json`
+
+### Usage
+1. Run `python3 scripts/generate_recipe_order.py` to create/update recipe order
+2. Run `./scripts/install_indesign_script.sh` to install the InDesign script
+3. In InDesign: Window > Utilities > Scripts
+4. Double-click `import_recipes_to_indesign.jsx`
+5. Select the `recipes_structured` folder
+6. Edit paragraph styles in Window > Styles > Paragraph Styles
+
+### Document Settings (for print)
+- **Page size:** 8.25" × 10.25" (trims to 8" × 10" finished)
+- **Margins:** Top/bottom 0.5", Left/right 1"
+- **Single pages** (not facing)
+
+### Paragraph Styles Created
+- Recipe Title
+- Recipe Meta
+- Recipe Description
+- Section Header - Ingredients
+- Section Header - Instructions
+- Section Header - Notes
+- Ingredient Group
+- Ingredient
+- Instruction
+- Note
+- Tags
+- Nutrition Info
+
+After import, modify any style in InDesign and all text using that style updates automatically.
 
 ## What's Left To Do
 1. **Manual categorization:** Update `category` field in each JSON to classify as "Steve's Signatures" vs "Steve Approved"

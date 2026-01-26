@@ -2,24 +2,26 @@
   "name": "Fried Green Olives Stuffed with Blue Cheese",
   "source": "Epicurious / Bon Appetit",
   "source_file": "Fried Green Olives Stuffed with Blue Cheese.txt",
-  "description": "Crispy fried olives stuffed with blue cheese - a perfect appetizer.",
+  "description": "Crispy fried olives stuffed with mild blue cheese - a perfect appetizer.",
   "servings": "6",
   "ingredients": [
-    "Oil for frying (enough to measure 1 inch depth)",
-    "Green olives, stuffed with blue cheese",
-    "Flour, for dredging",
-    "Egg, beaten",
-    "Breadcrumbs"
+    "1 ounce mild blue cheese (such as Maytag)",
+    "24 pitted Spanish olives, patted dry",
+    "Peanut oil (for frying)",
+    "All purpose flour",
+    "1 large egg, beaten to blend",
+    "1/2 cup fine dry breadcrumbs"
   ],
   "instructions": [
-    "Pour enough oil into a heavy large skillet to measure depth of 1 inch. Heat oil to 350°F.",
+    "Roll small amount of cheese into log shape narrow enough to stuff into 1 pitted olive; stuff olive with cheese. Repeat with remaining olives and cheese. (Can be made 1 day ahead. Cover and chill.)",
+    "Pour enough oil into heavy large skillet to measure depth of 1 inch. Heat oil to 350°F.",
     "Roll stuffed olives in flour, then in egg, then in breadcrumbs to coat.",
     "Fry olives until golden brown, about 30 seconds.",
-    "Using slotted spoon, transfer olives to paper towels to drain.",
-    "Serve hot."
+    "Using slotted spoon, transfer olives to paper towels to drain. Serve hot."
   ],
   "notes": [
-    "Recipe text appears to be partial - may be missing full ingredient quantities."
+    "Make ahead: Stuffed olives can be made 1 day ahead. Cover and chill.",
+    "What to drink: A glass of bubbly would be perfect with the olives. Try Domaine Chandon Brut Classic."
   ],
   "nutrition": {
     "calories": "125",
@@ -32,5 +34,5 @@
     "cholesterol": "35mg"
   },
   "category": null,
-  "tags": ["appetizer", "fried", "entertaining"]
+  "tags": ["appetizer", "fried", "cheese", "olives", "entertaining"]
 }

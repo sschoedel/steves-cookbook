@@ -1,28 +1,26 @@
 {
   "name": "French Onion Cabbage Soup",
   "source_file": "French Onion Cabbage Soup.txt",
-  "description": "A hearty French onion-style soup with cabbage, topped with bread and melted cheese.",
+  "description": "A hearty French onion-style soup with cabbage, topped with day-old dark bread and melted cheese, baked until golden.",
   "total_time": "1 hour 10 minutes",
+  "servings": "6-8",
   "ingredients": [
-    "Broth",
-    "Cabbage",
-    "Onions",
-    "4 bread slices",
-    "Cheese",
-    "Butter"
+    "2 tablespoons butter",
+    "1 small head cabbage, cored and coarsely chopped",
+    "2 yellow onions, chopped",
+    "1 teaspoon salt",
+    "2 teaspoons black pepper",
+    "4 cups vegetable broth",
+    "6 slices day-old dark bread (rye or pumpernickel)",
+    "1/4 lb medium-dry cheese (such as Cantal, Edam, or Gruyere), grated"
   ],
   "instructions": [
-    "In a large saucepan or soup pot, bring broth to a boil.",
-    "Transfer cabbage and onions, along with cooking juices, to boiling broth. Reduce heat to medium-low and simmer, uncovered, for 30 minutes.",
-    "Drain cabbage and onions, reserving the broth. Ladle half of the cabbage and onions into a large, deep oven-proof casserole dish.",
-    "Arrange 4 bread slices on top and strew with 3/4 of the cheese. Ladle 1 1/2 cups of reserved broth into casserole.",
-    "Add remaining cabbage and onions on top and ladle remaining broth.",
-    "Top with remaining bread and cheese and dot with remaining butter.",
-    "Bake until cheese has melted and crust is golden, about 15 minutes."
-  ],
-  "notes": [
-    "Recipe text appears to be partial - may be missing initial ingredient quantities."
+    "Preheat oven to 375°F.",
+    "In a large skillet over medium heat, melt 1/2 tablespoon butter. Add cabbage, onions, salt and pepper. Reduce heat to medium-low, cover, and cook until cabbage has wilted and reduced in volume, 5 or 6 minutes. Stir and continue to cook another 5 or 6 minutes.",
+    "In a large saucepan or soup pot, bring broth to a boil. Transfer cabbage and onions, along with cooking juices, to boiling broth. Reduce heat to medium-low and simmer, uncovered, for 30 minutes.",
+    "Drain cabbage and onions, reserving the broth. Ladle half of the cabbage and onions into a large, deep oven-proof casserole dish. Arrange 4 bread slices on top and strew with 3/4 of the cheese. Ladle 1 1/2 cups of reserved broth into casserole. Add remaining cabbage and onions on top and ladle remaining broth.",
+    "Top with remaining bread and cheese and dot with remaining butter. Bake until cheese has melted and crust is golden, about 15 minutes."
   ],
   "category": null,
-  "tags": ["soup", "french", "vegetarian", "comfort food", "winter"]
+  "tags": ["soup", "french", "vegetarian", "comfort food", "winter", "cheese"]
 }

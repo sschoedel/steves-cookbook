@@ -1,15 +1,17 @@
 {
   "name": "Braised Beef Short Ribs",
-  "source": "Esquire",
-  "source_file": "Braised Beef Short Ribs (John Besh).txt",
+  "source": "Food Republic",
+  "source_file": "Braised Beef Short Ribs.txt",
   "author": "John Besh",
-  "description": "Fork-tender braised beef short ribs from the chef and owner of August in New Orleans.",
+  "description": "Fork-tender braised beef short ribs in Zinfandel with tomatoes, vegetables, and porcini mushrooms.",
+  "total_time": "3 hours",
+  "servings": "4",
   "ingredients": [
-    "Beef short ribs",
-    "Salt and pepper",
-    "Zinfandel wine",
-    "Sugar",
-    "Tomatoes",
+    "4 lbs beef short ribs, cut flanken style or English style",
+    "Coarse salt and black pepper",
+    "3 cups Zinfandel wine",
+    "1/2 cup sugar",
+    "6 oz canned chopped tomatoes",
     "2 cups beef broth",
     "1 tablespoon minced garlic",
     "3 sprigs fresh thyme, picked off stem",
@@ -18,20 +20,22 @@
     "1 large onion, diced (2 cups)",
     "2 medium carrots, diced (1/2 cup)",
     "2 stalks celery, diced (1/2 cup)",
-    "2 oz dried mushrooms"
+    "2 oz dried mushrooms, preferably porcini"
   ],
   "instructions": [
-    "Season short ribs with salt and pepper - be rather generous. In a mixing bowl, whisk together zinfandel, sugar, tomatoes, beef broth, garlic, thyme, bay leaves, and a pinch of salt.",
-    "Pour canola oil into a heavy pot or Dutch oven (at least 5 quarts) and place over high heat. When oil is hot, working in small batches, brown the meat. Turn each piece to brown on all sides before removing from the pot.",
-    "When all beef is browned and removed from pot, add onion, carrots, and celery, allowing onion to cook until browned, about 10 minutes, stirring frequently.",
-    "Return beef to the pot along with wine mixture. Allow wine to come to a boil before reducing heat, skimming fat from surface.",
-    "After simmering for several minutes, add mushrooms. Cover and simmer over very low heat until meat is fork tender and nearly falling off the bone, about 1 1/2 to 2 hours.",
-    "Once the beef has cooked, remove from pot and keep warm. Turn up heat and reduce the pot liquids until thickened, about 10 minutes. Season with salt and pepper to taste.",
-    "Transfer ribs to four shallow bowls, spooning liquid over top."
+    "Season the short ribs with salt and pepper; be rather generous.",
+    "In a mixing bowl, whisk together the Zinfandel, sugar, tomatoes, beef broth, garlic, thyme, bay leaves, and a pinch of salt.",
+    "Pour the canola oil into a heavy pot or Dutch oven (at least 5 quarts) and place over high heat. When the oil is hot, working in small batches, brown the meat. Turn each piece to brown on all sides before removing from the pot.",
+    "Remove the beef after browning, add the onion, carrots, and celery, allowing the onion to cook until browned, about 10 minutes, stirring frequently.",
+    "Return the beef to the pot along with the wine mixture. Allow the wine mixture to come to a boil before reducing heat, skimming fat from the surface.",
+    "After simmering for several minutes, add the mushrooms. Cover and simmer over very low heat until meat is fork tender and nearly falling off the bone, 1 1/2 to 2 hours.",
+    "Once the beef has cooked, remove from the pot and keep warm. Turn up the heat and reduce the pot liquid until thickened, about 10 minutes.",
+    "Season with salt and pepper to taste. Transfer the ribs to four shallow bowls, spooning the liquid over the top."
   ],
   "notes": [
+    "Ribs cut flanken style (across the bone) are easier to deal with than those cut English style (parallel to the bone), but are slightly more fatty.",
     "A sturdy pot that conducts heat well has a lot to do with the success of this dish. Get yourself a cast-iron pot."
   ],
-  "category": null,
-  "tags": ["dinner", "beef", "braised", "comfort food", "french", "rich", "fall", "winter"]
+  "category": "Steve's Signatures",
+  "tags": ["dinner", "beef", "braised", "comfort food", "wine", "fall", "winter"]
 }

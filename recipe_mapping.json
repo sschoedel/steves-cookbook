@@ -1,1521 +1,512 @@
 {
-  "recipes": [
-    {
-      "title": "CHICKEN &amp; WILD MUSHROOM FRICASSEE",
-      "files": [
-        "IMG_8120.txt"
-      ],
-      "source_stems": [
-        "IMG_8120"
-      ],
-      "complete": false
-    },
-    {
-      "title": "In 19 cast iron casserole, heat oil until shimmering. Season chicken with salt &amp; pepper. Work in batches browning chicken over moderately high heat, 5 to 7 minutes. Transfer to plate.",
-      "files": [
-        "IMG_8121.txt"
-      ],
-      "source_stems": [
-        "IMG_8121"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Beef Tenderloin with Creamy Mushroom Sauce",
-      "files": [
-        "IMG_8122.txt"
-      ],
-      "source_stems": [
-        "IMG_8122"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Instructions",
-      "files": [
-        "IMG_8123.txt",
-        "IMG_8124.txt"
-      ],
-      "source_stems": [
-        "IMG_8123",
-        "IMG_8124"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Smashed Potatoes (Garlic Parmesan)",
-      "files": [
-        "IMG_8125.txt",
-        "IMG_8126.txt"
-      ],
-      "source_stems": [
-        "IMG_8125",
-        "IMG_8126"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Crispy Sea Bass with Soba Noodles",
-      "files": [
-        "IMG_8127.txt"
-      ],
-      "source_stems": [
-        "IMG_8127"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Chicken in a Pot with Lemon Orzo",
-      "files": [
-        "IMG_8128.txt",
-        "IMG_8129.txt",
-        "IMG_8130.txt"
-      ],
-      "source_stems": [
-        "IMG_8128",
-        "IMG_8129",
-        "IMG_8130"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Italian Chicken and Vegetable Skillet",
-      "files": [
-        "IMG_8131.txt"
-      ],
-      "source_stems": [
-        "IMG_8131"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Sticky Asian Glazed Chicken",
-      "files": [
-        "IMG_8132.txt"
-      ],
-      "source_stems": [
-        "IMG_8132"
-      ],
-      "complete": true
-    },
-    {
-      "title": "epicurious",
-      "files": [
-        "IMG_8133.txt"
-      ],
-      "source_stems": [
-        "IMG_8133"
-      ],
-      "complete": false
-    },
-    {
-      "title": "2/4/2021",
-      "files": [
-        "IMG_8134.txt"
-      ],
-      "source_stems": [
-        "IMG_8134"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Fall-Apart Caramelized Cabbage",
-      "files": [
-        "IMG_8135.txt"
-      ],
-      "source_stems": [
-        "IMG_8135"
-      ],
-      "complete": false
-    },
-    {
-      "title": "12/30/2020",
-      "files": [
-        "IMG_8136.txt"
-      ],
-      "source_stems": [
-        "IMG_8136"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Asian Cucumber Salad",
-      "files": [
-        "IMG_8137.txt",
-        "IMG_8138.txt"
-      ],
-      "source_stems": [
-        "IMG_8137",
-        "IMG_8138"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Hearty One-Pot Lentil Stew",
-      "files": [
-        "IMG_8139.txt",
-        "IMG_8140.txt"
-      ],
-      "source_stems": [
-        "IMG_8139",
-        "IMG_8140"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Roast Chicken Breasts with Tarragon and Mustard Sauce",
-      "files": [
-        "IMG_8141.txt"
-      ],
-      "source_stems": [
-        "IMG_8141"
-      ],
-      "complete": false
-    },
-    {
-      "title": "8. Slice the chicken and nestle into the sauce. Sprinkle with a little more fresh tarragon.",
-      "files": [
-        "IMG_8142.txt"
-      ],
-      "source_stems": [
-        "IMG_8142"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Spicy Chicken Vegetable Stir Fry",
-      "files": [
-        "IMG_8143.txt",
-        "IMG_8144.txt",
-        "IMG_8145.txt"
-      ],
-      "source_stems": [
-        "IMG_8143",
-        "IMG_8144",
-        "IMG_8145"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Pork and Asparagus Stir-Fry",
-      "files": [
-        "IMG_8146.txt"
-      ],
-      "source_stems": [
-        "IMG_8146"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Chicken Stew",
-      "files": [
-        "IMG_8147.txt",
-        "IMG_8148.txt"
-      ],
-      "source_stems": [
-        "IMG_8147",
-        "IMG_8148"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Spiced Lentils with Carrots",
-      "files": [
-        "IMG_8149.txt"
-      ],
-      "source_stems": [
-        "IMG_8149"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Lazy Chicken-and-Sausage Cassoulet",
-      "files": [
-        "IMG_8150.txt"
-      ],
-      "source_stems": [
-        "IMG_8150"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Directions",
-      "files": [
-        "IMG_8151.txt"
-      ],
-      "source_stems": [
-        "IMG_8151"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Tofu Stir Fry",
-      "files": [
-        "IMG_8152.txt"
-      ],
-      "source_stems": [
-        "IMG_8152"
-      ],
-      "complete": false
-    },
-    {
-      "title": "delicious.",
-      "files": [
-        "IMG_8153.txt"
-      ],
-      "source_stems": [
-        "IMG_8153"
-      ],
-      "complete": false
-    },
-    {
-      "title": "1 onion, chopped",
-      "files": [
-        "IMG_8154.txt"
-      ],
-      "source_stems": [
-        "IMG_8154"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Seared Salmon with Summer Vegetables",
-      "files": [
-        "IMG_8155.txt",
-        "IMG_8156.txt"
-      ],
-      "source_stems": [
-        "IMG_8155",
-        "IMG_8156"
-      ],
-      "complete": false
-    },
-    {
-      "title": "INDIAN-SPICED SPINACH (SAAG)",
-      "files": [
-        "IMG_8158.txt"
-      ],
-      "source_stems": [
-        "IMG_8158"
-      ],
-      "complete": false
-    },
-    {
-      "title": "2 Fry the onions, ginger, and garlic in the oil over medium heat, for about 4 or 5 minutes or until lightly browning.",
-      "files": [
-        "IMG_8160.txt"
-      ],
-      "source_stems": [
-        "IMG_8160"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Lentil Soup",
-      "files": [
-        "IMG_8161.txt"
-      ],
-      "source_stems": [
-        "IMG_8161"
-      ],
-      "complete": false
-    },
-    {
-      "title": "7. Add a touch of water if you want to adjust soup consistency. Season to taste with salt and pepper. Grate over the zest of the lemon then add a squeeze of lemon juice just before serving. Garnish with parsley if desired and serve with warm crusty bread slathered liberally with butter!",
-      "files": [
-        "IMG_8162.txt"
-      ],
-      "source_stems": [
-        "IMG_8162"
-      ],
-      "complete": true
-    },
-    {
-      "title": "VEGAN MUSHROOM STEW",
-      "files": [
-        "IMG_8163.txt",
-        "IMG_8164.txt",
-        "IMG_8165.txt"
-      ],
-      "source_stems": [
-        "IMG_8163",
-        "IMG_8164",
-        "IMG_8165"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Vegetable Vindaloo",
-      "files": [
-        "IMG_8166.txt",
-        "IMG_8167.txt"
-      ],
-      "source_stems": [
-        "IMG_8166",
-        "IMG_8167"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Coconut Curry Salmon",
-      "files": [
-        "IMG_8168.txt",
-        "IMG_8169.txt"
-      ],
-      "source_stems": [
-        "IMG_8168",
-        "IMG_8169"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Got Coconut Milk? Make Ginataang Gulay, a Cozy Filipino Vegetable Stew",
-      "files": [
-        "IMG_8170.txt"
-      ],
-      "source_stems": [
-        "IMG_8170"
-      ],
-      "complete": false
-    },
-    {
-      "title": "zucchini and eggplant, and 6 to 8 minutes for sweet potatoes. Drain vegetables, and transfer to a baking sheet; set aside.",
-      "files": [
-        "IMG_8171.txt"
-      ],
-      "source_stems": [
-        "IMG_8171"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Chinese 5-Spice Skillet Chicken with Green Beans and Peppers",
-      "files": [
-        "IMG_8172.txt",
-        "IMG_8173.txt"
-      ],
-      "source_stems": [
-        "IMG_8172",
-        "IMG_8173"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Gochujang Gumbo",
-      "files": [
-        "IMG_8174.txt",
-        "IMG_8175.txt"
-      ],
-      "source_stems": [
-        "IMG_8174",
-        "IMG_8175"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Chinese Green Beans",
-      "files": [
-        "IMG_8176.txt"
-      ],
-      "source_stems": [
-        "IMG_8176"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Eight minutes over medium heat works for me (plus a minute after adding the sauce). But keep a close eye on them as you cook. Depending on how hot your stovetop runs, they might be ready faster.",
-      "files": [
-        "IMG_8177.txt"
-      ],
-      "source_stems": [
-        "IMG_8177"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Maryland Hot Crab Dip",
-      "files": [
-        "IMG_8178.txt",
-        "IMG_8179.txt"
-      ],
-      "source_stems": [
-        "IMG_8178",
-        "IMG_8179"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Roasted Chicken Legs with Potatoes and Kale",
-      "files": [
-        "IMG_8180.txt"
-      ],
-      "source_stems": [
-        "IMG_8180"
-      ],
-      "complete": false
-    },
-    {
-      "title": "FOOD52",
-      "files": [
-        "IMG_8181.txt"
-      ],
-      "source_stems": [
-        "IMG_8181"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Corn and Avocado Salad with Pan Seared Halibut",
-      "files": [
-        "IMG_8182.txt",
-        "IMG_8183.txt"
-      ],
-      "source_stems": [
-        "IMG_8182",
-        "IMG_8183"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Misoyaki Butterfish",
-      "files": [
-        "IMG_8184.txt"
-      ],
-      "source_stems": [
-        "IMG_8184"
-      ],
-      "complete": false
-    },
-    {
-      "title": "4 c. cooked brown rice",
-      "files": [
-        "IMG_8185.txt",
-        "IMG_8186.txt"
-      ],
-      "source_stems": [
-        "IMG_8185",
-        "IMG_8186"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Smoky Carrot Dip",
-      "files": [
-        "IMG_8187.txt"
-      ],
-      "source_stems": [
-        "IMG_8187"
-      ],
-      "complete": false
-    },
-    {
-      "title": "I shed baking sheet with 2 Tbsp. oil and 1 tsp. salt. Spread carrots out evenly on baking sheet and roast, stirring once or twice, until very tender and starting to shrivel and brown (but not char), about 1 hour.",
-      "files": [
-        "IMG_8188.txt"
-      ],
-      "source_stems": [
-        "IMG_8188"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Bread Pudding",
-      "files": [
-        "IMG_8211.txt",
-        "IMG_8212.txt"
-      ],
-      "source_stems": [
-        "IMG_8211",
-        "IMG_8212"
-      ],
-      "complete": false
-    },
-    {
-      "title": "BB's Apple Cake",
-      "files": [
-        "IMG_8213.txt",
-        "IMG_8214.txt"
-      ],
-      "source_stems": [
-        "IMG_8213",
-        "IMG_8214"
-      ],
-      "complete": false
-    },
-    {
-      "title": "1 MOSSIBLE PIE - COCONUT",
-      "files": [
-        "IMG_8215.txt",
-        "IMG_8216.txt"
-      ],
-      "source_stems": [
-        "IMG_8215",
-        "IMG_8216"
-      ],
-      "complete": false
-    },
-    {
-      "title": "No-Bake Chocolate Peanut Butter Bars",
-      "files": [
-        "IMG_8217.txt"
-      ],
-      "source_stems": [
-        "IMG_8217"
-      ],
-      "complete": true
-    },
-    {
-      "title": "2 of 4",
-      "files": [
-        "IMG_8218.txt"
-      ],
-      "source_stems": [
-        "IMG_8218"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Braised Beef Short Ribs Recipe: Esquire",
-      "files": [
-        "IMG_8219.txt"
-      ],
-      "source_stems": [
-        "IMG_8219"
-      ],
-      "complete": false
-    },
-    {
-      "title": "FOOD&amp;WINE",
-      "files": [
-        "IMG_8220.txt"
-      ],
-      "source_stems": [
-        "IMG_8220"
-      ],
-      "complete": false
-    },
-    {
-      "title": "7/17/2021",
-      "files": [
-        "IMG_8221.txt"
-      ],
-      "source_stems": [
-        "IMG_8221"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Get Allrecipes Magazine",
-      "files": [
-        "IMG_8222.txt"
-      ],
-      "source_stems": [
-        "IMG_8222"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Spicy Thai Basil Chicken (Pad Krapow Gai) Recipe | Allrecipes",
-      "files": [
-        "IMG_8223.txt"
-      ],
-      "source_stems": [
-        "IMG_8223"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Brothy Chicken with Ginger and Bok Choy",
-      "files": [
-        "IMG_8224.txt"
-      ],
-      "source_stems": [
-        "IMG_8224"
-      ],
-      "complete": false
-    },
-    {
-      "title": "11/14/2020",
-      "files": [
-        "IMG_8225.txt"
-      ],
-      "source_stems": [
-        "IMG_8225"
-      ],
-      "complete": false
-    },
-    {
-      "title": "SLOW COOKER CUBAN MOJO PORK",
-      "files": [
-        "IMG_8226.txt"
-      ],
-      "source_stems": [
-        "IMG_8226"
-      ],
-      "complete": false
-    },
-    {
-      "title": "INSTRUCTIONS",
-      "files": [
-        "IMG_8227.txt"
-      ],
-      "source_stems": [
-        "IMG_8227"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Winter Squash Carbonara with Pancetta and Sage",
-      "files": [
-        "IMG_8228.txt",
-        "IMG_8229.txt"
-      ],
-      "source_stems": [
-        "IMG_8228",
-        "IMG_8229"
-      ],
-      "complete": true
-    },
-    {
-      "title": "FISH TACOS (1 HR) 12 TACOS",
-      "files": [
-        "IMG_8230.txt",
-        "IMG_8231.txt"
-      ],
-      "source_stems": [
-        "IMG_8230",
-        "IMG_8231"
-      ],
-      "complete": false
-    },
-    {
-      "title": "SHORT RIBS - ERAISED",
-      "files": [
-        "IMG_8232.txt",
-        "IMG_8234.txt"
-      ],
-      "source_stems": [
-        "IMG_8232",
-        "IMG_8234"
-      ],
-      "complete": false
-    },
-    {
-      "title": "TACOS AL PASTOR (GRILLED PORK)",
-      "files": [
-        "IMG_8235.txt"
-      ],
-      "source_stems": [
-        "IMG_8235"
-      ],
-      "complete": false
-    },
-    {
-      "title": "UNTIL SOFTENED, ABOUT 3 MIN. LET COOL SLIGHTLY, DRAIN &amp; TRANSFER TO BLENDER. ADD ORANGE JUICE, LIME JUICE, SODA &amp; VINEGAR. IN SPICE GRINDER, GRIND ANNATTO W/OREGANO, CUMIN, CLOVE, SUGAR &amp; GARLIC POWDER UNTIL FINE. ADD SPICE MIXTURE TO BLENDER &amp; BLEND UNTIL SMOOTH. 2. TRANSFER MARINADE TO SAUCEPAN. ADD 2 TBS OIL &amp; LOOK OVER MOD. HEAT UNTIL VERY THICK (5 MIN). LET COOL. TRANSFER MARINADE TO LG, RESEALABLE &amp; AGA. &amp; MARINADE PORK &amp; ONION IN REF. OVERNIGHT. 3. SCRAPE OFF MOST OF MARINADE. BRUSH PORK &amp; ONION W/ OIL &amp; SEASON W/ S&amp;P. GRILL ABOUT 15 MIN. COVER W/ LOOSE FOIL ON WORK STATION ABOUT 10 MIN. 4. CUT PORK INTO STRIPS. SERVE PORK &amp; ONION W/ WARMED TORTIUTS. GRILLED PINEAPPLE, RED ONION &amp; CILANTRO.",
-      "files": [
-        "IMG_8236.txt"
-      ],
-      "source_stems": [
-        "IMG_8236"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Roasted Chicken w/ apples &amp; mixed veggies",
-      "files": [
-        "IMG_8237.txt",
-        "IMG_8238.txt"
-      ],
-      "source_stems": [
-        "IMG_8237",
-        "IMG_8238"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Tambalaya",
-      "files": [
-        "IMG_8239.txt"
-      ],
-      "source_stems": [
-        "IMG_8239"
-      ],
-      "complete": false
-    },
-    {
-      "title": "502 and Quille sausage sliced",
-      "files": [
-        "IMG_8240.txt"
-      ],
-      "source_stems": [
-        "IMG_8240"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Vegetable Weight-Loss Soup",
-      "files": [
-        "IMG_8241.txt"
-      ],
-      "source_stems": [
-        "IMG_8241"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Garlic Shrimp with Cilantro Spaghetti Squash",
-      "files": [
-        "IMG_8242.txt"
-      ],
-      "source_stems": [
-        "IMG_8242"
-      ],
-      "complete": false
-    },
-    {
-      "title": "EatingWell",
-      "files": [
-        "IMG_8243.txt"
-      ],
-      "source_stems": [
-        "IMG_8243"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Cod with Tomato Cream Sauce",
-      "files": [
-        "IMG_8244.txt"
-      ],
-      "source_stems": [
-        "IMG_8244"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Chicken Hummus Bowls",
-      "files": [
-        "IMG_8245.txt"
-      ],
-      "source_stems": [
-        "IMG_8245"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Slow-Cooker Korean Beef &amp; Cabbage Stew",
-      "files": [
-        "IMG_8246.txt"
-      ],
-      "source_stems": [
-        "IMG_8246"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Korean Beef Stir-Fry",
-      "files": [
-        "IMG_8247.txt"
-      ],
-      "source_stems": [
-        "IMG_8247"
-      ],
-      "complete": false
-    },
-    {
-      "title": "EatingWell",
-      "files": [
-        "IMG_8248.txt"
-      ],
-      "source_stems": [
-        "IMG_8248"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Cajun Jambalaya",
-      "files": [
-        "IMG_8249.txt"
-      ],
-      "source_stems": [
-        "IMG_8249"
-      ],
-      "complete": false
-    },
-    {
-      "title": "RECIPE FOR:",
-      "files": [
-        "IMG_8252.txt"
-      ],
-      "source_stems": [
-        "IMG_8252"
-      ],
-      "complete": false
-    },
-    {
-      "title": "2) Add chicken &amp; cook over medium heat 3 minutes. Add mushrooms &amp; cook another 2 minutes. Add tomato &amp; tomato paste &amp; stir until combined. Stir in wine &amp; bring to a boil. Reduce heat &amp; simmer until liquid is reduced by half.",
-      "files": [
-        "IMG_8253.txt"
-      ],
-      "source_stems": [
-        "IMG_8253"
-      ],
-      "complete": false
-    },
-    {
-      "title": "VAPPARDELLE w/ WHITE BOLGENSE",
-      "files": [
-        "IMG_8254.txt",
-        "IMG_8255.txt"
-      ],
-      "source_stems": [
-        "IMG_8254",
-        "IMG_8255"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Pappardelle w/ white Bolognese Cont'd",
-      "files": [
-        "IMG_8256.txt",
-        "IMG_8257.txt"
-      ],
-      "source_stems": [
-        "IMG_8256",
-        "IMG_8257"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Champagne Vinaigrette Recipe - Dressing",
-      "files": [
-        "IMG_8258.txt"
-      ],
-      "source_stems": [
-        "IMG_8258"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Bacon Wrapped Shrimp w/ Grits",
-      "files": [
-        "IMG_8259.txt"
-      ],
-      "source_stems": [
-        "IMG_8259"
-      ],
-      "complete": false
-    },
-    {
-      "title": "3T CHIPOTLE PEPPERS (in Adobo) 2c chicken stock",
-      "files": [
-        "IMG_8260.txt"
-      ],
-      "source_stems": [
-        "IMG_8260"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Bacon wrapped Shrimp w/Grits.. contd",
-      "files": [
-        "IMG_8261.txt",
-        "IMG_8262.txt"
-      ],
-      "source_stems": [
-        "IMG_8261",
-        "IMG_8262"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Bouillabaisse w/ Rouille",
-      "files": [
-        "IMG_8263.txt",
-        "IMG_8264.txt"
-      ],
-      "source_stems": [
-        "IMG_8263",
-        "IMG_8264"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Girl &amp; The Goat Green Beans",
-      "files": [
-        "IMG_8265.txt"
-      ],
-      "source_stems": [
-        "IMG_8265"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Recipes - Girl &amp; The Goal Green Beans",
-      "files": [
-        "IMG_8266.txt"
-      ],
-      "source_stems": [
-        "IMG_8266"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Fall-Apart Caramelized Cabbage",
-      "files": [
-        "IMG_8267.txt",
-        "IMG_8268.txt"
-      ],
-      "source_stems": [
-        "IMG_8267",
-        "IMG_8268"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Perfect Creamed Spinach",
-      "files": [
-        "IMG_8269.txt"
-      ],
-      "source_stems": [
-        "IMG_8269"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Instructions",
-      "files": [
-        "IMG_8270.txt"
-      ],
-      "source_stems": [
-        "IMG_8270"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Quick and Delicioso Cuban Style Black Beans",
-      "files": [
-        "IMG_8271.txt"
-      ],
-      "source_stems": [
-        "IMG_8271"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Brussels Sprouts with Bacon",
-      "files": [
-        "IMG_8272.txt",
-        "IMG_8273.txt"
-      ],
-      "source_stems": [
-        "IMG_8272",
-        "IMG_8273"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Roasted New Potatoes w/ Caramelized Onions &amp; Truffle Oil",
-      "files": [
-        "IMG_8274.txt",
-        "IMG_8275.txt"
-      ],
-      "source_stems": [
-        "IMG_8274",
-        "IMG_8275"
-      ],
-      "complete": false
-    },
-    {
-      "title": "CABBAGE SOUP",
-      "files": [
-        "IMG_8276.txt"
-      ],
-      "source_stems": [
-        "IMG_8276"
-      ],
-      "complete": false
-    },
-    {
-      "title": "In a large saucepan or soup pot, bring broth to a boil. Transfer cabbage &amp; onions, along with cooking juices to boiling broth. Reduce heat to med.-low &amp; simmer, uncovered, for 30 minutes.",
-      "files": [
-        "IMG_8277.txt"
-      ],
-      "source_stems": [
-        "IMG_8277"
-      ],
-      "complete": false
-    },
-    {
-      "title": "CLASSIC CHICKEN SOUP",
-      "files": [
-        "IMG_8278.txt"
-      ],
-      "source_stems": [
-        "IMG_8278"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Set aside.",
-      "files": [
-        "IMG_8279.txt"
-      ],
-      "source_stems": [
-        "IMG_8279"
-      ],
-      "complete": false
-    },
-    {
-      "title": "THE PUREST SALAD",
-      "files": [
-        "IMG_8280.txt"
-      ],
-      "source_stems": [
-        "IMG_8280"
-      ],
-      "complete": false
-    },
-    {
-      "title": "1 Preheat oven to 450\u00b0. Spread pinenuts in pie plate & toast about 3 min., golden brown. Toss brussels sprouts w/ 1 T. oil on g baking sheet, season w/ salt & pepper. Roast 15 min. until carmelized & slightly tender. 2 In small bowl, whisk lemon juice w/ honey, mustard, cayenne & chile powder. Slowly whisk in \u00bc cup olive oil & season w/ salt & pepper. 3 In 1g bowl, asscabbage w/ toasted pinenuts. In small skillet, heat remaining olive oil. Add garlic & cook over moderate heat until golden, about 1 min. Scrape garlic & hot oil over cabbage. Add brussels sprouts & toss, then add dressing & toss again. Scatter cheese shavings & serve right away.",
-      "files": [
-        "IMG_8281.txt"
-      ],
-      "source_stems": [
-        "IMG_8281"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Pork Noodle Soup",
-      "files": [
-        "IMG_8282.txt"
-      ],
-      "source_stems": [
-        "IMG_8282"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Put all ingredients into crack pot except Bok Choy, noodles &amp; cilantro",
-      "files": [
-        "IMG_8283.txt"
-      ],
-      "source_stems": [
-        "IMG_8283"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Balsamic Roasted Beet Salad",
-      "files": [
-        "IMG_8284.txt"
-      ],
-      "source_stems": [
-        "IMG_8284"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Mexican Cabbage Soup",
-      "files": [
-        "IMG_8285.txt"
-      ],
-      "source_stems": [
-        "IMG_8285"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Epicurious White Chicken Chili",
-      "files": [
-        "IMG_8286.txt"
-      ],
-      "source_stems": [
-        "IMG_8286"
-      ],
-      "complete": false
-    },
-    {
-      "title": "8/21/2021",
-      "files": [
-        "IMG_8287.txt"
-      ],
-      "source_stems": [
-        "IMG_8287"
-      ],
-      "complete": false
-    },
-    {
-      "title": "FOOD&amp;WINE",
-      "files": [
-        "IMG_8288.txt"
-      ],
-      "source_stems": [
-        "IMG_8288"
-      ],
-      "complete": false
-    },
-    {
-      "title": "7/19/2021",
-      "files": [
-        "IMG_8289.txt"
-      ],
-      "source_stems": [
-        "IMG_8289"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Chinese Ramen Salad",
-      "files": [
-        "IMG_8290.txt"
-      ],
-      "source_stems": [
-        "IMG_8290"
-      ],
-      "complete": false
-    },
-    {
-      "title": "allrecipes!",
-      "files": [
-        "IMG_8291.txt"
-      ],
-      "source_stems": [
-        "IMG_8291"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Honey Glazed Carrots",
-      "files": [
-        "IMG_8292.txt"
-      ],
-      "source_stems": [
-        "IMG_8292"
-      ],
-      "complete": false
-    },
-    {
-      "title": "FOOD&amp;WINE",
-      "files": [
-        "IMG_8293.txt"
-      ],
-      "source_stems": [
-        "IMG_8293"
-      ],
-      "complete": false
-    },
-    {
-      "title": "11/30/2015",
-      "files": [
-        "IMG_8294.txt"
-      ],
-      "source_stems": [
-        "IMG_8294"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Caramelized Onion and Cornbread Stuffing",
-      "files": [
-        "IMG_8295.txt"
-      ],
-      "source_stems": [
-        "IMG_8295"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Fresh Cranberry Compote",
-      "files": [
-        "IMG_8296.txt"
-      ],
-      "source_stems": [
-        "IMG_8296"
-      ],
-      "complete": false
-    },
-    {
-      "title": "11/30/2015",
-      "files": [
-        "IMG_8297.txt"
-      ],
-      "source_stems": [
-        "IMG_8297"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Roasted Garlic Mashed Potatoes",
-      "files": [
-        "IMG_8298.txt"
-      ],
-      "source_stems": [
-        "IMG_8298"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Cajun Fried Turkey in Pieces",
-      "files": [
-        "IMG_8299.txt"
-      ],
-      "source_stems": [
-        "IMG_8299"
-      ],
-      "complete": false
-    },
-    {
-      "title": "11/19/2018",
-      "files": [
-        "IMG_8300.txt"
-      ],
-      "source_stems": [
-        "IMG_8300"
-      ],
-      "complete": false
-    },
-    {
-      "title": "2/25/2015",
-      "files": [
-        "IMG_8301.txt"
-      ],
-      "source_stems": [
-        "IMG_8301"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Turkey - Pg 202 11/10 - make stock wea nigh",
-      "files": [
-        "IMG_8302.txt"
-      ],
-      "source_stems": [
-        "IMG_8302"
-      ],
-      "complete": false
-    },
-    {
-      "title": "MARY MC CHICKEN PASTA (4 servings)",
-      "files": [
-        "IMG_8303.txt",
-        "IMG_8304.txt"
-      ],
-      "source_stems": [
-        "IMG_8303",
-        "IMG_8304"
-      ],
-      "complete": false
-    },
-    {
-      "title": "FOOD&amp;WINE",
-      "files": [
-        "IMG_8305.txt"
-      ],
-      "source_stems": [
-        "IMG_8305"
-      ],
-      "complete": false
-    },
-    {
-      "title": "2/12/22, 1:23 PM",
-      "files": [
-        "IMG_8306.txt"
-      ],
-      "source_stems": [
-        "IMG_8306"
-      ],
-      "complete": false
-    },
-    {
-      "title": "French Onion Beef Noodle Soup",
-      "files": [
-        "IMG_8307.txt",
-        "IMG_8308.txt"
-      ],
-      "source_stems": [
-        "IMG_8307",
-        "IMG_8308"
-      ],
-      "complete": false
-    },
-    {
-      "title": "One-Pan Chicken &amp; Asparagus Bake",
-      "files": [
-        "IMG_8309.txt"
-      ],
-      "source_stems": [
-        "IMG_8309"
-      ],
-      "complete": false
-    },
-    {
-      "title": "12/27/21, 3:27 PM",
-      "files": [
-        "IMG_8310.txt"
-      ],
-      "source_stems": [
-        "IMG_8310"
-      ],
-      "complete": true
-    },
-    {
-      "title": "Crispy Curried Chicken Thighs With Wilted Greens",
-      "files": [
-        "IMG_8311.txt",
-        "IMG_8312.txt"
-      ],
-      "source_stems": [
-        "IMG_8311",
-        "IMG_8312"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Herbes de Provence Skillet Chicken with Potatoes and Greens",
-      "files": [
-        "IMG_8313.txt",
-        "IMG_8314.txt"
-      ],
-      "source_stems": [
-        "IMG_8313",
-        "IMG_8314"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Skillet Chermoula Chicken",
-      "files": [
-        "IMG_8315.txt",
-        "IMG_8316.txt"
-      ],
-      "source_stems": [
-        "IMG_8315",
-        "IMG_8316"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Easy Thai Grilled Fish Fillets Recipe",
-      "files": [
-        "IMG_8317.txt"
-      ],
-      "source_stems": [
-        "IMG_8317"
-      ],
-      "complete": false
-    },
-    {
-      "title": "02 In a medium bowl, stir together the oyster sauce, soy sauce, brown sugar, garlic, lime juice, fish sauce, and red chile until the sugar dissolves.",
-      "files": [
-        "IMG_8318.txt"
-      ],
-      "source_stems": [
-        "IMG_8318"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Skillet Chicken Thighs with Potatoes, Carrots, and Greens",
-      "files": [
-        "IMG_8319.txt",
-        "IMG_8320.txt"
-      ],
-      "source_stems": [
-        "IMG_8319",
-        "IMG_8320"
-      ],
-      "complete": false
-    },
-    {
-      "title": "Chicken Tikka Masala",
-      "files": [
-        "IMG_8321.txt",
-        "IMG_8322.txt",
-        "IMG_8323.txt"
-      ],
-      "source_stems": [
-        "IMG_8321",
-        "IMG_8322",
-        "IMG_8323"
-      ],
-      "complete": false
-    },
-    {
-      "title": "FOOD52",
-      "files": [
-        "IMG_8324.txt"
-      ],
-      "source_stems": [
-        "IMG_8324"
-      ],
-      "complete": false
-    },
-    {
-      "title": "FOOD52",
-      "files": [
-        "IMG_8325.txt"
-      ],
-      "source_stems": [
-        "IMG_8325"
-      ],
-      "complete": false
-    },
-    {
-      "title": "FOOD52",
-      "files": [
-        "IMG_8326.txt"
-      ],
-      "source_stems": [
-        "IMG_8326"
-      ],
-      "complete": false
-    },
-    {
-      "title": "epicurious",
-      "files": [
-        "IMG_8327.txt"
-      ],
-      "source_stems": [
-        "IMG_8327"
-      ],
-      "complete": false
-    },
-    {
-      "title": "EatingWell",
-      "files": [
-        "IMG_8328.txt"
-      ],
-      "source_stems": [
-        "IMG_8328"
-      ],
-      "complete": false
-    },
-    {
-      "title": "EatingWell",
-      "files": [
-        "IMG_8329.txt"
-      ],
-      "source_stems": [
-        "IMG_8329"
-      ],
-      "complete": true
-    },
-    {
-      "title": "EatingWell",
-      "files": [
-        "IMG_8330.txt"
-      ],
-      "source_stems": [
-        "IMG_8330"
-      ],
-      "complete": true
-    }
-  ],
-  "summary": {
-    "total": 143,
-    "multi_page": 37,
-    "single_page": 106
+  "Fried Green Olives Stuffed with Blue Cheese.json": {
+    "folder": "Fried_Green_Olives_Stuffed_with_Blue_Cheese",
+    "images": [],
+    "status": "pending"
+  },
+  "Maryland Hot Crab Dip.json": {
+    "folder": "Maryland_Hot_Crab_Dip",
+    "images": [],
+    "status": "pending"
+  },
+  "Philly Cheesesteak Queso.json": {
+    "folder": "Philly_Cheesesteak_Queso",
+    "images": [],
+    "status": "pending"
+  },
+  "Smoky Carrot Dip.json": {
+    "folder": "Smoky_Carrot_Dip",
+    "images": [],
+    "status": "pending"
+  },
+  "Stacked Tomato and Burrata Salad.json": {
+    "folder": "Stacked_Tomato_and_Burrata_Salad",
+    "images": [],
+    "status": "pending"
+  },
+  "Asian Cucumber Salad.json": {
+    "folder": "Asian_Cucumber_Salad",
+    "images": [],
+    "status": "pending"
+  },
+  "Balsamic Roasted Beet Salad.json": {
+    "folder": "Balsamic_Roasted_Beet_Salad",
+    "images": [],
+    "status": "pending"
+  },
+  "Champagne Vinaigrette.json": {
+    "folder": "Champagne_Vinaigrette",
+    "images": [],
+    "status": "pending"
+  },
+  "Chinese Ramen Salad.json": {
+    "folder": "Chinese_Ramen_Salad",
+    "images": [],
+    "status": "pending"
+  },
+  "The Purest Salad - Roasted Brussels Sprouts with Cabbage and Pine Nuts.json": {
+    "folder": "The_Purest_Salad_-_Roasted_Brussels_Sprouts_with_Cabbage_and_Pine_Nuts",
+    "images": [],
+    "status": "pending"
+  },
+  "Classic Chicken Soup.json": {
+    "folder": "Classic_Chicken_Soup",
+    "images": [],
+    "status": "links_created"
+  },
+  "French Onion Cabbage Soup.json": {
+    "folder": "French_Onion_Cabbage_Soup",
+    "images": [],
+    "status": "links_created"
+  },
+  "Lentil Soup.json": {
+    "folder": "Lentil_Soup",
+    "images": [],
+    "status": "links_created"
+  },
+  "Mexican Cabbage Soup.json": {
+    "folder": "Mexican_Cabbage_Soup",
+    "images": [],
+    "status": "links_created"
+  },
+  "Slow Cooker Pork Noodle Soup.json": {
+    "folder": "Slow_Cooker_Pork_Noodle_Soup",
+    "images": [],
+    "status": "links_created"
+  },
+  "Vegetable Weight-Loss Soup.json": {
+    "folder": "Vegetable_Weight-Loss_Soup",
+    "images": [],
+    "status": "links_created"
+  },
+  "White Chicken Chili.json": {
+    "folder": "White_Chicken_Chili",
+    "images": [],
+    "status": "links_created"
+  },
+  "Brothy Chicken with Ginger and Bok Choy.json": {
+    "folder": "Brothy_Chicken_with_Ginger_and_Bok_Choy",
+    "images": [],
+    "status": "links_created"
+  },
+  "Cajun Fried Turkey in Pieces.json": {
+    "folder": "Cajun_Fried_Turkey_in_Pieces",
+    "images": [],
+    "status": "links_created"
+  },
+  "Jambalaya.json": {
+    "folder": "Jambalaya",
+    "images": [],
+    "status": "links_created"
+  },
+  "Chicken Hummus Bowls.json": {
+    "folder": "Chicken_Hummus_Bowls",
+    "images": [],
+    "status": "links_created"
+  },
+  "Chicken Stew.json": {
+    "folder": "Chicken_Stew",
+    "images": [],
+    "status": "links_created"
+  },
+  "Chicken Tikka Masala.json": {
+    "folder": "Chicken_Tikka_Masala",
+    "images": [],
+    "status": "links_created"
+  },
+  "Chicken and Wild Mushroom Fricassee with Creamy Turnips.json": {
+    "folder": "Chicken_and_Wild_Mushroom_Fricassee_with_Creamy_Turnips",
+    "images": [],
+    "status": "links_created"
+  },
+  "Chicken in a Pot with Lemon Orzo.json": {
+    "folder": "Chicken_in_a_Pot_with_Lemon_Orzo",
+    "images": [],
+    "status": "links_created"
+  },
+  "Creamy Chicken and Mushrooms.json": {
+    "folder": "Creamy_Chicken_and_Mushrooms",
+    "images": [],
+    "status": "links_created"
+  },
+  "Crispy Chicken Thighs with Spring Vegetables.json": {
+    "folder": "Crispy_Chicken_Thighs_with_Spring_Vegetables",
+    "images": [],
+    "status": "links_created"
+  },
+  "Crispy Curried Chicken Thighs with Wilted Greens.json": {
+    "folder": "Crispy_Curried_Chicken_Thighs_with_Wilted_Greens",
+    "images": [],
+    "status": "links_created"
+  },
+  "Grilled Chicken Thigh and Cucumber Salad.json": {
+    "folder": "Grilled_Chicken_Thigh_and_Cucumber_Salad",
+    "images": [],
+    "status": "links_created"
+  },
+  "Herbes de Provence Skillet Chicken with Potatoes and Greens.json": {
+    "folder": "Herbes_de_Provence_Skillet_Chicken_with_Potatoes_and_Greens",
+    "images": [],
+    "status": "links_created"
+  },
+  "Honey-Garlic Chicken Thighs with Carrots and Broccoli.json": {
+    "folder": "Honey-Garlic_Chicken_Thighs_with_Carrots_and_Broccoli",
+    "images": [],
+    "status": "links_created"
+  },
+  "Ina Garten's Skillet-Roasted Lemon Chicken.json": {
+    "folder": "Ina_Gartens_Skillet-Roasted_Lemon_Chicken",
+    "images": [],
+    "status": "links_created"
+  },
+  "Italian Chicken and Vegetable Skillet.json": {
+    "folder": "Italian_Chicken_and_Vegetable_Skillet",
+    "images": [],
+    "status": "links_created"
+  },
+  "Lazy Chicken-and-Sausage Cassoulet.json": {
+    "folder": "Lazy_Chicken-and-Sausage_Cassoulet",
+    "images": [],
+    "status": "links_created"
+  },
+  "Marry Me Chicken Pasta.json": {
+    "folder": "Marry_Me_Chicken_Pasta",
+    "images": [],
+    "status": "links_created"
+  },
+  "One-Pan Chicken and Asparagus Bake.json": {
+    "folder": "One-Pan_Chicken_and_Asparagus_Bake",
+    "images": [],
+    "status": "links_created"
+  },
+  "One-Pan Roasted Chicken with Sherry Vinegar Sauce.json": {
+    "folder": "One-Pan_Roasted_Chicken_with_Sherry_Vinegar_Sauce",
+    "images": [],
+    "status": "links_created"
+  },
+  "Peanut Chicken Buddha Bowls.json": {
+    "folder": "Peanut_Chicken_Buddha_Bowls",
+    "images": [],
+    "status": "links_created"
+  },
+  "Penne with Chicken and Mushrooms.json": {
+    "folder": "Penne_with_Chicken_and_Mushrooms",
+    "images": [],
+    "status": "links_created"
+  },
+  "Quick Chicken Cacciatore.json": {
+    "folder": "Quick_Chicken_Cacciatore",
+    "images": [],
+    "status": "links_created"
+  },
+  "Roast Chicken Breasts with Tarragon and Mustard Sauce.json": {
+    "folder": "Roast_Chicken_Breasts_with_Tarragon_and_Mustard_Sauce",
+    "images": [],
+    "status": "links_created"
+  },
+  "Roasted Chicken Legs with Potatoes and Kale.json": {
+    "folder": "Roasted_Chicken_Legs_with_Potatoes_and_Kale",
+    "images": [],
+    "status": "links_created"
+  },
+  "Roasted Chicken with Apples and Mixed Veggies.json": {
+    "folder": "Roasted_Chicken_with_Apples_and_Mixed_Veggies",
+    "images": [],
+    "status": "links_created"
+  },
+  "Rosy Chicken.json": {
+    "folder": "Rosy_Chicken",
+    "images": [],
+    "status": "links_created"
+  },
+  "Skillet Chermoula Chicken.json": {
+    "folder": "Skillet_Chermoula_Chicken",
+    "images": [],
+    "status": "links_created"
+  },
+  "Skillet Chicken Thighs with Potatoes, Carrots, and Greens.json": {
+    "folder": "Skillet_Chicken_Thighs_with_Potatoes_Carrots_and_Greens",
+    "images": [],
+    "status": "links_created"
+  },
+  "Skillet Chicken with Corn and Miso Butter.json": {
+    "folder": "Skillet_Chicken_with_Corn_and_Miso_Butter",
+    "images": [],
+    "status": "links_created"
+  },
+  "Skillet Lemon Chicken and Potatoes with Kale.json": {
+    "folder": "Skillet_Lemon_Chicken_and_Potatoes_with_Kale",
+    "images": [],
+    "status": "links_created"
+  },
+  "Spicy Chicken Vegetable Stir Fry.json": {
+    "folder": "Spicy_Chicken_Vegetable_Stir_Fry",
+    "images": [],
+    "status": "links_created"
+  },
+  "Spicy Thai Basil Chicken (Pad Krapow Gai).json": {
+    "folder": "Spicy_Thai_Basil_Chicken_Pad_Krapow_Gai",
+    "images": [],
+    "status": "links_created"
+  },
+  "Sticky Asian Glazed Chicken.json": {
+    "folder": "Sticky_Asian_Glazed_Chicken",
+    "images": [],
+    "status": "links_created"
+  },
+  "Beef Tenderloin with Creamy Mushroom Sauce.json": {
+    "folder": "Beef_Tenderloin_with_Creamy_Mushroom_Sauce",
+    "images": [],
+    "status": "links_created"
+  },
+  "Braised Beef Short Ribs.json": {
+    "folder": "Braised_Beef_Short_Ribs",
+    "images": [],
+    "status": "links_created"
+  },
+  "French Onion Beef Noodle Soup.json": {
+    "folder": "French_Onion_Beef_Noodle_Soup",
+    "images": [],
+    "status": "links_created"
+  },
+  "Korean BBQ Short Ribs (Galbi).json": {
+    "folder": "Korean_BBQ_Short_Ribs_Galbi",
+    "images": [],
+    "status": "links_created"
+  },
+  "Korean Beef Stir-Fry.json": {
+    "folder": "Korean_Beef_Stir-Fry",
+    "images": [],
+    "status": "links_created"
+  },
+  "Pappardelle with White Bolognese.json": {
+    "folder": "Pappardelle_with_White_Bolognese",
+    "images": [],
+    "status": "links_created"
+  },
+  "Slow-Cooker Korean Beef and Cabbage Stew.json": {
+    "folder": "Slow-Cooker_Korean_Beef_and_Cabbage_Stew",
+    "images": [],
+    "status": "links_created"
+  },
+  "Gochujang Gumbo.json": {
+    "folder": "Gochujang_Gumbo",
+    "images": [],
+    "status": "links_created"
+  },
+  "Pork and Asparagus Stir-Fry.json": {
+    "folder": "Pork_and_Asparagus_Stir-Fry",
+    "images": [],
+    "status": "links_created"
+  },
+  "Slow Cooker Cuban Mojo Pork.json": {
+    "folder": "Slow_Cooker_Cuban_Mojo_Pork",
+    "images": [],
+    "status": "links_created"
+  },
+  "Tacos Al Pastor (Grilled Pork).json": {
+    "folder": "Tacos_Al_Pastor_Grilled_Pork",
+    "images": [],
+    "status": "links_created"
+  },
+  "Bacon Wrapped Shrimp with Grits.json": {
+    "folder": "Bacon_Wrapped_Shrimp_with_Grits",
+    "images": [],
+    "status": "links_created"
+  },
+  "Bouillabaisse with Rouille.json": {
+    "folder": "Bouillabaisse_with_Rouille",
+    "images": [],
+    "status": "links_created"
+  },
+  "Coconut Curry Salmon.json": {
+    "folder": "Coconut_Curry_Salmon",
+    "images": [],
+    "status": "links_created"
+  },
+  "Cod with Tomato Cream Sauce.json": {
+    "folder": "Cod_with_Tomato_Cream_Sauce",
+    "images": [],
+    "status": "links_created"
+  },
+  "Corn and Avocado Salad with Pan Seared Halibut.json": {
+    "folder": "Corn_and_Avocado_Salad_with_Pan_Seared_Halibut",
+    "images": [],
+    "status": "links_created"
+  },
+  "Crispy Sea Bass with Soba Noodles.json": {
+    "folder": "Crispy_Sea_Bass_with_Soba_Noodles",
+    "images": [],
+    "status": "links_created"
+  },
+  "Easy Thai Grilled Fish Fillets.json": {
+    "folder": "Easy_Thai_Grilled_Fish_Fillets",
+    "images": [],
+    "status": "links_created"
+  },
+  "Fish Tacos.json": {
+    "folder": "Fish_Tacos",
+    "images": [],
+    "status": "links_created"
+  },
+  "Garlic Shrimp with Cilantro Spaghetti Squash.json": {
+    "folder": "Garlic_Shrimp_with_Cilantro_Spaghetti_Squash",
+    "images": [],
+    "status": "links_created"
+  },
+  "Misoyaki Butterfish.json": {
+    "folder": "Misoyaki_Butterfish",
+    "images": [],
+    "status": "links_created"
+  },
+  "Seafood Stew for Two.json": {
+    "folder": "Seafood_Stew_for_Two",
+    "images": [],
+    "status": "links_created"
+  },
+  "Seared Salmon with Summer Vegetables.json": {
+    "folder": "Seared_Salmon_with_Summer_Vegetables",
+    "images": [],
+    "status": "links_created"
+  },
+  "Superfood Chopped Salad with Salmon and Creamy Garlic Dressing.json": {
+    "folder": "Superfood_Chopped_Salad_with_Salmon_and_Creamy_Garlic_Dressing",
+    "images": [],
+    "status": "links_created"
+  },
+  "Ginataang Gulay (Filipino Vegetable Stew).json": {
+    "folder": "Ginataang_Gulay_Filipino_Vegetable_Stew",
+    "images": [],
+    "status": "links_created"
+  },
+  "Hearty One-Pot Lentil Stew.json": {
+    "folder": "Hearty_One-Pot_Lentil_Stew",
+    "images": [],
+    "status": "links_created"
+  },
+  "Spiced Lentils with Carrots.json": {
+    "folder": "Spiced_Lentils_with_Carrots",
+    "images": [],
+    "status": "links_created"
+  },
+  "Tofu Stir Fry.json": {
+    "folder": "Tofu_Stir_Fry",
+    "images": [],
+    "status": "links_created"
+  },
+  "Vegan Mushroom Stew.json": {
+    "folder": "Vegan_Mushroom_Stew",
+    "images": [],
+    "status": "links_created"
+  },
+  "Vegetable Vindaloo.json": {
+    "folder": "Vegetable_Vindaloo",
+    "images": [],
+    "status": "links_created"
+  },
+  "Winter Squash Carbonara with Pancetta and Sage.json": {
+    "folder": "Winter_Squash_Carbonara_with_Pancetta_and_Sage",
+    "images": [],
+    "status": "links_created"
+  },
+  "Brussels Sprouts with Bacon.json": {
+    "folder": "Brussels_Sprouts_with_Bacon",
+    "images": [],
+    "status": "links_created"
+  },
+  "Caramelized Onion and Cornbread Stuffing.json": {
+    "folder": "Caramelized_Onion_and_Cornbread_Stuffing",
+    "images": [],
+    "status": "links_created"
+  },
+  "Cheese Grits.json": {
+    "folder": "Cheese_Grits",
+    "images": [],
+    "status": "links_created"
+  },
+  "Chinese Green Beans.json": {
+    "folder": "Chinese_Green_Beans",
+    "images": [],
+    "status": "links_created"
+  },
+  "Fall-Apart Caramelized Cabbage.json": {
+    "folder": "Fall-Apart_Caramelized_Cabbage",
+    "images": [],
+    "status": "links_created"
+  },
+  "Girl and The Goat Green Beans.json": {
+    "folder": "Girl_and_The_Goat_Green_Beans",
+    "images": [],
+    "status": "links_created"
+  },
+  "Honey Glazed Carrots.json": {
+    "folder": "Honey_Glazed_Carrots",
+    "images": [],
+    "status": "links_created"
+  },
+  "Indian-Spiced Spinach (Saag).json": {
+    "folder": "Indian-Spiced_Spinach_Saag",
+    "images": [],
+    "status": "links_created"
+  },
+  "Perfect Creamed Spinach.json": {
+    "folder": "Perfect_Creamed_Spinach",
+    "images": [],
+    "status": "links_created"
+  },
+  "Quick and Delicioso Cuban Style Black Beans.json": {
+    "folder": "Quick_and_Delicioso_Cuban_Style_Black_Beans",
+    "images": [],
+    "status": "links_created"
+  },
+  "Roasted Garlic Mashed Potatoes.json": {
+    "folder": "Roasted_Garlic_Mashed_Potatoes",
+    "images": [],
+    "status": "links_created"
+  },
+  "Roasted New Potatoes with Caramelized Onions and Truffle Oil.json": {
+    "folder": "Roasted_New_Potatoes_with_Caramelized_Onions_and_Truffle_Oil",
+    "images": [],
+    "status": "links_created"
+  },
+  "Smashed Potatoes (Garlic Parmesan).json": {
+    "folder": "Smashed_Potatoes_Garlic_Parmesan",
+    "images": [],
+    "status": "links_created"
+  },
+  "Aunt Peggys Sweet Potato Souffle.json": {
+    "folder": "Aunt_Peggys_Sweet_Potato_Souffle",
+    "images": [],
+    "status": "links_created"
+  },
+  "BB's Apple Cake.json": {
+    "folder": "BBs_Apple_Cake",
+    "images": [],
+    "status": "links_created"
+  },
+  "Bread Pudding.json": {
+    "folder": "Bread_Pudding",
+    "images": [],
+    "status": "links_created"
+  },
+  "Cinnamon Apple Cranberry Sauce.json": {
+    "folder": "Cinnamon_Apple_Cranberry_Sauce",
+    "images": [],
+    "status": "links_created"
+  },
+  "Fresh Cranberry Compote.json": {
+    "folder": "Fresh_Cranberry_Compote",
+    "images": [],
+    "status": "links_created"
+  },
+  "Impossible Coconut Pie.json": {
+    "folder": "Impossible_Coconut_Pie",
+    "images": [],
+    "status": "links_created"
+  },
+  "No-Bake Chocolate Peanut Butter Bars.json": {
+    "folder": "No-Bake_Chocolate_Peanut_Butter_Bars",
+    "images": [],
+    "status": "links_created"
   }
 }
